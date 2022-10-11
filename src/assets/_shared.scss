@@ -1,0 +1,22 @@
+// Fonts
+$font-family: 'Noto Sans Mono', Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+
+// Colors
+$clr-neutral-100: #ffffff;
+$clr-neutral-900: #000000;
+
+// Mixins
+@mixin flex-row($gap: null, $align: null, $justify: null) {
+  display: flex;
+  gap: $gap;
+  align-items: $align;
+  justify-content: $justify;
+}
+
+@mixin flex-col($gap: null, $align: null, $justify: null) {
+  display: flex;
+  flex-direction: column;
+  gap: $gap;
+  align-items: $align;
+  justify-content: $justify;
+}

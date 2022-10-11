@@ -1,0 +1,36 @@
+@use './assets/shared' as *;
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@200;300;400;600&display=swap');
+
+// General rules
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  background: $clr-neutral-900;
+  color: $clr-neutral-100;
+  font-family: $font-family;
+}
+
+.App {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+h1, h2, ul, p {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
