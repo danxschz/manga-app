@@ -1,0 +1,15 @@
+@use '../../assets/shared' as *;
+
+.content {
+  width: min(90%, 1500px);
+  margin-inline: auto;
+  padding-block: 1.5rem;
+  font-size: 0.95rem;
+
+  img {
+    width: min(60%, 1263px);
+    position: fixed;
+    right: -19%;
+    bottom: 0;
+  }
+}
