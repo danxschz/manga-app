@@ -35,6 +35,10 @@
 .logo {
   font-size: 1.5rem;
   font-weight: 300;
+
+  &:hover, &:focus, &:active {
+    animation: hvr-buzz 0.25s linear infinite;
+  }
 }
 
 .button {
@@ -62,4 +66,15 @@
   height: 0.5rem;
   background: $clr-neutral-100;
   transition: background-color 0.3s;
+}
+
+// Logo hover animation
+@keyframes hvr-buzz {
+  50% {
+    transform: translateX(3px) rotate(2deg);
+  }
+
+  100% {
+    transform: translateX(-3px) rotate(-2deg);
+  }
 }

@@ -1,13 +1,13 @@
 import styles from './Footer.module.scss';
-import image from '../../assets/works/n.png';
+import footer from '../../assets/img/footer.png';
 
 const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.content}>
         <p>Copyright © 2022 Ito Horrors</p>
-        <img src={image} alt="" />
       </div>
+      <img src={footer} alt="" />
     </footer>
   )
 }

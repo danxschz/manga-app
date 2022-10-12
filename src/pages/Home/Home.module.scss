@@ -1,10 +1,18 @@
 @use '../../assets/shared' as *;
 
 .hero {
+  @include flex-col(6rem);
+  margin-block: 6rem;
+}
+
+.title {
   @include flex-row(5rem, center, center);
   width: min(90%, 1500px);
   margin-inline: auto;
-  margin-block: 5rem;
+
+  img {
+    width: min(25%, 730px);
+  }
 
   h1 {
     @include flex-col(0.5rem, center);
@@ -14,9 +22,25 @@
   .small {
     font-size: 1.7rem;
   }
+}
 
-  img {
-    width: min(25%, 730px);
+.content {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 2.5rem;
+  width: min(90%, 1500px);
+  margin-inline: auto;
+}
+
+.text {
+  @include flex-col(2.5rem);
+
+  p:first-child {
+    font-size: 1.3rem;
   }
 
+  p:last-child {
+    font-size: 0.9rem;
+  }
 }

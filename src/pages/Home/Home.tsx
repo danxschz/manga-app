@@ -1,17 +1,37 @@
 import styles from './Home.module.scss';
-import image from '../../assets/works/lole.jpg'
+import hero from '../../assets/img/hero.jpg'
+import DecorCircle from './DecorCircle/DecorCircle';
 
 const Home = () => {
   return (
     <main>
       <section className={styles.hero}>
-        <img src={image} alt="" />
-        <h1>
-          <div className={styles.small}>The</div>
-          <div>Horrors<span className={styles.small}> of</span></div>
-          <div>Junji</div>
-          <div>Ito</div>
-        </h1>
+        <div className={styles.title}>
+          <img src={hero} alt="" />
+          <h1>
+            <div className={styles.small}>The</div>
+            <div>Horrors<span className={styles.small}> of</span></div>
+            <div>Junji</div>
+            <div>Ito</div>
+          </h1>
+        </div>
+        <div className={styles.info}>
+          <div className={styles.content}>
+            <div className={styles.text}>
+              <p>
+                Junji Ito is a Japanese horror mangaka. His work has developed a substantial following, with some 
+                deeming him a significant figure in recent horror iconography.
+              </p>
+              <p>
+                Some of his most notable works include Tomie, a series chronicling an immortal girl who drives her 
+                admirers to madness; Uzumaki, a series about a town obsessed with spirals; and Gyo, a story in 
+                which fish are controlled by a strain of sentient bacteria.
+              </p>
+            </div>
+            <DecorCircle />
+            <div className={styles.text}></div>
+          </div>
+        </div>
       </section>
     </main>
   )

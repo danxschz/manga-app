@@ -1,0 +1,29 @@
+@use '../../../assets/shared' as *;
+
+@mixin circle($size, $background) {
+  @include flex-row(null, center, center);
+  height: $size;
+  width: $size;
+  border-radius: 50%;
+  background: $background;
+}
+
+.circle {
+  @include circle(7rem, $clr-neutral-700);
+
+  > div:first-child {
+    @include circle(4rem, $clr-neutral-100);
+    z-index: 2;
+
+    > div {
+      @include circle(1.5rem, $clr-neutral-900);
+    }
+  }
+}
+
+.line {
+  position: absolute;
+  height: 9rem;
+  width: 2px;
+  background-color: $clr-neutral-100;
+}
