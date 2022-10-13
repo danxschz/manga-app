@@ -1,0 +1,19 @@
+@use '../../assets/shared' as *;
+
+.button {
+  border: 1px solid $clr-neutral-100;
+  background: $clr-neutral-100;
+  color: $clr-neutral-900;
+  padding: 0.5rem 1.2rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  width: max-content;
+  font-weight: 400;
+  text-decoration: none;
+  transition: color 0.3s, background-color 0.3s;
+
+  &:hover, &:focus, &:active {
+    background-color: $clr-neutral-900;
+    color: $clr-neutral-100;
+  }
+}

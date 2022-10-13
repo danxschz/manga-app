@@ -3,6 +3,13 @@
 .footer {
   display: flex;
   align-items: flex-end;
+  margin-top: 12rem;
+
+  img {
+    width: min(40%, 930px);
+    position: absolute;
+    right: 0;
+  }
 }
 
 .content {
@@ -10,10 +17,4 @@
   margin-inline: auto;
   padding-block: 1.8rem;
   font-size: 0.95rem;
-}
-
-.footer img {
-  width: min(40%, 930px);
-  position: absolute;
-  right: 0;
 }
