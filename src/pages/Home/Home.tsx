@@ -3,6 +3,7 @@ import hero from '../../assets/img/hero.jpg';
 import info from '../../assets/img/info.png';
 import DecorCircle from './DecorCircle/DecorCircle';
 import Button from '../../components/Button/Button';
+import Work from './Work/Work';
 
 const Home = () => {
   return (
@@ -29,13 +30,18 @@ const Home = () => {
                 admirers to madness; Uzumaki, a series about a town obsessed with spirals; and Gyo, a story in 
                 which fish are controlled by a strain of sentient bacteria.
               </p>
-              <Button text="View more" />
+              <Button text="Ito's Works" />
             </div>
             <DecorCircle />
             <div className={styles.text}></div>
           </div>
           <img src={info} alt="" />
         </div>
+      </section>
+      <section className={styles.works}>
+        <Work title="tomie"/>
+        <Work title="uzumaki" inverted/>
+        <Work title="gyo" />
       </section>
     </main>
   )

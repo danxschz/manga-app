@@ -1,0 +1,25 @@
+@use '../../../assets/shared' as *;
+
+.work {
+  margin-block: 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+
+  > img {
+    width: 60%;
+  }
+}
+
+.description {
+  @include flex-col(3rem);
+  max-width: 60%;
+
+  img {
+    width: 100%
+  }
+
+  h2 {
+    text-transform: capitalize;
+  }
+}
