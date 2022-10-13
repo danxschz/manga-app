@@ -1,0 +1,12 @@
+@use '../../assets/shared' as *;
+
+.content {
+  width: min(90%, 1500px);
+  margin-inline: auto;
+  padding-block: 6rem;
+}
+
+.manga {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
