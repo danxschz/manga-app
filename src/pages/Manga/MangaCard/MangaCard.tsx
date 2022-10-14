@@ -7,11 +7,11 @@ interface Props {
 }
 
 const MangaCard = (props: Props) => {
-  const { _id, title, img } = props.item;
+  const { _id, slug, title, img } = props.item;
 
   return (
     <article>
-      <Link to={`/manga/${_id}`} className={styles.manga}>
+      <Link to={`/manga/${slug}`} state={{ id: _id }} className={styles.manga}>
         <img src={img} alt={title} loading="lazy" />
         <h2>{title}</h2>
       </Link>

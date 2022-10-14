@@ -3,9 +3,10 @@ import hero from '../../assets/img/hero.jpg';
 import info from '../../assets/img/info.png';
 import useDocTitle from '../../hooks/useDocTitle';
 import PageHeading from '../../components/PageHeading/PageHeading';
-import DecorCircle from './DecorCircle/DecorCircle';
 import Button from '../../components/Button/Button';
+import DecorCircle from './DecorCircle/DecorCircle';
 import Work from './Work/Work';
+// import createMangaList from '../../data/createMangaList';
 
 const Home = () => {
   useDocTitle();
