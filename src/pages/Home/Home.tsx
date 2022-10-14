@@ -1,23 +1,19 @@
 import styles from './Home.module.scss';
 import hero from '../../assets/img/hero.jpg';
 import info from '../../assets/img/info.png';
+import useDocTitle from '../../hooks/useDocTitle';
+import PageHeading from '../../components/PageHeading/PageHeading';
 import DecorCircle from './DecorCircle/DecorCircle';
 import Button from '../../components/Button/Button';
 import Work from './Work/Work';
 
 const Home = () => {
+  useDocTitle();
+
   return (
     <main>
       <section className={styles.hero}>
-        <div className={styles.title}>
-          <img src={hero} alt="" />
-          <h1>
-            <div className={styles.small}>The</div>
-            <div>Horrors<span className={styles.small}> of</span></div>
-            <div>Junji</div>
-            <div>Ito</div>
-          </h1>
-        </div>
+        <PageHeading img={hero} home />
         <div className={styles.info}>
           <div className={styles.content}>
             <div className={styles.text}>
@@ -30,7 +26,7 @@ const Home = () => {
                 admirers to madness; Uzumaki, a series about a town obsessed with spirals; and Gyo, a story in 
                 which fish are controlled by a strain of sentient bacteria.
               </p>
-              <Button text="Ito's Works" />
+              <Button text="Ito's Works" to="/manga" />
             </div>
             <DecorCircle />
             <div className={styles.text}></div>

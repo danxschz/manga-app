@@ -1,16 +1,17 @@
 import styles from './Button.module.scss';
+import { Link } from 'react-router-dom';
 
 interface Props {
   text: string,
-  href?: string,
+  to?: string,
   onClick?(): null
 }
 
 const Button = (props: Props) => {
-  const { text, href, onClick } = props;
+  const { text, to, onClick } = props;
 
-  if (href) return (
-    <a href={href} className={styles.button} onClick={onClick}>{text}</a>
+  if (to) return (
+    <Link to={to} className={styles.button} onClick={onClick}>{text}</Link>
   )
 
   else return (

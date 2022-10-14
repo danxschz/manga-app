@@ -36,7 +36,7 @@
   font-size: 1.5rem;
   font-weight: 300;
 
-  &:hover, &:focus, &:active {
+  &:hover {
     animation: hvr-buzz 0.25s linear infinite;
   }
 }

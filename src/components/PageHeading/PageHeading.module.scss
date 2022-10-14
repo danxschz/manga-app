@@ -1,0 +1,19 @@
+@use '../../assets/shared' as *;
+
+.title {
+  @include flex-row(5rem, center, center);
+  margin-block: 6rem;
+
+  img {
+    width: min(25%, 730px);
+  }
+
+  h1 {
+    @include flex-col(0.5rem, center);
+    font-size: 2.7rem;
+  }
+
+  .small {
+    font-size: 1.7rem;
+  }
+}

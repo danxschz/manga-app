@@ -12,7 +12,7 @@ const MangaCard = (props: Props) => {
   return (
     <article>
       <Link to={`/manga/${_id}`} className={styles.manga}>
-        <img src={img} alt={title} />
+        <img src={img} alt={title} loading="lazy" />
         <h2>{title}</h2>
       </Link>
     </article>
