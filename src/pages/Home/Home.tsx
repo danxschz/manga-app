@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <main>
       <section className={styles.hero}>
-        <PageHeading img={hero} home />
+        <PageHeading img={hero} title="home" home />
         <div className={styles.info}>
           <div className={styles.content}>
             <div className={styles.text}>

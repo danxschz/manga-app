@@ -52,19 +52,49 @@ const createMangaList = () => {
     const id = manga.id;
     const title = manga.attributes.title.en;
     const description = manga.attributes.description.en;
-    const { status, year } = manga.attributes;
 
     const cover = manga.relationships.find((i: any) => i.type === 'cover_art').attributes.fileName;
     const img = `https://mangadex.org/covers/${id}/${cover}`;
+
+    const { lastChapter, lastVolume, status, year, publicationDemographic, contentRating, links } = manga.attributes;
+
+    const genres: string[] = [];
+    for (const item of manga.attributes.tags) {
+      if (item.attributes.group === 'genre') {
+        genres.push(item.attributes.name.en);
+      }
+    }
+
+    const alt_titles: string[] = [];
+    for (const item of manga.attributes.altTitles) {
+      if (item.en) alt_titles.push(item.en);
+    }
+
+    const mangaLinks = (links) ? {
+      amazon: manga.attributes.links.amz,
+      viz: manga.attributes.links.engtl,
+      cdjapan: manga.attributes.links.cdj
+    } : null;
+
+    const attributes = {
+      chapters: lastChapter,
+      volumes: lastVolume,
+      status,
+      year,
+      demographic: publicationDemographic,
+      content_rating: contentRating,
+      genres,
+      alt_titles,
+      links: mangaLinks
+    }
 
     const item = {
       _id: id,
       slug: slugs[i],
       title,
       description,
-      status,
-      year,
       img,
+      attributes,
     };
 
     list.push(item);

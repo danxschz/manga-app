@@ -1,0 +1,21 @@
+@use '../../assets/shared' as *;
+
+.content {
+  width: min(90%, 1500px);
+  margin-inline: auto;
+}
+
+.info {
+  margin-block: 6rem;
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  gap: 2rem;
+}
+
+.bar {
+  @include flex-col(1.2rem);
+}
+
+.description {
+  white-space: pre-wrap;
+}

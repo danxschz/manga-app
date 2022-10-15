@@ -2,7 +2,7 @@ import styles from './PageHeading.module.scss';
 
 interface Props {
   img: string,
-  title?: string,
+  title: string,
   home?: boolean
 }
 

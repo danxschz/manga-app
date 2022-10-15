@@ -11,31 +11,10 @@ const mangaSample: any[] = [
           "ru": "8 историй ZQN"
         },
         {
-          "en": "Adolescence of the Dead (Ojiro Makoto)"
-        },
-        {
-          "en": "Even If I Become a ZQN (Mizusawa Etsuko)"
-        },
-        {
-          "en": "Ghost of a Smile (Yokoyari Mengo)"
-        },
-        {
           "en": "I AM A HERO Koushiki Comic Anthology: 8 Tales of the ZQN"
         },
         {
-          "en": "I Am a Hero Untold Creation Story (Yoshimoto Kouji)"
-        },
-        {
-          "en": "I Am Not a Hero (Nogizaka Taro)"
-        },
-        {
-          "en": "Mister Ogre, Over Here (Torikai Akane)"
-        },
-        {
           "en": "She is a Slow Walker (Ito Junji)"
-        },
-        {
-          "en": "The Place Where the Zombies Are (Ishiguro Masakazu)"
         },
         {
           "ja": "アイアムアヒーロー 公式アンソロジーコミック: 8 TALES OF THE ZQN"
@@ -517,7 +496,9 @@ const mangaSample: any[] = [
           "ja": "Itou Junji Kessaku-shuu 5: Dassou-hei no Iru Ie"
         }
       ],
-      "description": [],
+      "description": {
+        "en": "An ever-increasing malice. A mind-numbing terror. The seeds of horror are sown in this collection of Junji Ito’s earliest works. A vengeful family hides an army deserter for eight years after the end of World War II, cocooning him in a false reality where the war never ended. A pair of girls look alike, but they’re not twins. And a boy’s nightmare threatens to spill out into the real world… This hauntingly strange story collection showcases a dozen of Junji Ito’s earliest works from when he burst onto the horror scene, sowing fresh seeds of terror."
+      },
       "isLocked": false,
       "links": {
         "al": "143584"

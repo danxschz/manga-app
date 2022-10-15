@@ -3,6 +3,7 @@ import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 import Header from './components/Header/Header';
 import Home from './pages/Home/Home';
 import Manga from './pages/Manga/Manga';
+import MangaDetail from './pages/MangaDetail/MangaDetail';
 import Footer from './components/Footer/Footer';
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/manga" element={<Manga />} />
+          <Route path="/manga/:slug" element={<MangaDetail />} />
         </Routes>
         <Footer />
       </div>

@@ -1,0 +1,14 @@
+@use '../../../assets/shared' as *;
+
+.data {
+  @include flex-col(0.6rem);
+  font-size: 0.85rem;
+}
+
+.property {
+  font-weight: 400;
+}
+
+.value {
+  text-transform: capitalize;
+}
