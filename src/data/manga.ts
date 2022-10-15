@@ -7,7 +7,9 @@ interface Attributes {
     content_rating: string,
     genres: string[],
     alt_titles: string[],
-    links: {} | null,
+    links: {
+        [key: string]: string
+    },
 }
 
 interface Manga {
@@ -41,9 +43,11 @@ const manga: Manga[] = [
             ],
             "alt_titles": [
                 "I AM A HERO Koushiki Comic Anthology: 8 Tales of the ZQN",
-                "She is a Slow Walker (Ito Junji)",
+                "She is a Slow Walker (Ito Junji)"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/100766"
+            }
         }
     },
     {
@@ -67,7 +71,9 @@ const manga: Manga[] = [
                 "Slice of Life"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -94,7 +100,9 @@ const manga: Manga[] = [
                 "黑色诡局",
                 "블랙 패러독스"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/20375"
+            }
         }
     },
     {
@@ -122,7 +130,9 @@ const manga: Manga[] = [
                 "Tragedy"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -147,7 +157,8 @@ const manga: Manga[] = [
             ],
             "links": {
                 "amazon": "https://www.amazon.co.jp/dp/B00R34DQYS",
-                "viz": "https://kodansha.us/series/dissolving-classroom/"
+                "viz": "https://kodansha.us/series/dissolving-classroom/",
+                "mal": "https://myanimelist.net/manga/58245"
             }
         }
     },
@@ -172,7 +183,9 @@ const manga: Manga[] = [
                 "Ghost Heights Kanri Kumiai",
                 "ゴーストハイツ管理組合"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/90477"
+            }
         }
     },
     {
@@ -200,7 +213,8 @@ const manga: Manga[] = [
                 "鱼"
             ],
             "links": {
-                "viz": "https://www.viz.com/read/manga/gyo-2-in-1-deluxe-edition/product/3685"
+                "viz": "https://www.viz.com/read/manga/gyo-2-in-1-deluxe-edition/product/3685",
+                "mal": "https://myanimelist.net/manga/909"
             }
         }
     },
@@ -228,7 +242,8 @@ const manga: Manga[] = [
             "alt_titles": [],
             "links": {
                 "amazon": "https://www.amazon.com/dp/197471747X",
-                "viz": "https://viz.com/read/manga/junji-ito/product/6512"
+                "viz": "https://viz.com/read/manga/junji-ito/product/6512",
+                "mal": "https://myanimelist.net/manga/3992"
             }
         }
     },
@@ -258,7 +273,8 @@ const manga: Manga[] = [
             "alt_titles": [],
             "links": {
                 "amazon": "https://www.amazon.co.jp/ホラーアンソロジーcomic-死角-ぶんか社コミックス-アンソロジー/dp/4821179091",
-                "cdjapan": "http://www.cdjapan.co.jp/product/NEOBK-1995721"
+                "cdjapan": "http://www.cdjapan.co.jp/product/NEOBK-1995721",
+                "mal": "https://myanimelist.net/manga/undefined"
             }
         }
     },
@@ -284,7 +300,9 @@ const manga: Manga[] = [
                 "Tragedy"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/38635"
+            }
         }
     },
     {
@@ -413,7 +431,9 @@ const manga: Manga[] = [
                 "Unbearable Labyrinth",
                 "Village of the Sirens"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -440,7 +460,8 @@ const manga: Manga[] = [
             ],
             "links": {
                 "amazon": "https://www.amazon.co.jp/gp/product/B07BTQZCNR",
-                "viz": "https://www.viz.com/read/manga/shiver-junji-ito-selected-stories/product/5358"
+                "viz": "https://www.viz.com/read/manga/shiver-junji-ito-selected-stories/product/5358",
+                "mal": "https://myanimelist.net/manga/undefined"
             }
         }
     },
@@ -463,7 +484,8 @@ const manga: Manga[] = [
             ],
             "alt_titles": [],
             "links": {
-                "amazon": "https://www.amazon.co.jp/dp/4022142448"
+                "amazon": "https://www.amazon.co.jp/dp/4022142448",
+                "mal": "https://myanimelist.net/manga/undefined"
             }
         }
     },
@@ -487,7 +509,8 @@ const manga: Manga[] = [
             "alt_titles": [],
             "links": {
                 "amazon": "https://www.amazon.co.jp/dp/B00UUQ448I",
-                "viz": "https://kodansha.us/series/junji-itos-cat-diary-yon-mu-collectors-edition/"
+                "viz": "https://kodansha.us/series/junji-itos-cat-diary-yon-mu-collectors-edition/",
+                "mal": "https://myanimelist.net/manga/17192"
             }
         }
     },
@@ -514,7 +537,9 @@ const manga: Manga[] = [
                 "ノンノン親分",
                 "ノンノン親分のかくれんぼ"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/80905"
+            }
         }
     },
     {
@@ -534,7 +559,9 @@ const manga: Manga[] = [
                 "Horror"
             ],
             "alt_titles": [],
-            "links": null
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -560,14 +587,16 @@ const manga: Manga[] = [
                 "Tragedy"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
         "_id": "4a23f28e-9bb6-41f9-9037-3a3e9234ff75",
         "slug": "mimis-ghost-stories",
         "title": "Mimi’s Ghost Stories",
-        "description": "1. The Woman Next Door \n2. Sound of Grass  \n3. Graveman  \n4. The Seashore  \n5. Just the Two of Us  \n6. The Scarlet Circle",
+        "description": "1. The Woman Next Door  \n2. Sound of Grass  \n3. Graveman  \n4. The Seashore  \n5. Just the Two of Us  \n6. The Scarlet Circle",
         "img": "https://mangadex.org/covers/4a23f28e-9bb6-41f9-9037-3a3e9234ff75/8d64e7f9-47bb-482f-a8af-8d990dd3164e.jpg",
         "attributes": {
             "chapters": "6",
@@ -581,7 +610,9 @@ const manga: Manga[] = [
                 "Mystery"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/13841"
+            }
         }
     },
     {
@@ -601,7 +632,9 @@ const manga: Manga[] = [
                 "Horror"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -628,7 +661,8 @@ const manga: Manga[] = [
                 "新·暗之声-溃谈"
             ],
             "links": {
-                "viz": "https://www.viz.com/read/manga/smashed-junji-ito-story-collection/product/5870"
+                "viz": "https://www.viz.com/read/manga/smashed-junji-ito-story-collection/product/5870",
+                "mal": "https://myanimelist.net/manga/4628"
             }
         }
     },
@@ -657,7 +691,8 @@ const manga: Manga[] = [
             ],
             "alt_titles": [],
             "links": {
-                "viz": "https://www.viz.com/read/manga/no-longer-human/product/6126"
+                "viz": "https://www.viz.com/read/manga/no-longer-human/product/6126",
+                "mal": "https://myanimelist.net/manga/106609"
             }
         }
     },
@@ -681,7 +716,9 @@ const manga: Manga[] = [
                 "Gentsuu Yashiki",
                 "幻痛屋敷"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/92968"
+            }
         }
     },
     {
@@ -707,7 +744,8 @@ const manga: Manga[] = [
             ],
             "links": {
                 "amazon": "https://www.amazon.co.jp/gp/product/B07BNTT52Y",
-                "cdjapan": "https://www.cdjapan.co.jp/product/NEOBK-888406"
+                "cdjapan": "https://www.cdjapan.co.jp/product/NEOBK-888406",
+                "mal": "https://myanimelist.net/manga/21344"
             }
         }
     },
@@ -733,7 +771,9 @@ const manga: Manga[] = [
                 "The Woman With No Ribs",
                 "あばら骨の女"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -754,7 +794,9 @@ const manga: Manga[] = [
                 "Horror"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -780,7 +822,9 @@ const manga: Manga[] = [
                 "L'enigma de la falla d'Amigara",
                 "L'Enigma Della Faglia Del Monte Amigara"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/909"
+            }
         }
     },
     {
@@ -801,7 +845,9 @@ const manga: Manga[] = [
                 "Horror"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/140969"
+            }
         }
     },
     {
@@ -824,7 +870,9 @@ const manga: Manga[] = [
                 "Mystery"
             ],
             "alt_titles": [],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -852,7 +900,8 @@ const manga: Manga[] = [
                 "Fragment of the Demon"
             ],
             "links": {
-                "viz": "https://www.viz.com/read/manga/fragments-of-horror/product/3701"
+                "viz": "https://www.viz.com/read/manga/fragments-of-horror/product/3701",
+                "mal": "https://myanimelist.net/manga/52435"
             }
         }
     },
@@ -877,7 +926,9 @@ const manga: Manga[] = [
                 "Natsu No Sotsugyou Ryouko",
                 "夏の卒業旅行"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -904,7 +955,9 @@ const manga: Manga[] = [
             "alt_titles": [
                 "Mountain of Gods - Precipice of the Unknown"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/undefined"
+            }
         }
     },
     {
@@ -929,7 +982,8 @@ const manga: Manga[] = [
             ],
             "alt_titles": [],
             "links": {
-                "viz": "https://www.viz.com/read/manga/tomie-complete-deluxe-edition/product/4988"
+                "viz": "https://www.viz.com/read/manga/tomie-complete-deluxe-edition/product/4988",
+                "mal": "https://myanimelist.net/manga/912"
             }
         }
     },
@@ -952,7 +1006,9 @@ const manga: Manga[] = [
             "alt_titles": [
                 "伊藤潤二コレクション"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/128080"
+            }
         }
     },
     {
@@ -976,7 +1032,8 @@ const manga: Manga[] = [
                 "Sensor"
             ],
             "links": {
-                "viz": "https://www.viz.com/read/manga/junji-ito-volume-1/product/6775"
+                "viz": "https://www.viz.com/read/manga/junji-ito-volume-1/product/6775",
+                "mal": "https://myanimelist.net/manga/115507"
             }
         }
     },
@@ -1002,7 +1059,9 @@ const manga: Manga[] = [
                 "Umezu Kazuo & Me",
                 "Umezu-sensei and Me"
             ],
-            "links": {}
+            "links": {
+                "mal": "https://myanimelist.net/manga/85533"
+            }
         }
     },
     {
@@ -1037,7 +1096,8 @@ const manga: Manga[] = [
             "links": {
                 "amazon": "https://www.amazon.co.jp/gp/product/B078MD3Z5X/",
                 "viz": "https://www.viz.com/read/manga/junji-ito/product/3382",
-                "cdjapan": "https://www.cdjapan.co.jp/product/NEOBK-749009"
+                "cdjapan": "https://www.cdjapan.co.jp/product/NEOBK-749009",
+                "mal": "https://myanimelist.net/manga/436"
             }
         }
     },
@@ -1064,7 +1124,8 @@ const manga: Manga[] = [
                 "伊藤潤二短編集 BEST OF BEST"
             ],
             "links": {
-                "viz": "https://www.viz.com/read/manga/junji-ito/product/6379"
+                "viz": "https://www.viz.com/read/manga/junji-ito/product/6379",
+                "mal": "https://myanimelist.net/manga/undefined"
             }
         }
     },
@@ -1093,7 +1154,8 @@ const manga: Manga[] = [
             ],
             "alt_titles": [],
             "links": {
-                "viz": "https://www.viz.com/read/manga/smashed-junji-ito-story-collection/product/5870"
+                "viz": "https://www.viz.com/read/manga/smashed-junji-ito-story-collection/product/5870",
+                "mal": "https://myanimelist.net/manga/3126"
             }
         }
     }

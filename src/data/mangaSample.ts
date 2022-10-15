@@ -24,7 +24,7 @@ const mangaSample: any[] = [
         }
       ],
       "description": {
-        "en": "An anthology manga containing 8 short stories based around the theme \"ZQN\" (From \"I Am a Hero\")"
+        "en": "An anthology manga containing 8 short stories based around the theme \"ZQN\" (From \"I Am a Hero\")\n \n1. Even If I Become a ZQN (Mizusawa Etsuko) \n2. Ghost of a Smile (Yokoyari Mengo) \n3. The Place Where the Zombies are (Ishiguro Masakazu) \n4. Adolescence of the Dead (Ojiro Makoto) \n5. She is a Slow Walker (Ito Junji) \n6. Mister Ogre, Over Here (Torikai Akane) \n7. I Am Not a Hero (Nogizaka Taro) \n8. I Am a Hero Untold Creation Story (Yoshimoto Kouji)"
       },
       "isLocked": false,
       "links": {
@@ -2830,7 +2830,7 @@ const mangaSample: any[] = [
         "en": ""
       },
       "isLocked": false,
-      "links": null,
+      "links": {},
       "originalLanguage": "ja",
       "lastVolume": null,
       "lastChapter": null,

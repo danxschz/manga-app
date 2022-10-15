@@ -1,0 +1,33 @@
+@use '../../../assets/shared' as *;
+
+.data {
+  @include flex-col(0.6rem);
+  font-size: 0.85rem;
+}
+
+.property {
+  font-weight: 400;
+}
+
+.content {
+  @include flex-row(0.5rem);
+  flex-wrap: wrap;
+
+  a {
+    width: max-content;
+    padding: 0.4rem 0.8rem;
+    background: $clr-neutral-100;
+    color: $clr-neutral-900;
+    font-size: 0.8rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid $clr-neutral-100;
+    transition: background-color 0.3s, color 0.3s;
+
+    &:hover, &:focus, &:active {
+      background-color: $clr-neutral-900;
+      color: $clr-neutral-100;
+    }
+  }
+}

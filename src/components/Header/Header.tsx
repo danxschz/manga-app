@@ -13,7 +13,7 @@ const Header = () => {
           </ul>
         </nav>
         <Link to="/" className={styles.logo}>Ito Horrors</Link>
-        <button className={styles.button}><div className={styles.square}></div><span>My list</span><div className={styles.square}></div></button>
+        <button className={styles.button}><div className={styles.square}></div><span>Log in</span><div className={styles.square}></div></button>
       </div>
     </header>
   )

@@ -70,11 +70,12 @@ const createMangaList = () => {
       if (item.en) alt_titles.push(item.en);
     }
 
-    const mangaLinks = (links) ? {
-      amazon: manga.attributes.links.amz,
-      viz: manga.attributes.links.engtl,
-      cdjapan: manga.attributes.links.cdj
-    } : null;
+    const mangaLinks = {
+      amazon: links.amz,
+      viz: links.engtl,
+      cdjapan: links.cdj,
+      mal: `https://myanimelist.net/manga/${links.mal}`
+    }
 
     const attributes = {
       chapters: lastChapter,
