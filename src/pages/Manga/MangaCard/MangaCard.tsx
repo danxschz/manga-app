@@ -1,5 +1,4 @@
 import styles from './MangaCard.module.scss';
-import type { Manga } from '../../../data/manga';
 import { Link } from 'react-router-dom';
 
 interface Props {
@@ -12,7 +11,7 @@ const MangaCard = (props: Props) => {
   return (
     <article>
       <Link to={`/manga/${slug}`} state={{ id: _id }} className={styles.manga}>
-        <img src={img} alt={title} loading="lazy" />
+        <img src={img.normal} alt={title} loading="lazy" />
         <h2>{title}</h2>
       </Link>
     </article>

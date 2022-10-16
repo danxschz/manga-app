@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 interface Props {
   text: string,
   to?: string,
-  onClick?(): null
+  onClick?(): any
 }
 
 const Button = (props: Props) => {

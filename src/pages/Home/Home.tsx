@@ -6,7 +6,7 @@ import PageHeading from '../../components/PageHeading/PageHeading';
 import Button from '../../components/Button/Button';
 import DecorCircle from './DecorCircle/DecorCircle';
 import Work from './Work/Work';
-import createMangaList from '../../data/createMangaList';
+import createMangaList from '../../utils/createMangaList';
 
 const Home = () => {
   useDocTitle();
@@ -27,7 +27,7 @@ const Home = () => {
                 admirers to madness; Uzumaki, a series about a town obsessed with spirals; and Gyo, a story in 
                 which fish are controlled by a strain of sentient bacteria.
               </p>
-              <Button text="Ito's Works" to="/manga" onClick={createMangaList} />
+              <Button text="Ito's Works" onClick={createMangaList}/>
             </div>
             <DecorCircle />
             <div className={styles.text}></div>
