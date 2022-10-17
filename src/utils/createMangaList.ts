@@ -1,7 +1,6 @@
 import json from '../data/mangaFull.json';
 import mangadex from '../data/mangadex.json';
-
-const mangadexData: any = mangadex;
+import mangaCharacters from '../data/mangaCharacters.json';
 
 const slugify = (string: string) => {
   const slug = string
@@ -17,6 +16,7 @@ const slugify = (string: string) => {
 const createMangaList = () => {
   const mangaList = []
 
+  let i = 0
   for (const item of json) {
     const data = item.data;
 
@@ -41,7 +41,7 @@ const createMangaList = () => {
       genresArr.push(item.name);
     }
     
-    const mangadexEntry = mangadexData.find((i: any) => +i.attributes.links.mal === mal_id);
+    const mangadexEntry: any = mangadex.find((i: any) => +i.attributes.links.mal === mal_id);
     const { attributes: mangadexAttributes } = mangadexEntry || {};
     const { contentRating, links } = mangadexAttributes || {};
 
@@ -66,6 +66,19 @@ const createMangaList = () => {
       links: mangaLinks
     }
 
+    const characters: any = [];
+    for (const item of mangaCharacters[i].data) {
+      const { character, role } = item;
+
+      const charObj = {
+        name: character.name,
+        role,
+        img: character.images.jpg.image_url,
+      }
+
+      characters.push(charObj);
+    }
+
     const manga = {
       _id: mal_id,
       slug,
@@ -74,9 +87,11 @@ const createMangaList = () => {
       background,
       img: imageObj,
       attributes,
+      characters
     };
 
     mangaList.push(manga);
+    i += 1;
   }
   
   console.log(mangaList);

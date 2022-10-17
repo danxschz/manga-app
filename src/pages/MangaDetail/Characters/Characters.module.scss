@@ -1,0 +1,27 @@
+@use '../../../assets/shared' as *;
+
+.characters {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 1rem;
+}
+
+.character {
+  @include flex-row(0.8rem);
+
+  img {
+    width: max(12%, 45px);
+  }
+}
+
+.info {
+  @include flex-col(0.5rem);
+
+  div:first-child {
+    font-size: 0.88rem;
+  }
+
+  div:last-child {
+    font-size: 0.85rem;
+  }
+}

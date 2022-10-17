@@ -12,6 +12,12 @@ interface Attributes {
   },
 }
 
+interface Character {
+  name: string,
+  role: string,
+  img: string
+}
+
 interface Manga {
   _id: number,
   slug: string,
@@ -23,4 +29,5 @@ interface Manga {
     large: string
   },
   attributes: Attributes,
+  characters: Character[]
 }

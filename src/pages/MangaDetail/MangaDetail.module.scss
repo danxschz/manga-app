@@ -16,6 +16,18 @@
   @include flex-col(1.2rem);
 }
 
-.description {
-  white-space: pre-wrap;
+.main {
+  @include flex-col(2.5rem);
+}
+
+.section {
+  h2 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    white-space: pre-wrap;
+    font-size: 0.93rem;
+  }
 }

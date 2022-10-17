@@ -42,7 +42,14 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/119021"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Ito, Junji",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/449232.jpg?s=4d29e00d683a0633611263ae808c032f"
+            }
+        ]
     },
     {
         "_id": 20375,
@@ -78,7 +85,44 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/20375"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Baracchi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/13/439540.jpg?s=44ad15848ee81ddbdd9e96b5a84a6b88"
+            },
+            {
+                "name": "Marisol",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/5/439537.jpg?s=e994772067a67f68506b69203e0f59f7"
+            },
+            {
+                "name": "Piitan",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/6/439539.jpg?s=d3d5f223b603524763d754f595647701"
+            },
+            {
+                "name": "Suka",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/5/439543.jpg?s=e9920745b21a74277a92446c229a4fab"
+            },
+            {
+                "name": "Taburou",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/7/384843.jpg?s=27cb31385068488a5c1f04d947672d99"
+            },
+            {
+                "name": "Tanio, Rei",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/439541.jpg?s=3842d38ee4529be0550a86a469d60635"
+            },
+            {
+                "name": "Yamanishi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/439544.jpg?s=9e8dc98fcd73f0669116494146c5a817"
+            }
+        ]
     },
     {
         "_id": 119535,
@@ -107,7 +151,19 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/119535"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Amy",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/3/449107.jpg?s=63330a1ac7d3559051c6420dccfd2b27"
+            },
+            {
+                "name": "Fuchi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+            }
+        ]
     },
     {
         "_id": 132671,
@@ -136,7 +192,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/132671"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 90477,
@@ -169,7 +226,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/90477"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 909,
@@ -208,7 +266,29 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/909"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Tadashi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/8/158467.jpg?s=0e3ab715c775b4ba37a0f60227d78fb9"
+            },
+            {
+                "name": "Koyanagi, Sazuku",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/158475.jpg?s=164ea6b05f78d6dd00a13d149f5dfab0"
+            },
+            {
+                "name": "Ms. Yoshiyama",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/11/252477.jpg?s=33a5f19a9fd1501de49c056ade73c9f7"
+            },
+            {
+                "name": "Sawahara, Kaori",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/158505.jpg?s=b30f27bfb375fdcfa66ac3f165e6e50c"
+            }
+        ]
     },
     {
         "_id": 132675,
@@ -239,7 +319,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/132675"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 100766,
@@ -276,13 +357,65 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/100766"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Hasegawa",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/455612.jpg?s=0b27413ea067848dad3df599fb8d0dfc"
+            },
+            {
+                "name": "Hayakari, Hiromi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/3/277189.jpg?s=fd7098f1c5addceb70d4fc0d22e0d88a"
+            },
+            {
+                "name": "Hayashi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/455618.jpg?s=1e5a1cf68d768f52d0348d133460a308"
+            },
+            {
+                "name": "Kurashiki, Natsumi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/8/455611.jpg?s=6d912623796039799c3ed05824575432"
+            },
+            {
+                "name": "Lila",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/5/455615.jpg?s=73336610bc92825f4ee0c0eebd74f496"
+            },
+            {
+                "name": "Shinichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/455614.jpg?s=6457ee6575c70da9fa159d220db93059"
+            },
+            {
+                "name": "Yumi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/8/455613.jpg?s=30154ca9c34d1dfee047d08b969c6fc6"
+            },
+            {
+                "name": "Hamada, Cosmos",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/8/455617.jpg?s=7ca2fe4c75771aefa6618f5cfed9d2f6"
+            },
+            {
+                "name": "Sae",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/5/455607.jpg?s=e52065782cdb784c29b62128234633f6"
+            },
+            {
+                "name": "Yuno",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/5/455616.jpg?s=15b9991a2f59996e9073950338bc2f3c"
+            }
+        ]
     },
     {
         "_id": 138343,
         "slug": "ito-junji-kenkyuu-horror-no-shinen-kara",
         "title": "Ito Junji Kenkyuu: Horror no Shinen kara",
-        "synopsis": "A book celebrating Junji Ito's 30th anniversary. Includes interviews, articles, color illustrations and the following chapters: \n1. Kyoufu no Juusou \n2. Yon & Muu no Yuurei Bukken \n3. Kubitsuri Kikyuu Sairai \n4. Masei",
+        "synopsis": "A book celebrating Junji Ito's 30th anniversary. Includes interviews, articles, color illustrations and the following chapters: \n\n1. Kyoufu no Juusou \n2. Yon & Muu no Yuurei Bukken \n3. Kubitsuri Kikyuu Sairai \n4. Masei",
         "background": null,
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/3/247578.jpg",
@@ -313,7 +446,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/138343"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 92968,
@@ -352,13 +486,55 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/92968"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Fukata, Ryuusuke",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/394145.jpg?s=a805f97fe38956c01bdab16f69cee6bf"
+            },
+            {
+                "name": "Shibayama, Midori",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/394141.jpg?s=225c865a1fc47f5f02d9bba96eeccc0e"
+            },
+            {
+                "name": "Yotsutsuji no Bishounen",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/9/353260.jpg?s=55df97b18d58c044554becabcb068fdc"
+            },
+            {
+                "name": "Yuki",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/9/394149.jpg?s=a8e9a50db8b425a0fef203329b79bd51"
+            },
+            {
+                "name": "Keisuke",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/394148.jpg?s=17dac3c12d84d850b194658d647ee983"
+            },
+            {
+                "name": "Shimada, Ruriko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/3/394147.jpg?s=b97d4645f1f4bcddc3b665c5a80962b4"
+            },
+            {
+                "name": "Tanaka, Reishi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/9/394146.jpg?s=b5a54727202d1cbf92c3af11c2cd7713"
+            },
+            {
+                "name": "Teshima, Koutarou",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/13/394140.jpg?s=57e11966e74869d043e2fcdb54c79b75"
+            }
+        ]
     },
     {
         "_id": 80905,
         "slug": "ito-junji-kyoufu-hakubutsukan-9-oshikiri-idan-frankenstein",
         "title": "Ito Junji Kyoufu Hakubutsukan 9: Oshikiri Idan & Frankenstein",
-        "synopsis": "Note: This entry only contains 3 chapters never collected before. \n1. Kubi Gensou \n2. Ikisudama no Numa \n3. Pen-friend \n4. Shinnyuusha \n5. Oshikiri Idan \n6. Oshikiri Idan: Kabe Chapters 1~6 are included here. \n7. Frankenstein \n8. Jigoku no Ningyousou Chapters 7 and 8 are included here. \n9. Ganmen Kotei (Fixed Face) \n10. Nonnon Oyabun (Ito Junji's Dog Diary) \n11. Nonnon Oyabun no Kakurenbo",
+        "synopsis": "Note: This entry only contains 3 chapters never collected before. \n\n1. Kubi Gensou \n2. Ikisudama no Numa \n3. Pen-friend \n4. Shinnyuusha \n5. Oshikiri Idan \n6. Oshikiri Idan: Kabe Chapters 1~6 are included here. \n7. Frankenstein \n8. Jigoku no Ningyousou Chapters 7 and 8 are included here. \n9. Ganmen Kotei (Fixed Face) \n10. Nonnon Oyabun (Ito Junji's Dog Diary) \n11. Nonnon Oyabun no Kakurenbo",
         "background": null,
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/2/142179.jpg",
@@ -387,7 +563,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/80905"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 44757,
@@ -430,13 +607,40 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44757"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Yuki",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Ice Cream Man",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Mari",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/481179.jpg?s=f1acefc314259c3b6c660e7abc826094"
+            },
+            {
+                "name": "Sonohara",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Yuji",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/481180.jpg?s=0b3d9f1efc303fc7e1ea2589c12fb6ed"
+            }
+        ]
     },
     {
         "_id": 44753,
         "slug": "ito-junji-kyoufu-manga-collection-chi-tamaki",
         "title": "Ito Junji Kyoufu Manga Collection - Chi Tamaki",
-        "synopsis": "Chidamagi (Blood-bubble Bushes) During a joyride through the countryside, lovers Ansai and Kana crash when a splatter of blood hits their windshield. Unable to discern where the blood came from or to get their car working again, the couple venture off the road for help. Though they come across a group of boys, these eerie children only attack the couple and attempt to suck their blood. Chased into an abandoned village, the pair find shelter in a mansion occupied by the village's sole inhabitant. Staying the night, the man begins to recount to them a strange and sorrowful tale of his past, the tragic circumstances of the town, and the existence of a phenomena known as blood-bubbles that links them all. Taegatai Meiro (Unbearable Labyrinth) Sayako is a troubled youth who has stopped attending school due to a personal trauma. Out of concern, her friend Noriko takes her on a hike in the calm mountainside, hoping to convince her to return. They get lost on the trail and come across a group of monks. However, their requests for assistance are only met by vacant stares from the gaunt men. Their superior explains that the monks are in training and that the girls have stumbled upon a sacred area, one that is hard to enter, and hard to leave. The girls are invited to spend the night at the temple, where they will find out the extremes that the monks will go through to achieve their nirvana. Re-Animator no Tsurugi (Sword of the Re-Animator) On a night of ghost hunting, Keiji Soga witnesses a whole swarm of spectres heading in a single direction. He tracks them down to find them entering the body of a cloaked man. Noticing the witness, the strange man unsheathes his mystical sword and attempts to silence Keiji. Though Keiji manages to escape, he finds that this is not the last time he will meet this man, and that they are more connected than he knows. Isho (The Will) Hiroko's younger sister Taeko has committed suicide by jumping in front of a train. A note she left behind reveals she killed herself out of hatred, but her blood obscured who the letter was addressed to. Taeko had always felt that Hiroko was treated better than her, and died after finding out she was adopted, causing Hiroko and her family to fear they may have been the cause of Taeko's death. When a vengeful spirit appears in their house, they start to fear that their worries have been realized... Hashi (The Bridge) After receiving a worrying call from her grandmother Osode, Kanako decides to visit her village. Upon arriving, an old figure stands at the bridge, but much to her horror, Kanako finds that this figure is a walking corpse. Osode explains that the man is actually her long-deceased uncle, and is tethered to the mortal realm as a result of the village's unique funeral practice. However, this single entity is not Osode's main problem; as of late, all the trapped souls of the village have appeared, urging Osode to join them in their rest. Akuma no Riron (The Devil’s Logic/Demonology) Kazumi Morimoto was a cheerful schoolgirl eager to go on her first date with her crush. One hour later, she jumped off her school's roof to her demise. Her classmate Okamori could only watch this scene helplessly, leaving him puzzled as to what would lead her to such an act. However, when a tape recorder that he had mischievously slipped into her bag prior finds its way back to him, he realizes that it will serve as a key to the mystery. As Okamori listens to the tape, he comes to hear of the sinister being that Morimoto met in her last hour... Aibeya (The Conversation Room) Following a sudden car accident, Hashimoto awakens in a hospital ward. She finds herself in the company of Sugie, the woman she crashed into, and four other female patients. Though Sugie proves unbearable by pinning all the blame on Hashimoto, she finds herself more taken aback by the four women and their strange behaviour. This quartet acts in unison, claim that their hearts are one, and even seem to share the same dreams. Above all, they do not wish to be separated. As she spends more time in the hospital, Hashimoto starts to learn about the horrifying truth behind these women and the danger of staying with them. [Written by MAL Rewrite] \n1. Blood-bubble Bushes \n2. Unbearable Labyrinth \n3. Sword of the Re-animator \n4. The Will \n5. The Bridge \n6. Demonology \n7. The Conversation Room",
+        "synopsis": "Chidamagi (Blood-bubble Bushes) During a joyride through the countryside, lovers Ansai and Kana crash when a splatter of blood hits their windshield. Unable to discern where the blood came from or to get their car working again, the couple venture off the road for help. Though they come across a group of boys, these eerie children only attack the couple and attempt to suck their blood. Chased into an abandoned village, the pair find shelter in a mansion occupied by the village's sole inhabitant. Staying the night, the man begins to recount to them a strange and sorrowful tale of his past, the tragic circumstances of the town, and the existence of a phenomena known as blood-bubbles that links them all. Taegatai Meiro (Unbearable Labyrinth) Sayako is a troubled youth who has stopped attending school due to a personal trauma. Out of concern, her friend Noriko takes her on a hike in the calm mountainside, hoping to convince her to return. They get lost on the trail and come across a group of monks. However, their requests for assistance are only met by vacant stares from the gaunt men. Their superior explains that the monks are in training and that the girls have stumbled upon a sacred area, one that is hard to enter, and hard to leave. The girls are invited to spend the night at the temple, where they will find out the extremes that the monks will go through to achieve their nirvana. Re-Animator no Tsurugi (Sword of the Re-Animator) On a night of ghost hunting, Keiji Soga witnesses a whole swarm of spectres heading in a single direction. He tracks them down to find them entering the body of a cloaked man. Noticing the witness, the strange man unsheathes his mystical sword and attempts to silence Keiji. Though Keiji manages to escape, he finds that this is not the last time he will meet this man, and that they are more connected than he knows. Isho (The Will) Hiroko's younger sister Taeko has committed suicide by jumping in front of a train. A note she left behind reveals she killed herself out of hatred, but her blood obscured who the letter was addressed to. Taeko had always felt that Hiroko was treated better than her, and died after finding out she was adopted, causing Hiroko and her family to fear they may have been the cause of Taeko's death. When a vengeful spirit appears in their house, they start to fear that their worries have been realized... Hashi (The Bridge) After receiving a worrying call from her grandmother Osode, Kanako decides to visit her village. Upon arriving, an old figure stands at the bridge, but much to her horror, Kanako finds that this figure is a walking corpse. Osode explains that the man is actually her long-deceased uncle, and is tethered to the mortal realm as a result of the village's unique funeral practice. However, this single entity is not Osode's main problem; as of late, all the trapped souls of the village have appeared, urging Osode to join them in their rest. Akuma no Riron (The Devil’s Logic/Demonology) Kazumi Morimoto was a cheerful schoolgirl eager to go on her first date with her crush. One hour later, she jumped off her school's roof to her demise. Her classmate Okamori could only watch this scene helplessly, leaving him puzzled as to what would lead her to such an act. However, when a tape recorder that he had mischievously slipped into her bag prior finds its way back to him, he realizes that it will serve as a key to the mystery. As Okamori listens to the tape, he comes to hear of the sinister being that Morimoto met in her last hour... Aibeya (The Conversation Room) Following a sudden car accident, Hashimoto awakens in a hospital ward. She finds herself in the company of Sugie, the woman she crashed into, and four other female patients. Though Sugie proves unbearable by pinning all the blame on Hashimoto, she finds herself more taken aback by the four women and their strange behaviour. This quartet acts in unison, claim that their hearts are one, and even seem to share the same dreams. Above all, they do not wish to be separated. As she spends more time in the hospital, Hashimoto starts to learn about the horrifying truth behind these women and the danger of staying with them. [Written by MAL Rewrite] \n\n1. Blood-bubble Bushes \n2. Unbearable Labyrinth \n3. Sword of the Re-animator \n4. The Will \n5. The Bridge \n6. Demonology \n7. The Conversation Room",
         "background": null,
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/2/185643.jpg",
@@ -471,13 +675,30 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44753"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Sayoko",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/14/481147.jpg?s=41080028b4748bebe16692bd63ad53ab"
+            },
+            {
+                "name": "Kuramoto, Aya",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/481155.jpg?s=4cebee55bb17b3e3fe3524b0d999364d"
+            },
+            {
+                "name": "Noriko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/13/481156.jpg?s=b6bff16c44a48b5c2df75496bf08a4b1"
+            }
+        ]
     },
     {
         "_id": 44763,
         "slug": "ito-junji-kyoufu-manga-collection-circus-ga-kita",
         "title": "Ito Junji Kyoufu Manga Collection - Circus ga Kita",
-        "synopsis": "The Ito Junji Kyoufu Manga Collection features themed one-shots from Junji Ito in Hontou ni Atta Kowai Hanashi mangazine. Volume 13. \n1. The Circus is Here \n2. Gravetown \n3. The Adjacent Window \n4. Sleuth Kids: The Second Daughter's Lover \n5. Sleuth Kids: The Assembly of Fallen Ghost",
+        "synopsis": "The Ito Junji Kyoufu Manga Collection features themed one-shots from Junji Ito in Hontou ni Atta Kowai Hanashi mangazine. Volume 13. \n\n1. The Circus is Here \n2. Gravetown \n3. The Adjacent Window \n4. Sleuth Kids: The Second Daughter's Lover \n5. Sleuth Kids: The Assembly of Fallen Ghost",
         "background": null,
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/1/185884.jpg",
@@ -510,13 +731,95 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44763"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Hikizuri, Narumi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/12/481189.jpg?s=2cb1b601579e76e75efd4d1ca5f37e7e"
+            },
+            {
+                "name": "Hikizuri, Kazuya",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/481066.jpg?s=59e680634dbd62839024ea162d460a73"
+            },
+            {
+                "name": "Murakami, Izumi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/490705.jpg?s=9d2c5a5f16435cd9d27d3f72229ec1de"
+            },
+            {
+                "name": "Ringmaster",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/12/391085.jpg?s=855db542edf6cceb20581b7bafb82d9e"
+            },
+            {
+                "name": "Hikizuri, Shigorou",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/15/481082.jpg?s=ae982095a10ff2d7f15c419adcdece3a"
+            },
+            {
+                "name": "Hikizuri, Misako",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/3/481083.jpg?s=6ab1b9c3e265787c87e7b2f1558cbb22"
+            },
+            {
+                "name": "Hikizuri, Kouko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/15/481084.jpg?s=b2fc09b0d3f8ceafb07c212b4c2f668c"
+            },
+            {
+                "name": "Hikizuri, Hitoshi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/11/482612.jpg?s=607c4f45da571fccc7dc2d5121344e2c"
+            },
+            {
+                "name": "Joe",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/391092.jpg?s=35f60bb83d7f1182deda1587c2f25389"
+            },
+            {
+                "name": "Kotani",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/481191.jpg?s=55fe01192d7699c0c7ee2527e8495c59"
+            },
+            {
+                "name": "Leiliya",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/8/391093.jpg?s=54f5ad5e3997c1964101a4852eb8c8c7"
+            },
+            {
+                "name": "Sachiyo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/14/481199.jpg?s=0161e6a38fa7a73fbd05352ecd95e72e"
+            },
+            {
+                "name": "Sawano",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/481200.jpg?s=5a87b2244d1462e46b36e09bab26dae4"
+            },
+            {
+                "name": "The Woman Next Door",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/5/401452.jpg?s=6d75b1dff68170c90d139297dddc9f2e"
+            },
+            {
+                "name": "Yoshikawa, Kaoru",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Yoshikawa, Tsuyoshi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            }
+        ]
     },
     {
         "_id": 44743,
         "slug": "junji-ito-horror-comic-collection-flesh-colored-horror",
         "title": "Junji Ito Horror Comic Collection Flesh-Colored Horror",
-        "synopsis": "Yaneura no Nagai Kami (Long Hair in the Attic) The beautiful, long-haired Chiemi Amano has just been dumped by her playboy boyfriend, leaving her utterly dejected. Returning home, she begins to recall fond memories, such as how she grew her hair out for him. But now, these once pleasant recollections only further her depression, leading her to decide that cutting off her hair can free her from the heartbreak. However, she finds that doing so is no longer a decision she can make... Yurushi (Approval/Permission) Again and again, Kyousuke has been trying to get permission to marry his love Misuzu. Yet no matter how many times he asks her father, he is repeatedly denied due to his low social standing. After countless months, Kyousuke finally gives up and breaks things off with Misuzu. Only later does she come to him and plead for him to return. But strange events have unfolded while Kyousuke was absent, and he may not be prepared for the truth that faces him. Hachi no Su (Beehive) Takano is an adamant fan of bees and makes beehive collecting a hobby of his. His only rival in the neighbourhood is a strange, unkempt boy, who handles bees as if he were one of them. But one day, the boy goes missing, and rumours circulate that his ghost is haunting the woods. When Takano spots a rare hornet, he sets off towards the woods to chase it, where the truth of the boy's disappearance will be unveiled... Hakumei (Dying Young) Ayako and her friends Chizuru and Hiroko belong to a group deemed \"The Ugly Trio\" due to their less-than-stellar looks. That is until Chizuru mysteriously starts to undergo a slow transformation, becoming prettier and prettier by the day. However, the prettier she gets, the less healthy she becomes, and soon —after becoming a lovely beauty—Chizuru collapses and dies. This event sets the precedent of what's to come, as slowly more and more girls start to become prettier... Kubi no Nai Choukoku (Headless Sculptures) Though friends Shimada and Rumi regularly walk home together, Rumi finds herself going alone one day when Shimada stays behind to help Mr. Okabe. An art teacher dedicated to crafting headless sculptures, Mr. Okabe enlists Shimada's help to meet the deadline for his next exhibition. But when Rumi goes to pick up Shimada the next day, he oddly refuses and stays home. At school, Rumi is met with shocking news: Mr. Okabe has been gruesomely decapitated, and his head is still missing. When Rumi tries to question Shimada for information, he tells her to follow him to the art room, within which the truth lies. Niku-iro no Kai (Flesh-Colored Horror) Walking home alone one night, kindergarten teacher Momoko Takigawa is assaulted by a shadowy figure who throws a sticky substance onto her. Hard enough to get off her skin, Momoko is left with no choice but to cut her hair short to remove it. Back at school, Momoko has a tough time handling her problem student, Chikara—a boy who stands out for his rough skin and violent fixation on peeling whatever's around him. Momoko decides that visiting Chikara's home for counsel may help. But in this attempt to remedy Chikara's issues, Momoko finds herself coming into contact with her mysterious attacker once more. [Written by MAL Rewrite] \n1. Long Hair in the Attic \n2. Permission/Forgiveness \n3. The Bee Hive \n4. Dying Young \n5. Headless Statues \n6. Flesh Coloured Horror",
+        "synopsis": "Yaneura no Nagai Kami (Long Hair in the Attic) The beautiful, long-haired Chiemi Amano has just been dumped by her playboy boyfriend, leaving her utterly dejected. Returning home, she begins to recall fond memories, such as how she grew her hair out for him. But now, these once pleasant recollections only further her depression, leading her to decide that cutting off her hair can free her from the heartbreak. However, she finds that doing so is no longer a decision she can make... Yurushi (Approval/Permission) Again and again, Kyousuke has been trying to get permission to marry his love Misuzu. Yet no matter how many times he asks her father, he is repeatedly denied due to his low social standing. After countless months, Kyousuke finally gives up and breaks things off with Misuzu. Only later does she come to him and plead for him to return. But strange events have unfolded while Kyousuke was absent, and he may not be prepared for the truth that faces him. Hachi no Su (Beehive) Takano is an adamant fan of bees and makes beehive collecting a hobby of his. His only rival in the neighbourhood is a strange, unkempt boy, who handles bees as if he were one of them. But one day, the boy goes missing, and rumours circulate that his ghost is haunting the woods. When Takano spots a rare hornet, he sets off towards the woods to chase it, where the truth of the boy's disappearance will be unveiled... Hakumei (Dying Young) Ayako and her friends Chizuru and Hiroko belong to a group deemed \"The Ugly Trio\" due to their less-than-stellar looks. That is until Chizuru mysteriously starts to undergo a slow transformation, becoming prettier and prettier by the day. However, the prettier she gets, the less healthy she becomes, and soon —after becoming a lovely beauty—Chizuru collapses and dies. This event sets the precedent of what's to come, as slowly more and more girls start to become prettier... Kubi no Nai Choukoku (Headless Sculptures) Though friends Shimada and Rumi regularly walk home together, Rumi finds herself going alone one day when Shimada stays behind to help Mr. Okabe. An art teacher dedicated to crafting headless sculptures, Mr. Okabe enlists Shimada's help to meet the deadline for his next exhibition. But when Rumi goes to pick up Shimada the next day, he oddly refuses and stays home. At school, Rumi is met with shocking news: Mr. Okabe has been gruesomely decapitated, and his head is still missing. When Rumi tries to question Shimada for information, he tells her to follow him to the art room, within which the truth lies. Niku-iro no Kai (Flesh-Colored Horror) Walking home alone one night, kindergarten teacher Momoko Takigawa is assaulted by a shadowy figure who throws a sticky substance onto her. Hard enough to get off her skin, Momoko is left with no choice but to cut her hair short to remove it. Back at school, Momoko has a tough time handling her problem student, Chikara—a boy who stands out for his rough skin and violent fixation on peeling whatever's around him. Momoko decides that visiting Chikara's home for counsel may help. But in this attempt to remedy Chikara's issues, Momoko finds herself coming into contact with her mysterious attacker once more. [Written by MAL Rewrite] \n\n1. Long Hair in the Attic \n2. Permission/Forgiveness \n3. The Bee Hive \n4. Dying Young \n5. Headless Statues \n6. Flesh Coloured Horror",
         "background": "Ito Junji Kyoufu Manga Collection - Flesh-Colored Horror was published in English as Flesh-Colored Horror by ComicsOne on July 15, 2001 as the third book in their The Junji Ito Horror Comic Collection.",
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/3/79113.jpg",
@@ -550,13 +853,65 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44743"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Ayako",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/8/393323.jpg?s=2bd1205530ec99be96a91730de099ffe"
+            },
+            {
+                "name": "Chiemi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/3/481142.jpg?s=d248387ff39cb8e40e7c718c6bd68ef8"
+            },
+            {
+                "name": "Hirao, Kyosuke",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/4/393319.jpg?s=8e677af8583519a70711e390db402cd4"
+            },
+            {
+                "name": "Amano",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/481184.jpg?s=c2fea35dbaea71e54ba69ad3bc754f79"
+            },
+            {
+                "name": "Eri",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/9/481182.jpg?s=7aaf59a8d94152d44a7d8bee31f58a2e"
+            },
+            {
+                "name": "Hiratsuka",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/481185.jpg?s=4591625da2a26b5d1d318c873ce1b1c8"
+            },
+            {
+                "name": "Hiroko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/14/393322.jpg?s=f5f7651c845f4b20e858482f8902450e"
+            },
+            {
+                "name": "Rumi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Shimada",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Tanaka, Chizuru",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/5/393321.jpg?s=a0496f00f52693b278371a1358c72075"
+            }
+        ]
     },
     {
         "_id": 44761,
         "slug": "ito-junji-kyoufu-manga-collection-ijimetsu-musume",
         "title": "Ito Junji Kyoufu Manga Collection - Ijimetsu Musume",
-        "synopsis": "The Ito Junji Kyoufu Manga Collection features themed one-shots from Junji Ito in Hontou ni Atta Kowai Hanashi mangazine. Volume 12. \n1. The Bully \n2. House of the Deserter \n3. Father's Heart \n4. Memory \n5. The Back Alley \n6. Love by the Book \n7. In the Soil",
+        "synopsis": "The Ito Junji Kyoufu Manga Collection features themed one-shots from Junji Ito in Hontou ni Atta Kowai Hanashi mangazine. Volume 12. \n\n1. The Bully \n2. House of the Deserter \n3. Father's Heart \n4. Memory \n5. The Back Alley \n6. Love by the Book \n7. In the Soil",
         "background": null,
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/1/79131.jpg",
@@ -591,7 +946,109 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44761"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Adera",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/3/393869.jpg?s=c400a9206aadd87e0c4e20bd8f0a70e9"
+            },
+            {
+                "name": "Furukawa, Saburo",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/393870.jpg?s=f0b2c29187b6c8ddca0dbd16ad58017c"
+            },
+            {
+                "name": "Ishida",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/6/393872.jpg?s=25c25a49f90725a21bb218acf29decc5"
+            },
+            {
+                "name": "Kaori",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/9/393875.jpg?s=45ea16502ab1b80df753c38fb2c7a942"
+            },
+            {
+                "name": "Kuriko",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/12/481157.jpg?s=b4268d6ab0584aa5b86b47080c6c89dd"
+            },
+            {
+                "name": "Rie",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/12/393871.jpg?s=018c89abfaf6e5be84cab069159c80e3"
+            },
+            {
+                "name": "Shinobu",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/14/393873.jpg?s=1165f71fccfa62ca2398aa7a9696a309"
+            },
+            {
+                "name": "Takahashi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/7/393876.jpg?s=f5ca3890828e0c5dd7081723f54ace55"
+            },
+            {
+                "name": "Todo, Miho",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/9/393864.jpg?s=88e64552e5e71c5c2f28ae8d6642d324"
+            },
+            {
+                "name": "Tsukasa",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/7/393865.jpg?s=61c88e57c09366f642b29cfa120d3e4f"
+            },
+            {
+                "name": "Yamaguchi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/16/393888.jpg?s=028aad078d453b2bfae410b6d0b8322a"
+            },
+            {
+                "name": "Eijji",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/393887.jpg?s=32de7730943e5e3a60d0e798db095d10"
+            },
+            {
+                "name": "Hiroshi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/14/481169.jpg?s=dc0f6ff78a9f236c95b34b8436c65006"
+            },
+            {
+                "name": "Kikuyo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/15/393868.jpg?s=c9175f212385048f01b0a1b25250da53"
+            },
+            {
+                "name": "Mr. Todo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Nao",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/15/393867.jpg?s=4e4100ef369fe39a7d645f9748f3925d"
+            },
+            {
+                "name": "Shinoda, Kumi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/393886.jpg?s=e999f43fc3c49bc5ff712243be2d32ba"
+            },
+            {
+                "name": "Todo, Satoru",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/12/393861.jpg?s=383f1ae7eef3760018762489e12eac3f"
+            },
+            {
+                "name": "Todo, Eiichi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/14/393863.jpg?s=ad000cff210c0797d1ed422399fb350f"
+            },
+            {
+                "name": "Yutaro",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/9/481168.jpg?s=eacd164fafc5b4831e63e7f2f055dc6b"
+            }
+        ]
     },
     {
         "_id": 44745,
@@ -633,13 +1090,35 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44745"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Evil Man",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/6/391096.jpg?s=59201baf34a68419978fc6bb3b2dab26"
+            },
+            {
+                "name": "Morinaka, Kazuko",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Fujino, Terumi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Shiraishi, Shinya",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            }
+        ]
     },
     {
         "_id": 44755,
         "slug": "ito-junji-kyoufu-manga-collection-kubi-gensou",
         "title": "Ito Junji Kyoufu Manga Collection - Kubi Gensou",
-        "synopsis": "Tooru Oshikiri is a quiet boy of short stature and few friends. While his parents are out working abroad, he lives alone in a big mansion, compounding his loneliness and affecting his grip on reality. Moreover, strange things tend to happen to him and those he gets involved with. Grappling with harrowing hallucinations of long-necked people, a haunted bog rumoured to trap its victims, a strange girl with even stranger penpals, and the mysterious circumstances within his own house, it seems the supernatural is all but an inevitable occurrence for Oshikiri. Yet with each inexplicable occurrence, his reality alters slightly between the last. Just what is the truth behind these discrepancies? Is this really happening to the same Oshikiri? [Written by MAL Rewrite] \n1. Hallucinations \n2. Bog of the Living Dead \n3. Penpal \n4. Intruder \n5. Further Tales of Oshikiri \n6. Further Tales of Oshikiri: The Wall",
+        "synopsis": "Tooru Oshikiri is a quiet boy of short stature and few friends. While his parents are out working abroad, he lives alone in a big mansion, compounding his loneliness and affecting his grip on reality. Moreover, strange things tend to happen to him and those he gets involved with. Grappling with harrowing hallucinations of long-necked people, a haunted bog rumoured to trap its victims, a strange girl with even stranger penpals, and the mysterious circumstances within his own house, it seems the supernatural is all but an inevitable occurrence for Oshikiri. Yet with each inexplicable occurrence, his reality alters slightly between the last. Just what is the truth behind these discrepancies? Is this really happening to the same Oshikiri? [Written by MAL Rewrite] \n\n1. Hallucinations \n2. Bog of the Living Dead \n3. Penpal \n4. Intruder \n5. Further Tales of Oshikiri \n6. Further Tales of Oshikiri: The Wall",
         "background": "Ito Junji Kyoufu Manga Collection - Kubi Gensou was published in English by VIZ Media as a part of their Junji Itou story collection Frankenstein.",
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/1/79125.jpg",
@@ -672,7 +1151,34 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44755"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Oshikiri, Tooru",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/16/353262.jpg?s=95727e24c6b9413c9e5cd833ad37f2f2"
+            },
+            {
+                "name": "Hotta",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/393774.jpg?s=85d9d2acc0c5675a6895dbd27a9cbb37"
+            },
+            {
+                "name": "Kojima",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/393784.jpg?s=3c0a0ef5ccfa8ac2b2f6f9ccb9e3d1e6"
+            },
+            {
+                "name": "Nakajima",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/9/393773.jpg?s=7a61712caad104e276cc1c91cd970c51"
+            },
+            {
+                "name": "Satomi, Kazuko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/244317.jpg?s=dd0008e5c6e3edc7a44dd2182ace4543"
+            }
+        ]
     },
     {
         "_id": 44759,
@@ -711,7 +1217,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44759"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 44751,
@@ -754,13 +1261,60 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44751"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Akasaka",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/6/393565.jpg?s=f1ce9698c9224ea6cd55b7f44839b92d"
+            },
+            {
+                "name": "Kubota",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/16/393572.jpg?s=59ccafad07c9c340a07d9e5408013668"
+            },
+            {
+                "name": "Shimizu, Shinri",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/393570.jpg?s=e48982b159c52c30938ab79998e3846a"
+            },
+            {
+                "name": "Shimizu, Reina",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/14/393571.jpg?s=e9ddf46597e85ad906eb1a21dd3a9082"
+            },
+            {
+                "name": "Yuuji",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/16/393566.jpg?s=884821a72036aa969038eee1abbfccce"
+            },
+            {
+                "name": "Yuuko",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/16/393563.jpg?s=8c9b13266948ccc6fee692247c77e70c"
+            },
+            {
+                "name": "Hideo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/15/466945.jpg?s=c00aa5af6e66206ad2971784cdfca016"
+            },
+            {
+                "name": "Rie",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/393564.jpg?s=99702ef7f68cf3b23d9977e950bd0d37"
+            },
+            {
+                "name": "Rina",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/393567.jpg?s=ed078b3886c96a12735f6ae8ddb3e1f1"
+            }
+        ]
     },
     {
         "_id": 44749,
         "slug": "ito-junji-kyoufu-manga-collection-souichi-no-noroi-nikki",
         "title": "Ito Junji Kyoufu Manga Collection - Souichi no Noroi Nikki",
-        "synopsis": "Souichi Series Souichi Tsujii, lover of all things wicked and occult, returns to do what he does best: casting mischief and curses on those around him. This time, he attempts to capitalize on his mystic powers, play his hand at popularity, pester his grandfather into building him a coffin, and as usual, torment his elder brother Kouchi. And like always, his shenanigans tend to backfire on him, though this time they may have a more lasting effect... Fashion Model Amateur scriptwriter Iwasaki awakens one day to a bad feeling, which means something very unpleasant is inbound. Flipping through a fashion magazine, he comes across an eerie model who sports a visage straight from a nightmare. Her unsettling countenance haunts Iwasaki for weeks and festers in his mind, growing more and more monstrous. It is only with the passage of time that this frightening image fades away. However, when his film crew decides to open casting calls for their next project, his disturbing premonition returns once more... [Written by MAL Rewrite] \n1. Souichi's Selfish Curse \n2. The Silent Room \n3. The Coffin \n4. Rumors \n5. Fashion Model",
+        "synopsis": "Souichi Series Souichi Tsujii, lover of all things wicked and occult, returns to do what he does best: casting mischief and curses on those around him. This time, he attempts to capitalize on his mystic powers, play his hand at popularity, pester his grandfather into building him a coffin, and as usual, torment his elder brother Kouchi. And like always, his shenanigans tend to backfire on him, though this time they may have a more lasting effect... Fashion Model Amateur scriptwriter Iwasaki awakens one day to a bad feeling, which means something very unpleasant is inbound. Flipping through a fashion magazine, he comes across an eerie model who sports a visage straight from a nightmare. Her unsettling countenance haunts Iwasaki for weeks and festers in his mind, growing more and more monstrous. It is only with the passage of time that this frightening image fades away. However, when his film crew decides to open casting calls for their next project, his disturbing premonition returns once more... [Written by MAL Rewrite] \n\n1. Souichi's Selfish Curse \n2. The Silent Room \n3. The Coffin \n4. Rumors \n5. Fashion Model",
         "background": "Fashion Model was published in English by VIZ Media as part of Shiver: Junji Ito Selected Stories on December 19, 2017.",
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/3/79119.jpg",
@@ -794,13 +1348,55 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44749"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Tsujii, Souichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+            },
+            {
+                "name": "Fuchi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+            },
+            {
+                "name": "Hirose, Michina",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/393387.jpg?s=58f31801ed7403d5f3d8a4ddbaaf93e6"
+            },
+            {
+                "name": "Hirose, Yuusuke",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/393388.jpg?s=651ff63ef92a978de5a96680a146571c"
+            },
+            {
+                "name": "Sakiyama, Midori",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/393408.jpg?s=4de45113433025e903dc7b9b899ff3bd"
+            },
+            {
+                "name": "Tagaisu",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Taniyama, Madoka",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/393409.jpg?s=c22b2ecfdad043932bfffbda303b9ece"
+            },
+            {
+                "name": "Tsujii, Kouichi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/349719.jpg?s=eaef8a0a187ab62e2d2d84b5444182a4"
+            }
+        ]
     },
     {
         "_id": 44747,
         "slug": "ito-junji-kyoufu-manga-collection-souichi-no-tanoshii-nikki",
         "title": "Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki",
-        "synopsis": "In the summer, siblings Michina and Yuusuke Hirose visit their distant relatives in the countryside. Though they haven't met in years, they quickly find that they're in for a relaxing vacation: they get along well with their cousins Kouchi and Sayuri Tsujii, there's a pool within walking distance, and the scenery is ever refreshing. There is just one blight upon this otherwise lovely trip: Souichi Tsujii, the bratty third Tsujii child and black sheep of the family. Nail-sucking, occult-loving, and utterly mischievous, Souichi's idea of amusement is anything that makes others squirm. Whether its throwing curses on his cousins, bewitching his classmates, or replacing his teachers with living dolls, Souichi finds all kinds of ways to ruin the fun that he's left out of. But even with his own mystical powers, his havoc never lasts too long: for when Souichi causes trouble, it always comes back his way. [Written by MAL Rewrite] \n1. Fun Summer Vacation \n2. Fun Winter Vacation \n3. Souichi's Diary of Delights \n4. Souichi's Home Tutor \n5. Cloth Teachers \n6. Souichi's Birthday",
+        "synopsis": "In the summer, siblings Michina and Yuusuke Hirose visit their distant relatives in the countryside. Though they haven't met in years, they quickly find that they're in for a relaxing vacation: they get along well with their cousins Kouchi and Sayuri Tsujii, there's a pool within walking distance, and the scenery is ever refreshing. There is just one blight upon this otherwise lovely trip: Souichi Tsujii, the bratty third Tsujii child and black sheep of the family. Nail-sucking, occult-loving, and utterly mischievous, Souichi's idea of amusement is anything that makes others squirm. Whether its throwing curses on his cousins, bewitching his classmates, or replacing his teachers with living dolls, Souichi finds all kinds of ways to ruin the fun that he's left out of. But even with his own mystical powers, his havoc never lasts too long: for when Souichi causes trouble, it always comes back his way. [Written by MAL Rewrite] \n\n1. Fun Summer Vacation \n2. Fun Winter Vacation \n3. Souichi's Diary of Delights \n4. Souichi's Home Tutor \n5. Cloth Teachers \n6. Souichi's Birthday",
         "background": "Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki was published in Polish by Japonica Polonica Fantastica on December 7, 2015.",
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/1/185640.jpg",
@@ -834,13 +1430,55 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44747"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Tsujii, Souichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+            },
+            {
+                "name": "Anjyou, Yumiko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/393393.jpg?s=ddb2fe1286cb2fd690955c3f94cbb460"
+            },
+            {
+                "name": "Fukaya, Yumiko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/393394.jpg?s=9886bc69d65391ff93ee67ac3a8cbf87"
+            },
+            {
+                "name": "Hirose, Yuusuke",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/393388.jpg?s=651ff63ef92a978de5a96680a146571c"
+            },
+            {
+                "name": "Hirose, Michina",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/4/393387.jpg?s=58f31801ed7403d5f3d8a4ddbaaf93e6"
+            },
+            {
+                "name": "Tsujii, Kouichi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/349719.jpg?s=eaef8a0a187ab62e2d2d84b5444182a4"
+            },
+            {
+                "name": "Wakayama, Kousetsu",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/393392.jpg?s=213874a21e31ade78377325701628cbc"
+            },
+            {
+                "name": "Yanagida",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/393391.jpg?s=95d256fd4e14f45e8451cff73a112af7"
+            }
+        ]
     },
     {
         "_id": 44765,
         "slug": "ito-junji-kyoufu-manga-collection-tunnel-no-tan",
         "title": "Ito Junji Kyoufu Manga Collection - Tunnel no Tan",
-        "synopsis": "The Ito Junji Kyoufu Manga Collection features themed one-shots from Junji Ito in Hontou ni Atta Kowai Hanashi mangazine. Volume 14. \n1. Long Dream \n2. The Story of the Mysterious Tunnel \n3. The Bronze Statue \n4. Drifting Spores \n5. Blood Sickness of the White Sands Village",
+        "synopsis": "The Ito Junji Kyoufu Manga Collection features themed one-shots from Junji Ito in Hontou ni Atta Kowai Hanashi mangazine. Volume 14. \n\n1. Long Dream \n2. The Story of the Mysterious Tunnel \n3. The Bronze Statue \n4. Drifting Spores \n5. Blood Sickness of the White Sands Village",
         "background": "Long Dream was published in English as The Long Dream by VIZ Media as part of Shiver: Junji Ito Selected Stories on December 19, 2017.",
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/5/185885.jpg",
@@ -873,7 +1511,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44765"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 17192,
@@ -908,7 +1547,29 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/17192"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "A-ko",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/3/449231.jpg?s=aeadc3e67c473d3b160c9af0407b1108"
+            },
+            {
+                "name": "Ito, Junji",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/4/449232.jpg?s=4d29e00d683a0633611263ae808c032f"
+            },
+            {
+                "name": "Muu",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/9/116264.jpg?s=931f5b107dd4b61b785f0386683daf19"
+            },
+            {
+                "name": "Yon",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/16/391079.jpg?s=68134f4b187cccda889cc618ae1ac614"
+            }
+        ]
     },
     {
         "_id": 136793,
@@ -950,13 +1611,14 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/136793"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 44767,
         "slug": "itou-junji-kyoufu-manga-collection-15-hibito-no-koiwazurai",
         "title": "Itou Junji Kyoufu Manga Collection 15: Hibito no Koiwazurai",
-        "synopsis": "High school student Ryuusuke Fukada returns to the place he grew up: Nazumi, a town drenched in thick fog. Thanks to the unique weather, one game has become commonplace among the residents: intersection fortune-telling, where strangers meet up at crossroads to ask for anonymous advice. Though fun and exciting for most, this game holds nothing but dark memories for Ryuusuke, for when he was a child, his involvement had disastrous results for the other player. As a result, these memories hinder Ryuusuke's return to the town, as well as his reunion with his childhood friend Midori Shibayama. With Ryuusuke's arrival however, a new figure emerges in this game: the Intersections Pretty Boy. This devilishly handsome but wicked presence gives nothing but cruel and harsh advice to anyone who has the misfortune of crossing his path. What's more, his advice has bewitching effects on those he encounters. With tragic results spreading as a consequence, Ryuusuke determines to prevent this man from repeating the past. But can he stop this enigmatic figure, or do only torment and misery await those who try? [Written by MAL Rewrite] \n1. Yotsutsuji no Bishounen (The Beautiful Youth of the Intersections) \n2. Nayamu Onna (The Anxious Woman) \n3. Kage (Shadows) \n4. Zekkyou no Yoru (Screams in the Night)",
+        "synopsis": "High school student Ryuusuke Fukada returns to the place he grew up: Nazumi, a town drenched in thick fog. Thanks to the unique weather, one game has become commonplace among the residents: intersection fortune-telling, where strangers meet up at crossroads to ask for anonymous advice. Though fun and exciting for most, this game holds nothing but dark memories for Ryuusuke, for when he was a child, his involvement had disastrous results for the other player. As a result, these memories hinder Ryuusuke's return to the town, as well as his reunion with his childhood friend Midori Shibayama. With Ryuusuke's arrival however, a new figure emerges in this game: the Intersections Pretty Boy. This devilishly handsome but wicked presence gives nothing but cruel and harsh advice to anyone who has the misfortune of crossing his path. What's more, his advice has bewitching effects on those he encounters. With tragic results spreading as a consequence, Ryuusuke determines to prevent this man from repeating the past. But can he stop this enigmatic figure, or do only torment and misery await those who try? [Written by MAL Rewrite] \n\n1. Yotsutsuji no Bishounen (The Beautiful Youth of the Intersections) \n2. Nayamu Onna (The Anxious Woman) \n3. Kage (Shadows) \n4. Zekkyou no Yoru (Screams in the Night)",
         "background": "Itou Junji Kyoufu Manga Collection 15: Hibito no Koiwazurai was adapted to a live-action film which was released in Japan on March 24, 2001.",
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/3/186945.jpg",
@@ -994,7 +1656,34 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44767"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Fukata, Ryuusuke",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/394145.jpg?s=a805f97fe38956c01bdab16f69cee6bf"
+            },
+            {
+                "name": "Shibayama, Midori",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/394141.jpg?s=225c865a1fc47f5f02d9bba96eeccc0e"
+            },
+            {
+                "name": "Yotsutsuji no Bishounen",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/9/353260.jpg?s=55df97b18d58c044554becabcb068fdc"
+            },
+            {
+                "name": "Tanaka, Reishi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/9/394146.jpg?s=b5a54727202d1cbf92c3af11c2cd7713"
+            },
+            {
+                "name": "Teshima, Koutarou",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/13/394140.jpg?s=57e11966e74869d043e2fcdb54c79b75"
+            }
+        ]
     },
     {
         "_id": 44769,
@@ -1030,7 +1719,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/44769"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 3992,
@@ -1065,7 +1755,24 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/3992"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Hellstar Remina",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/13/400698.jpg?s=7db57b3b8505c18ff5b5e1735446b384"
+            },
+            {
+                "name": "Ooguro, Remina",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/14/471904.jpg?s=5dc07ceab35000bbfb67922e59ba7682"
+            },
+            {
+                "name": "Mitsumura, Yasumi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/11/48997.jpg?s=d32d2730eca1652e4356598df0b5efa4"
+            }
+        ]
     },
     {
         "_id": 124772,
@@ -1099,13 +1806,14 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/124772"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 66425,
         "slug": "kai-sasu",
         "title": "Kai, Sasu",
-        "synopsis": "This is light novel written by Kihara Hirokatsu, only the last chapter is in the manga format. \n1. Kao \n2. Toshoshitsu \n3. Umi kara... \n4. O-Bon \n5. Engeki Happyoukai \n6. Folk Dance \n7. Shichigosan \n8. Yuki no Futta Hi \n9. Kuchibiru \n10. Natsu no Sotsugyou Ryouko (The Summer Time Graduation Trip) - manga",
+        "synopsis": "This is light novel written by Kihara Hirokatsu, only the last chapter is in the manga format. \n\n1. Kao \n2. Toshoshitsu \n3. Umi kara... \n4. O-Bon \n5. Engeki Happyoukai \n6. Folk Dance \n7. Shichigosan \n8. Yuki no Futta Hi \n9. Kuchibiru \n10. Natsu no Sotsugyou Ryouko (The Summer Time Graduation Trip) - manga",
         "background": null,
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/2/115995.jpg",
@@ -1130,13 +1838,14 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/66425"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 64755,
         "slug": "kaiki-kanzume",
         "title": "Kaiki Kanzume",
-        "synopsis": "This is a compilation of select stories from the Ito Junji Kyoufu Manga Collection. \n1. Nakama no Ie \n2. Namekuji Shoujo \n3. Tonari no Mado \n4. Hyouchakumono \n5. Gosenzo-sama \n6. Ijou Sekkin: Near-Miss \n7. Kaiki Hikizuri Kyoudai◎Jijo no Koibito \n8. Kaiki Hikizuri Kyoudai◎Koureikai",
+        "synopsis": "This is a compilation of select stories from the Ito Junji Kyoufu Manga Collection. \n\n1. Nakama no Ie \n2. Namekuji Shoujo \n3. Tonari no Mado \n4. Hyouchakumono \n5. Gosenzo-sama \n6. Ijou Sekkin: Near-Miss \n7. Kaiki Hikizuri Kyoudai◎Jijo no Koibito \n8. Kaiki Hikizuri Kyoudai◎Koureikai",
         "background": null,
         "img": {
             "normal": "https://cdn.myanimelist.net/images/manga/3/110623.jpg",
@@ -1172,7 +1881,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/64755"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 109543,
@@ -1205,7 +1915,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/109543"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 140969,
@@ -1239,7 +1950,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/140969"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 52435,
@@ -1286,7 +1998,14 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/52435"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Mayumi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            }
+        ]
     },
     {
         "_id": 82195,
@@ -1317,7 +2036,14 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/82195"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Koji",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/392746.jpg?s=97a7e10e54d39c6163136791e12601d1"
+            }
+        ]
     },
     {
         "_id": 132676,
@@ -1351,7 +2077,19 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/132676"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Tomie",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/15/353258.jpg?s=b6de9221d4493ff7038450fd1317d3fe"
+            },
+            {
+                "name": "Tsujii, Souichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+            }
+        ]
     },
     {
         "_id": 13841,
@@ -1380,7 +2118,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/13841"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 106609,
@@ -1411,7 +2150,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/106609"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 115507,
@@ -1445,7 +2185,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/115507"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 4628,
@@ -1485,7 +2226,34 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/4628"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Kouko",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Fuchi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+            },
+            {
+                "name": "Shirasaki, Gorou",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Tsujii, Binzo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Tsujii, Souichi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+            }
+        ]
     },
     {
         "_id": 96896,
@@ -1526,7 +2294,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/96896"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 912,
@@ -1559,7 +2328,69 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/912"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Izumisawa, Tsukiko",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/14/392531.jpg?s=52c2cf266677ea568ed0bfc198006ee0"
+            },
+            {
+                "name": "Tomie",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/15/353258.jpg?s=b6de9221d4493ff7038450fd1317d3fe"
+            },
+            {
+                "name": "Kimata",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Koizumi, Ryo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/7/405582.jpg?s=a99630834243f9b47f2cd2756b2b9fd5"
+            },
+            {
+                "name": "Michiko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/9/386595.jpg?s=cad2f25c90b91dbe4692aadbb5bd0478"
+            },
+            {
+                "name": "Mio, Yukiko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/11/392543.jpg?s=c142d283ed4ddf64dc6a25fc20cce053"
+            },
+            {
+                "name": "Mori, Mitsuo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/392548.jpg?s=77465bde2aa3b874795d22e90de018fd"
+            },
+            {
+                "name": "Nakamura, Yasuko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/5/405583.jpg?s=48c930037970c798beb538d4cc1d5cf7"
+            },
+            {
+                "name": "Sato, Fumihito",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/14/392542.jpg?s=307b37079b0d0604296a5a4c126d466d"
+            },
+            {
+                "name": "Taichi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Takagi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/392655.jpg?s=b0feac81b7b749ab9cae2f42a72f0772"
+            },
+            {
+                "name": "Yamazaki",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/8/392530.jpg?s=36f6bd6be0631e7984e60c0beb92da69"
+            }
+        ]
     },
     {
         "_id": 128080,
@@ -1592,7 +2423,14 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/128080"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Tomie",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/15/353258.jpg?s=b6de9221d4493ff7038450fd1317d3fe"
+            }
+        ]
     },
     {
         "_id": 436,
@@ -1627,7 +2465,124 @@
                 "cdjapan": "https://www.cdjapan.co.jp/product/NEOBK-749009",
                 "mal": "https://myanimelist.net/manga/436"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Goshima, Kirie",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/60853.jpg?s=7d0cecdb66eaca02aace7041aed2df96"
+            },
+            {
+                "name": "Saitou, Shuuichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/8/318710.jpg?s=4eeebc92511643d94c01737e066a7d17"
+            },
+            {
+                "name": "Endou, Yoriko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/366727.jpg?s=2c6a6c2ef9e3fd77f3a4490d53a37ac8"
+            },
+            {
+                "name": "Goshima, Mitsuo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/366724.jpg?s=8457c96b43dce93a6a04e0681dd612e0"
+            },
+            {
+                "name": "Goshima, Yasuo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/11/366723.jpg?s=70b857a747d7873c70b2ba5b369ee83a"
+            },
+            {
+                "name": "Goshima, Mother",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/366725.jpg?s=28c11d192bcf950cabd258e7423bea14"
+            },
+            {
+                "name": "Ishikawa, Shiho",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/366661.jpg?s=c08a2352b17abb2181f4a59be514c019"
+            },
+            {
+                "name": "Katayama",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/6/366728.jpg?s=77b64feef2023bfdb75c8d36790303ad"
+            },
+            {
+                "name": "Kurotani, Azami",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/8/290732.jpg?s=091c59230eefc17c0d995f30e46d7eee"
+            },
+            {
+                "name": "Maruyama, Chie",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/10/366662.jpg?s=46e25685bd52b3348d7c615b6b9a241c"
+            },
+            {
+                "name": "Nakayama, Keiko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/12/366731.jpg?s=73f99612182d100ab956dbe434197d2d"
+            },
+            {
+                "name": "Nishiki, Kazunori",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/7/366726.jpg?s=987b6e371e7e99df40de59d6772cfb8d"
+            },
+            {
+                "name": "Okada",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/5/454824.jpg?s=775ab19d2c9cda4d23e0755cdd0b219f"
+            },
+            {
+                "name": "Saitou, Toshio",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/15/366629.jpg?s=bc5c6906ccb01984b8812895dd9c3c35"
+            },
+            {
+                "name": "Saitou, Yukie",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            },
+            {
+                "name": "Sekino, Kyoko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/14/366630.jpg?s=a4842458244fb29e673e47fed860f347"
+            },
+            {
+                "name": "Takemoto",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/3/366734.jpg?s=5ff020ea10a5f6ebc0ca4928ecfa6f6a"
+            },
+            {
+                "name": "Tanizaki",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/7/366733.jpg?s=fd3e639d5a79ecfc5e8d1d21589c4b50"
+            },
+            {
+                "name": "Torino",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/8/366735.jpg?s=4692c52f6f854393a092bf13fb5ddde8"
+            },
+            {
+                "name": "Tsumura",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/366730.jpg?s=f29f2a7769d3238d5fd7a96c92ff354d"
+            },
+            {
+                "name": "Wakabayashi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/13/366732.jpg?s=c9423a2b1bb6646d30b8299fdf08dd8a"
+            },
+            {
+                "name": "Yamaguchi, Mitsuru",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/9/341636.jpg?s=2f4fd3c597da9c9f99c4569777b24cf6"
+            },
+            {
+                "name": "Yokota",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/13/366729.jpg?s=2cc5239b737398890a23eeb51aa0d58e"
+            }
+        ]
     },
     {
         "_id": 119534,
@@ -1660,7 +2615,24 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/119534"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Goshima, Kirie",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/10/60853.jpg?s=7d0cecdb66eaca02aace7041aed2df96"
+            },
+            {
+                "name": "Saitou, Shuuichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/8/318710.jpg?s=4eeebc92511643d94c01737e066a7d17"
+            },
+            {
+                "name": "Torino",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/8/366735.jpg?s=4692c52f6f854393a092bf13fb5ddde8"
+            }
+        ]
     },
     {
         "_id": 93963,
@@ -1693,7 +2665,8 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/93963"
             }
-        }
+        },
+        "characters": []
     },
     {
         "_id": 3126,
@@ -1739,7 +2712,29 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/3126"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Tsujii, Kouichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/349719.jpg?s=eaef8a0a187ab62e2d2d84b5444182a4"
+            },
+            {
+                "name": "Tsujii, Souichi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+            },
+            {
+                "name": "Fuchi",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+            },
+            {
+                "name": "Tsujii, Binzo",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            }
+        ]
     },
     {
         "_id": 58245,
@@ -1784,7 +2779,24 @@
                 "cdjapan": null,
                 "mal": "https://myanimelist.net/manga/58245"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Azawa, Chizumi",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/7/481088.jpg?s=f3fb383c777c7dc2dde12929f65a3f7b"
+            },
+            {
+                "name": "Azawa, Yuuma",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/characters/3/476435.jpg?s=07d622d2f451dd071dbcf341cc9afb4b"
+            },
+            {
+                "name": "Arisu, Keiko",
+                "role": "Supporting",
+                "img": "https://cdn.myanimelist.net/images/characters/2/481087.jpg?s=1ce2855b9894482f592d8e4a559a1284"
+            }
+        ]
     },
     {
         "_id": 21344,
@@ -1813,6 +2825,13 @@
                 "cdjapan": "https://www.cdjapan.co.jp/product/NEOBK-888406",
                 "mal": "https://myanimelist.net/manga/21344"
             }
-        }
+        },
+        "characters": [
+            {
+                "name": "Yuki, Mamoru",
+                "role": "Main",
+                "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+            }
+        ]
     }
 ]

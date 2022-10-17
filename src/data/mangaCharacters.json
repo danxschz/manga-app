@@ -1,0 +1,3375 @@
+[
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 85463,
+                    "url": "https://myanimelist.net/character/85463/Junji_Ito",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/449232.jpg?s=4d29e00d683a0633611263ae808c032f"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/449232.webp?s=4d29e00d683a0633611263ae808c032f",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/449232t.webp?s=4d29e00d683a0633611263ae808c032f"
+                        }
+                    },
+                    "name": "Ito, Junji"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 195595,
+                    "url": "https://myanimelist.net/character/195595/Baracchi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/439540.jpg?s=44ad15848ee81ddbdd9e96b5a84a6b88"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/439540.webp?s=44ad15848ee81ddbdd9e96b5a84a6b88",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/439540t.webp?s=44ad15848ee81ddbdd9e96b5a84a6b88"
+                        }
+                    },
+                    "name": "Baracchi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 125398,
+                    "url": "https://myanimelist.net/character/125398/Marisol",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/439537.jpg?s=e994772067a67f68506b69203e0f59f7"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/439537.webp?s=e994772067a67f68506b69203e0f59f7",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/439537t.webp?s=e994772067a67f68506b69203e0f59f7"
+                        }
+                    },
+                    "name": "Marisol"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 195594,
+                    "url": "https://myanimelist.net/character/195594/Piitan",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/439539.jpg?s=d3d5f223b603524763d754f595647701"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/439539.webp?s=d3d5f223b603524763d754f595647701",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/439539t.webp?s=d3d5f223b603524763d754f595647701"
+                        }
+                    },
+                    "name": "Piitan"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 195597,
+                    "url": "https://myanimelist.net/character/195597/Suka",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/439543.jpg?s=e9920745b21a74277a92446c229a4fab"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/439543.webp?s=e9920745b21a74277a92446c229a4fab",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/439543t.webp?s=e9920745b21a74277a92446c229a4fab"
+                        }
+                    },
+                    "name": "Suka"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 171913,
+                    "url": "https://myanimelist.net/character/171913/Taburou",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/384843.jpg?s=27cb31385068488a5c1f04d947672d99"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/384843.webp?s=27cb31385068488a5c1f04d947672d99",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/384843t.webp?s=27cb31385068488a5c1f04d947672d99"
+                        }
+                    },
+                    "name": "Taburou"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 195596,
+                    "url": "https://myanimelist.net/character/195596/Rei_Tanio",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/439541.jpg?s=3842d38ee4529be0550a86a469d60635"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/439541.webp?s=3842d38ee4529be0550a86a469d60635",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/439541t.webp?s=3842d38ee4529be0550a86a469d60635"
+                        }
+                    },
+                    "name": "Tanio, Rei"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 195598,
+                    "url": "https://myanimelist.net/character/195598/Yamanishi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/439544.jpg?s=9e8dc98fcd73f0669116494146c5a817"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/439544.webp?s=9e8dc98fcd73f0669116494146c5a817",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/439544t.webp?s=9e8dc98fcd73f0669116494146c5a817"
+                        }
+                    },
+                    "name": "Yamanishi"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 199579,
+                    "url": "https://myanimelist.net/character/199579/Amy",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/449107.jpg?s=63330a1ac7d3559051c6420dccfd2b27"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/449107.webp?s=63330a1ac7d3559051c6420dccfd2b27",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/449107t.webp?s=63330a1ac7d3559051c6420dccfd2b27"
+                        }
+                    },
+                    "name": "Amy"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 158043,
+                    "url": "https://myanimelist.net/character/158043/Fuchi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/353259t.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        }
+                    },
+                    "name": "Fuchi"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 26834,
+                    "url": "https://myanimelist.net/character/26834/Tadashi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/158467.jpg?s=0e3ab715c775b4ba37a0f60227d78fb9"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/158467.webp?s=0e3ab715c775b4ba37a0f60227d78fb9",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/158467t.webp?s=0e3ab715c775b4ba37a0f60227d78fb9"
+                        }
+                    },
+                    "name": "Tadashi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 43843,
+                    "url": "https://myanimelist.net/character/43843/Sazuku_Koyanagi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/158475.jpg?s=164ea6b05f78d6dd00a13d149f5dfab0"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/158475.webp?s=164ea6b05f78d6dd00a13d149f5dfab0",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/158475t.webp?s=164ea6b05f78d6dd00a13d149f5dfab0"
+                        }
+                    },
+                    "name": "Koyanagi, Sazuku"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 43844,
+                    "url": "https://myanimelist.net/character/43844/Ms_Yoshiyama",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/252477.jpg?s=33a5f19a9fd1501de49c056ade73c9f7"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/252477.webp?s=33a5f19a9fd1501de49c056ade73c9f7",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/252477t.webp?s=33a5f19a9fd1501de49c056ade73c9f7"
+                        }
+                    },
+                    "name": "Ms. Yoshiyama"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 17873,
+                    "url": "https://myanimelist.net/character/17873/Kaori_Sawahara",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/158505.jpg?s=b30f27bfb375fdcfa66ac3f165e6e50c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/158505.webp?s=b30f27bfb375fdcfa66ac3f165e6e50c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/158505t.webp?s=b30f27bfb375fdcfa66ac3f165e6e50c"
+                        }
+                    },
+                    "name": "Sawahara, Kaori"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 202378,
+                    "url": "https://myanimelist.net/character/202378/Hasegawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/455612.jpg?s=0b27413ea067848dad3df599fb8d0dfc"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/455612.webp?s=0b27413ea067848dad3df599fb8d0dfc",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/455612t.webp?s=0b27413ea067848dad3df599fb8d0dfc"
+                        }
+                    },
+                    "name": "Hasegawa"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 78073,
+                    "url": "https://myanimelist.net/character/78073/Hiromi_Hayakari",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/277189.jpg?s=fd7098f1c5addceb70d4fc0d22e0d88a"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/277189.webp?s=fd7098f1c5addceb70d4fc0d22e0d88a",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/277189t.webp?s=fd7098f1c5addceb70d4fc0d22e0d88a"
+                        }
+                    },
+                    "name": "Hayakari, Hiromi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 202384,
+                    "url": "https://myanimelist.net/character/202384/Hayashi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/455618.jpg?s=1e5a1cf68d768f52d0348d133460a308"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/455618.webp?s=1e5a1cf68d768f52d0348d133460a308",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/455618t.webp?s=1e5a1cf68d768f52d0348d133460a308"
+                        }
+                    },
+                    "name": "Hayashi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 202377,
+                    "url": "https://myanimelist.net/character/202377/Natsumi_Kurashiki",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/455611.jpg?s=6d912623796039799c3ed05824575432"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/455611.webp?s=6d912623796039799c3ed05824575432",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/455611t.webp?s=6d912623796039799c3ed05824575432"
+                        }
+                    },
+                    "name": "Kurashiki, Natsumi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 202381,
+                    "url": "https://myanimelist.net/character/202381/Lila",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/455615.jpg?s=73336610bc92825f4ee0c0eebd74f496"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/455615.webp?s=73336610bc92825f4ee0c0eebd74f496",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/455615t.webp?s=73336610bc92825f4ee0c0eebd74f496"
+                        }
+                    },
+                    "name": "Lila"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 202380,
+                    "url": "https://myanimelist.net/character/202380/Shinichi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/455614.jpg?s=6457ee6575c70da9fa159d220db93059"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/455614.webp?s=6457ee6575c70da9fa159d220db93059",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/455614t.webp?s=6457ee6575c70da9fa159d220db93059"
+                        }
+                    },
+                    "name": "Shinichi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 202379,
+                    "url": "https://myanimelist.net/character/202379/Yumi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/455613.jpg?s=30154ca9c34d1dfee047d08b969c6fc6"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/455613.webp?s=30154ca9c34d1dfee047d08b969c6fc6",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/455613t.webp?s=30154ca9c34d1dfee047d08b969c6fc6"
+                        }
+                    },
+                    "name": "Yumi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 202383,
+                    "url": "https://myanimelist.net/character/202383/Cosmos_Hamada",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/455617.jpg?s=7ca2fe4c75771aefa6618f5cfed9d2f6"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/455617.webp?s=7ca2fe4c75771aefa6618f5cfed9d2f6",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/455617t.webp?s=7ca2fe4c75771aefa6618f5cfed9d2f6"
+                        }
+                    },
+                    "name": "Hamada, Cosmos"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 202375,
+                    "url": "https://myanimelist.net/character/202375/Sae",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/455607.jpg?s=e52065782cdb784c29b62128234633f6"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/455607.webp?s=e52065782cdb784c29b62128234633f6",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/455607t.webp?s=e52065782cdb784c29b62128234633f6"
+                        }
+                    },
+                    "name": "Sae"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 202382,
+                    "url": "https://myanimelist.net/character/202382/Yuno",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/455616.jpg?s=15b9991a2f59996e9073950338bc2f3c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/455616.webp?s=15b9991a2f59996e9073950338bc2f3c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/455616t.webp?s=15b9991a2f59996e9073950338bc2f3c"
+                        }
+                    },
+                    "name": "Yuno"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data":[
+            {
+                "character":{
+                    "mal_id":93931,
+                    "url":"https:\/\/myanimelist.net\/character\/93931\/Ryuusuke_Fukata",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394145.jpg?s=a805f97fe38956c01bdab16f69cee6bf"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394145.webp?s=a805f97fe38956c01bdab16f69cee6bf",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394145t.webp?s=a805f97fe38956c01bdab16f69cee6bf"
+                        }
+                    },
+                    "name":"Fukata, Ryuusuke"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":93933,
+                    "url":"https:\/\/myanimelist.net\/character\/93933\/Midori_Shibayama",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394141.jpg?s=225c865a1fc47f5f02d9bba96eeccc0e"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394141.webp?s=225c865a1fc47f5f02d9bba96eeccc0e",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394141t.webp?s=225c865a1fc47f5f02d9bba96eeccc0e"
+                        }
+                    },
+                    "name":"Shibayama, Midori"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":158508,
+                    "url":"https:\/\/myanimelist.net\/character\/158508\/Yotsutsuji_no_Bishounen",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/353260.jpg?s=55df97b18d58c044554becabcb068fdc"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/353260.webp?s=55df97b18d58c044554becabcb068fdc",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/353260t.webp?s=55df97b18d58c044554becabcb068fdc"
+                        }
+                    },
+                    "name":"Yotsutsuji no Bishounen"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":175751,
+                    "url":"https:\/\/myanimelist.net\/character\/175751\/Yuki",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394149.jpg?s=a8e9a50db8b425a0fef203329b79bd51"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394149.webp?s=a8e9a50db8b425a0fef203329b79bd51",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394149t.webp?s=a8e9a50db8b425a0fef203329b79bd51"
+                        }
+                    },
+                    "name":"Yuki"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":175750,
+                    "url":"https:\/\/myanimelist.net\/character\/175750\/Keisuke",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/10\/394148.jpg?s=17dac3c12d84d850b194658d647ee983"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/10\/394148.webp?s=17dac3c12d84d850b194658d647ee983",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/10\/394148t.webp?s=17dac3c12d84d850b194658d647ee983"
+                        }
+                    },
+                    "name":"Keisuke"
+                },
+                "role":"Supporting"
+            },
+            {
+                "character":{
+                    "mal_id":175749,
+                    "url":"https:\/\/myanimelist.net\/character\/175749\/Ruriko_Shimada",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/3\/394147.jpg?s=b97d4645f1f4bcddc3b665c5a80962b4"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/3\/394147.webp?s=b97d4645f1f4bcddc3b665c5a80962b4",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/3\/394147t.webp?s=b97d4645f1f4bcddc3b665c5a80962b4"
+                        }
+                    },
+                    "name":"Shimada, Ruriko"
+                },
+                "role":"Supporting"
+            },
+            {
+                "character":{
+                    "mal_id":93935,
+                    "url":"https:\/\/myanimelist.net\/character\/93935\/Reishi_Tanaka",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394146.jpg?s=b5a54727202d1cbf92c3af11c2cd7713"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394146.webp?s=b5a54727202d1cbf92c3af11c2cd7713",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394146t.webp?s=b5a54727202d1cbf92c3af11c2cd7713"
+                        }
+                    },
+                    "name":"Tanaka, Reishi"
+                },
+                "role":"Supporting"
+            },
+            {
+                "character":{
+                    "mal_id":93937,
+                    "url":"https:\/\/myanimelist.net\/character\/93937\/Koutarou_Teshima",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/13\/394140.jpg?s=57e11966e74869d043e2fcdb54c79b75"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/13\/394140.webp?s=57e11966e74869d043e2fcdb54c79b75",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/13\/394140t.webp?s=57e11966e74869d043e2fcdb54c79b75"
+                        }
+                    },
+                    "name":"Teshima, Koutarou"
+                },
+                "role":"Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 218808,
+                    "url": "https://myanimelist.net/character/218808/Yuki",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Yuki"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 218809,
+                    "url": "https://myanimelist.net/character/218809/Ice_Cream_Man",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Ice Cream Man"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 214000,
+                    "url": "https://myanimelist.net/character/214000/Mari",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/481179.jpg?s=f1acefc314259c3b6c660e7abc826094"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/481179.webp?s=f1acefc314259c3b6c660e7abc826094",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/481179t.webp?s=f1acefc314259c3b6c660e7abc826094"
+                        }
+                    },
+                    "name": "Mari"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218806,
+                    "url": "https://myanimelist.net/character/218806/Sonohara",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Sonohara"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 213999,
+                    "url": "https://myanimelist.net/character/213999/Yuji",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/481180.jpg?s=0b3d9f1efc303fc7e1ea2589c12fb6ed"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/481180.webp?s=0b3d9f1efc303fc7e1ea2589c12fb6ed",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/481180t.webp?s=0b3d9f1efc303fc7e1ea2589c12fb6ed"
+                        }
+                    },
+                    "name": "Yuji"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 213992,
+                    "url": "https://myanimelist.net/character/213992/Sayoko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/481147.jpg?s=41080028b4748bebe16692bd63ad53ab"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/481147.webp?s=41080028b4748bebe16692bd63ad53ab",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/481147t.webp?s=41080028b4748bebe16692bd63ad53ab"
+                        }
+                    },
+                    "name": "Sayoko"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 213994,
+                    "url": "https://myanimelist.net/character/213994/Aya_Kuramoto",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/481155.jpg?s=4cebee55bb17b3e3fe3524b0d999364d"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/481155.webp?s=4cebee55bb17b3e3fe3524b0d999364d",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/481155t.webp?s=4cebee55bb17b3e3fe3524b0d999364d"
+                        }
+                    },
+                    "name": "Kuramoto, Aya"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 213993,
+                    "url": "https://myanimelist.net/character/213993/Noriko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/481156.jpg?s=b6bff16c44a48b5c2df75496bf08a4b1"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/481156.webp?s=b6bff16c44a48b5c2df75496bf08a4b1",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/481156t.webp?s=b6bff16c44a48b5c2df75496bf08a4b1"
+                        }
+                    },
+                    "name": "Noriko"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 214004,
+                    "url": "https://myanimelist.net/character/214004/Narumi_Hikizuri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/481189.jpg?s=2cb1b601579e76e75efd4d1ca5f37e7e"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/481189.webp?s=2cb1b601579e76e75efd4d1ca5f37e7e",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/481189t.webp?s=2cb1b601579e76e75efd4d1ca5f37e7e"
+                        }
+                    },
+                    "name": "Hikizuri, Narumi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 105711,
+                    "url": "https://myanimelist.net/character/105711/Kazuya_Hikizuri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/481066.jpg?s=59e680634dbd62839024ea162d460a73"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/481066.webp?s=59e680634dbd62839024ea162d460a73",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/481066t.webp?s=59e680634dbd62839024ea162d460a73"
+                        }
+                    },
+                    "name": "Hikizuri, Kazuya"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 218812,
+                    "url": "https://myanimelist.net/character/218812/Izumi_Murakami",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/490705.jpg?s=9d2c5a5f16435cd9d27d3f72229ec1de"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/490705.webp?s=9d2c5a5f16435cd9d27d3f72229ec1de",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/490705t.webp?s=9d2c5a5f16435cd9d27d3f72229ec1de"
+                        }
+                    },
+                    "name": "Murakami, Izumi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 174460,
+                    "url": "https://myanimelist.net/character/174460/Ringmaster",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/391085.jpg?s=855db542edf6cceb20581b7bafb82d9e"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/391085.webp?s=855db542edf6cceb20581b7bafb82d9e",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/391085t.webp?s=855db542edf6cceb20581b7bafb82d9e"
+                        }
+                    },
+                    "name": "Ringmaster"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 213966,
+                    "url": "https://myanimelist.net/character/213966/Shigorou_Hikizuri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/481082.jpg?s=ae982095a10ff2d7f15c419adcdece3a"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/481082.webp?s=ae982095a10ff2d7f15c419adcdece3a",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/481082t.webp?s=ae982095a10ff2d7f15c419adcdece3a"
+                        }
+                    },
+                    "name": "Hikizuri, Shigorou"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 213968,
+                    "url": "https://myanimelist.net/character/213968/Misako_Hikizuri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/481083.jpg?s=6ab1b9c3e265787c87e7b2f1558cbb22"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/481083.webp?s=6ab1b9c3e265787c87e7b2f1558cbb22",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/481083t.webp?s=6ab1b9c3e265787c87e7b2f1558cbb22"
+                        }
+                    },
+                    "name": "Hikizuri, Misako"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 213965,
+                    "url": "https://myanimelist.net/character/213965/Kouko_Hikizuri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/481084.jpg?s=b2fc09b0d3f8ceafb07c212b4c2f668c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/481084.webp?s=b2fc09b0d3f8ceafb07c212b4c2f668c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/481084t.webp?s=b2fc09b0d3f8ceafb07c212b4c2f668c"
+                        }
+                    },
+                    "name": "Hikizuri, Kouko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 213967,
+                    "url": "https://myanimelist.net/character/213967/Hitoshi_Hikizuri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/482612.jpg?s=607c4f45da571fccc7dc2d5121344e2c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/482612.webp?s=607c4f45da571fccc7dc2d5121344e2c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/482612t.webp?s=607c4f45da571fccc7dc2d5121344e2c"
+                        }
+                    },
+                    "name": "Hikizuri, Hitoshi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 174469,
+                    "url": "https://myanimelist.net/character/174469/Joe",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/391092.jpg?s=35f60bb83d7f1182deda1587c2f25389"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/391092.webp?s=35f60bb83d7f1182deda1587c2f25389",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/391092t.webp?s=35f60bb83d7f1182deda1587c2f25389"
+                        }
+                    },
+                    "name": "Joe"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 214005,
+                    "url": "https://myanimelist.net/character/214005/Kotani",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/481191.jpg?s=55fe01192d7699c0c7ee2527e8495c59"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/481191.webp?s=55fe01192d7699c0c7ee2527e8495c59",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/481191t.webp?s=55fe01192d7699c0c7ee2527e8495c59"
+                        }
+                    },
+                    "name": "Kotani"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 174470,
+                    "url": "https://myanimelist.net/character/174470/Leiliya",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/391093.jpg?s=54f5ad5e3997c1964101a4852eb8c8c7"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/391093.webp?s=54f5ad5e3997c1964101a4852eb8c8c7",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/391093t.webp?s=54f5ad5e3997c1964101a4852eb8c8c7"
+                        }
+                    },
+                    "name": "Leiliya"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 214007,
+                    "url": "https://myanimelist.net/character/214007/Sachiyo",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/481199.jpg?s=0161e6a38fa7a73fbd05352ecd95e72e"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/481199.webp?s=0161e6a38fa7a73fbd05352ecd95e72e",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/481199t.webp?s=0161e6a38fa7a73fbd05352ecd95e72e"
+                        }
+                    },
+                    "name": "Sachiyo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 214008,
+                    "url": "https://myanimelist.net/character/214008/Sawano",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/481200.jpg?s=5a87b2244d1462e46b36e09bab26dae4"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/481200.webp?s=5a87b2244d1462e46b36e09bab26dae4",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/481200t.webp?s=5a87b2244d1462e46b36e09bab26dae4"
+                        }
+                    },
+                    "name": "Sawano"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 174468,
+                    "url": "https://myanimelist.net/character/174468/The_Woman_Next_Door",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/401452.jpg?s=6d75b1dff68170c90d139297dddc9f2e"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/401452.webp?s=6d75b1dff68170c90d139297dddc9f2e",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/401452t.webp?s=6d75b1dff68170c90d139297dddc9f2e"
+                        }
+                    },
+                    "name": "The Woman Next Door"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218811,
+                    "url": "https://myanimelist.net/character/218811/Kaoru_Yoshikawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Yoshikawa, Kaoru"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218810,
+                    "url": "https://myanimelist.net/character/218810/Tsuyoshi_Yoshikawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Yoshikawa, Tsuyoshi"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 175465,
+                    "url": "https://myanimelist.net/character/175465/Ayako",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/393323.jpg?s=2bd1205530ec99be96a91730de099ffe"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/393323.webp?s=2bd1205530ec99be96a91730de099ffe",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/393323t.webp?s=2bd1205530ec99be96a91730de099ffe"
+                        }
+                    },
+                    "name": "Ayako"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175459,
+                    "url": "https://myanimelist.net/character/175459/Chiemi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/481142.jpg?s=d248387ff39cb8e40e7c718c6bd68ef8"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/481142.webp?s=d248387ff39cb8e40e7c718c6bd68ef8",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/481142t.webp?s=d248387ff39cb8e40e7c718c6bd68ef8"
+                        }
+                    },
+                    "name": "Chiemi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175460,
+                    "url": "https://myanimelist.net/character/175460/Kyosuke_Hirao",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393319.jpg?s=8e677af8583519a70711e390db402cd4"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393319.webp?s=8e677af8583519a70711e390db402cd4",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/393319t.webp?s=8e677af8583519a70711e390db402cd4"
+                        }
+                    },
+                    "name": "Hirao, Kyosuke"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 214003,
+                    "url": "https://myanimelist.net/character/214003/Amano",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/481184.jpg?s=c2fea35dbaea71e54ba69ad3bc754f79"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/481184.webp?s=c2fea35dbaea71e54ba69ad3bc754f79",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/481184t.webp?s=c2fea35dbaea71e54ba69ad3bc754f79"
+                        }
+                    },
+                    "name": "Amano"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 214001,
+                    "url": "https://myanimelist.net/character/214001/Eri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/481182.jpg?s=7aaf59a8d94152d44a7d8bee31f58a2e"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/481182.webp?s=7aaf59a8d94152d44a7d8bee31f58a2e",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/481182t.webp?s=7aaf59a8d94152d44a7d8bee31f58a2e"
+                        }
+                    },
+                    "name": "Eri"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 214002,
+                    "url": "https://myanimelist.net/character/214002/Hiratsuka",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/481185.jpg?s=4591625da2a26b5d1d318c873ce1b1c8"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/481185.webp?s=4591625da2a26b5d1d318c873ce1b1c8",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/481185t.webp?s=4591625da2a26b5d1d318c873ce1b1c8"
+                        }
+                    },
+                    "name": "Hiratsuka"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175464,
+                    "url": "https://myanimelist.net/character/175464/Hiroko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393322.jpg?s=f5f7651c845f4b20e858482f8902450e"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393322.webp?s=f5f7651c845f4b20e858482f8902450e",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/393322t.webp?s=f5f7651c845f4b20e858482f8902450e"
+                        }
+                    },
+                    "name": "Hiroko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218815,
+                    "url": "https://myanimelist.net/character/218815/Rumi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Rumi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218816,
+                    "url": "https://myanimelist.net/character/218816/Shimada",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Shimada"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175463,
+                    "url": "https://myanimelist.net/character/175463/Chizuru_Tanaka",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/393321.jpg?s=a0496f00f52693b278371a1358c72075"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/393321.webp?s=a0496f00f52693b278371a1358c72075",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/393321t.webp?s=a0496f00f52693b278371a1358c72075"
+                        }
+                    },
+                    "name": "Tanaka, Chizuru"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 175654,
+                    "url": "https://myanimelist.net/character/175654/Adera",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/393869.jpg?s=c400a9206aadd87e0c4e20bd8f0a70e9"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/393869.webp?s=c400a9206aadd87e0c4e20bd8f0a70e9",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/393869t.webp?s=c400a9206aadd87e0c4e20bd8f0a70e9"
+                        }
+                    },
+                    "name": "Adera"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175655,
+                    "url": "https://myanimelist.net/character/175655/Saburo_Furukawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393870.jpg?s=f0b2c29187b6c8ddca0dbd16ad58017c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393870.webp?s=f0b2c29187b6c8ddca0dbd16ad58017c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/393870t.webp?s=f0b2c29187b6c8ddca0dbd16ad58017c"
+                        }
+                    },
+                    "name": "Furukawa, Saburo"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175657,
+                    "url": "https://myanimelist.net/character/175657/Ishida",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393872.jpg?s=25c25a49f90725a21bb218acf29decc5"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393872.webp?s=25c25a49f90725a21bb218acf29decc5",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/393872t.webp?s=25c25a49f90725a21bb218acf29decc5"
+                        }
+                    },
+                    "name": "Ishida"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175660,
+                    "url": "https://myanimelist.net/character/175660/Kaori",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/393875.jpg?s=45ea16502ab1b80df753c38fb2c7a942"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/393875.webp?s=45ea16502ab1b80df753c38fb2c7a942",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/393875t.webp?s=45ea16502ab1b80df753c38fb2c7a942"
+                        }
+                    },
+                    "name": "Kaori"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175651,
+                    "url": "https://myanimelist.net/character/175651/Kuriko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/481157.jpg?s=b4268d6ab0584aa5b86b47080c6c89dd"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/481157.webp?s=b4268d6ab0584aa5b86b47080c6c89dd",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/481157t.webp?s=b4268d6ab0584aa5b86b47080c6c89dd"
+                        }
+                    },
+                    "name": "Kuriko"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175656,
+                    "url": "https://myanimelist.net/character/175656/Rie",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/393871.jpg?s=018c89abfaf6e5be84cab069159c80e3"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/393871.webp?s=018c89abfaf6e5be84cab069159c80e3",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/393871t.webp?s=018c89abfaf6e5be84cab069159c80e3"
+                        }
+                    },
+                    "name": "Rie"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175658,
+                    "url": "https://myanimelist.net/character/175658/Shinobu",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393873.jpg?s=1165f71fccfa62ca2398aa7a9696a309"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393873.webp?s=1165f71fccfa62ca2398aa7a9696a309",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/393873t.webp?s=1165f71fccfa62ca2398aa7a9696a309"
+                        }
+                    },
+                    "name": "Shinobu"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175661,
+                    "url": "https://myanimelist.net/character/175661/Takahashi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/393876.jpg?s=f5ca3890828e0c5dd7081723f54ace55"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/393876.webp?s=f5ca3890828e0c5dd7081723f54ace55",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/393876t.webp?s=f5ca3890828e0c5dd7081723f54ace55"
+                        }
+                    },
+                    "name": "Takahashi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175649,
+                    "url": "https://myanimelist.net/character/175649/Miho_Todo",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/393864.jpg?s=88e64552e5e71c5c2f28ae8d6642d324"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/393864.webp?s=88e64552e5e71c5c2f28ae8d6642d324",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/393864t.webp?s=88e64552e5e71c5c2f28ae8d6642d324"
+                        }
+                    },
+                    "name": "Todo, Miho"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175650,
+                    "url": "https://myanimelist.net/character/175650/Tsukasa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/393865.jpg?s=61c88e57c09366f642b29cfa120d3e4f"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/393865.webp?s=61c88e57c09366f642b29cfa120d3e4f",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/393865t.webp?s=61c88e57c09366f642b29cfa120d3e4f"
+                        }
+                    },
+                    "name": "Tsukasa"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175667,
+                    "url": "https://myanimelist.net/character/175667/Yamaguchi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393888.jpg?s=028aad078d453b2bfae410b6d0b8322a"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393888.webp?s=028aad078d453b2bfae410b6d0b8322a",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/393888t.webp?s=028aad078d453b2bfae410b6d0b8322a"
+                        }
+                    },
+                    "name": "Yamaguchi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175666,
+                    "url": "https://myanimelist.net/character/175666/Eijji",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393887.jpg?s=32de7730943e5e3a60d0e798db095d10"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393887.webp?s=32de7730943e5e3a60d0e798db095d10",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/393887t.webp?s=32de7730943e5e3a60d0e798db095d10"
+                        }
+                    },
+                    "name": "Eijji"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 213998,
+                    "url": "https://myanimelist.net/character/213998/Hiroshi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/481169.jpg?s=dc0f6ff78a9f236c95b34b8436c65006"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/481169.webp?s=dc0f6ff78a9f236c95b34b8436c65006",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/481169t.webp?s=dc0f6ff78a9f236c95b34b8436c65006"
+                        }
+                    },
+                    "name": "Hiroshi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175653,
+                    "url": "https://myanimelist.net/character/175653/Kikuyo",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/393868.jpg?s=c9175f212385048f01b0a1b25250da53"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/393868.webp?s=c9175f212385048f01b0a1b25250da53",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/393868t.webp?s=c9175f212385048f01b0a1b25250da53"
+                        }
+                    },
+                    "name": "Kikuyo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 197551,
+                    "url": "https://myanimelist.net/character/197551/Mr_Todo",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Mr. Todo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175652,
+                    "url": "https://myanimelist.net/character/175652/Nao",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/393867.jpg?s=4e4100ef369fe39a7d645f9748f3925d"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/393867.webp?s=4e4100ef369fe39a7d645f9748f3925d",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/393867t.webp?s=4e4100ef369fe39a7d645f9748f3925d"
+                        }
+                    },
+                    "name": "Nao"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175665,
+                    "url": "https://myanimelist.net/character/175665/Kumi_Shinoda",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393886.jpg?s=e999f43fc3c49bc5ff712243be2d32ba"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393886.webp?s=e999f43fc3c49bc5ff712243be2d32ba",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/393886t.webp?s=e999f43fc3c49bc5ff712243be2d32ba"
+                        }
+                    },
+                    "name": "Shinoda, Kumi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175647,
+                    "url": "https://myanimelist.net/character/175647/Satoru_Todo",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/393861.jpg?s=383f1ae7eef3760018762489e12eac3f"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/393861.webp?s=383f1ae7eef3760018762489e12eac3f",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/393861t.webp?s=383f1ae7eef3760018762489e12eac3f"
+                        }
+                    },
+                    "name": "Todo, Satoru"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175648,
+                    "url": "https://myanimelist.net/character/175648/Eiichi_Todo",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393863.jpg?s=ad000cff210c0797d1ed422399fb350f"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393863.webp?s=ad000cff210c0797d1ed422399fb350f",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/393863t.webp?s=ad000cff210c0797d1ed422399fb350f"
+                        }
+                    },
+                    "name": "Todo, Eiichi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 213997,
+                    "url": "https://myanimelist.net/character/213997/Yutaro",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/481168.jpg?s=eacd164fafc5b4831e63e7f2f055dc6b"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/481168.webp?s=eacd164fafc5b4831e63e7f2f055dc6b",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/481168t.webp?s=eacd164fafc5b4831e63e7f2f055dc6b"
+                        }
+                    },
+                    "name": "Yutaro"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 174473,
+                    "url": "https://myanimelist.net/character/174473/Evil_Man",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/391096.jpg?s=59201baf34a68419978fc6bb3b2dab26"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/391096.webp?s=59201baf34a68419978fc6bb3b2dab26",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/391096t.webp?s=59201baf34a68419978fc6bb3b2dab26"
+                        }
+                    },
+                    "name": "Evil Man"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 218185,
+                    "url": "https://myanimelist.net/character/218185/Kazuko_Morinaka",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Morinaka, Kazuko"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 218187,
+                    "url": "https://myanimelist.net/character/218187/Terumi_Fujino",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Fujino, Terumi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218186,
+                    "url": "https://myanimelist.net/character/218186/Shinya_Shiraishi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Shiraishi, Shinya"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 105707,
+                    "url": "https://myanimelist.net/character/105707/Tooru_Oshikiri",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353262.jpg?s=95727e24c6b9413c9e5cd833ad37f2f2"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353262.webp?s=95727e24c6b9413c9e5cd833ad37f2f2",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/353262t.webp?s=95727e24c6b9413c9e5cd833ad37f2f2"
+                        }
+                    },
+                    "name": "Oshikiri, Tooru"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175609,
+                    "url": "https://myanimelist.net/character/175609/Hotta",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/393774.jpg?s=85d9d2acc0c5675a6895dbd27a9cbb37"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/393774.webp?s=85d9d2acc0c5675a6895dbd27a9cbb37",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/393774t.webp?s=85d9d2acc0c5675a6895dbd27a9cbb37"
+                        }
+                    },
+                    "name": "Hotta"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175617,
+                    "url": "https://myanimelist.net/character/175617/Kojima",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393784.jpg?s=3c0a0ef5ccfa8ac2b2f6f9ccb9e3d1e6"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393784.webp?s=3c0a0ef5ccfa8ac2b2f6f9ccb9e3d1e6",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/393784t.webp?s=3c0a0ef5ccfa8ac2b2f6f9ccb9e3d1e6"
+                        }
+                    },
+                    "name": "Kojima"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175608,
+                    "url": "https://myanimelist.net/character/175608/Nakajima",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/393773.jpg?s=7a61712caad104e276cc1c91cd970c51"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/393773.webp?s=7a61712caad104e276cc1c91cd970c51",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/393773t.webp?s=7a61712caad104e276cc1c91cd970c51"
+                        }
+                    },
+                    "name": "Nakajima"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 105709,
+                    "url": "https://myanimelist.net/character/105709/Kazuko_Satomi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/244317.jpg?s=dd0008e5c6e3edc7a44dd2182ace4543"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/244317.webp?s=dd0008e5c6e3edc7a44dd2182ace4543",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/244317t.webp?s=dd0008e5c6e3edc7a44dd2182ace4543"
+                        }
+                    },
+                    "name": "Satomi, Kazuko"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 175562,
+                    "url": "https://myanimelist.net/character/175562/Akasaka",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393565.jpg?s=f1ce9698c9224ea6cd55b7f44839b92d"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393565.webp?s=f1ce9698c9224ea6cd55b7f44839b92d",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/393565t.webp?s=f1ce9698c9224ea6cd55b7f44839b92d"
+                        }
+                    },
+                    "name": "Akasaka"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175567,
+                    "url": "https://myanimelist.net/character/175567/Kubota",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393572.jpg?s=59ccafad07c9c340a07d9e5408013668"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393572.webp?s=59ccafad07c9c340a07d9e5408013668",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/393572t.webp?s=59ccafad07c9c340a07d9e5408013668"
+                        }
+                    },
+                    "name": "Kubota"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175565,
+                    "url": "https://myanimelist.net/character/175565/Shinri_Shimizu",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393570.jpg?s=e48982b159c52c30938ab79998e3846a"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393570.webp?s=e48982b159c52c30938ab79998e3846a",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/393570t.webp?s=e48982b159c52c30938ab79998e3846a"
+                        }
+                    },
+                    "name": "Shimizu, Shinri"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175566,
+                    "url": "https://myanimelist.net/character/175566/Reina_Shimizu",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393571.jpg?s=e9ddf46597e85ad906eb1a21dd3a9082"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/393571.webp?s=e9ddf46597e85ad906eb1a21dd3a9082",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/393571t.webp?s=e9ddf46597e85ad906eb1a21dd3a9082"
+                        }
+                    },
+                    "name": "Shimizu, Reina"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175563,
+                    "url": "https://myanimelist.net/character/175563/Yuuji",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393566.jpg?s=884821a72036aa969038eee1abbfccce"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393566.webp?s=884821a72036aa969038eee1abbfccce",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/393566t.webp?s=884821a72036aa969038eee1abbfccce"
+                        }
+                    },
+                    "name": "Yuuji"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 156095,
+                    "url": "https://myanimelist.net/character/156095/Yuuko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393563.jpg?s=8c9b13266948ccc6fee692247c77e70c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393563.webp?s=8c9b13266948ccc6fee692247c77e70c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/393563t.webp?s=8c9b13266948ccc6fee692247c77e70c"
+                        }
+                    },
+                    "name": "Yuuko"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 196867,
+                    "url": "https://myanimelist.net/character/196867/Hideo",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/466945.jpg?s=c00aa5af6e66206ad2971784cdfca016"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/466945.webp?s=c00aa5af6e66206ad2971784cdfca016",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/466945t.webp?s=c00aa5af6e66206ad2971784cdfca016"
+                        }
+                    },
+                    "name": "Hideo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175561,
+                    "url": "https://myanimelist.net/character/175561/Rie",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393564.jpg?s=99702ef7f68cf3b23d9977e950bd0d37"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393564.webp?s=99702ef7f68cf3b23d9977e950bd0d37",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/393564t.webp?s=99702ef7f68cf3b23d9977e950bd0d37"
+                        }
+                    },
+                    "name": "Rie"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175564,
+                    "url": "https://myanimelist.net/character/175564/Rina",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393567.jpg?s=ed078b3886c96a12735f6ae8ddb3e1f1"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393567.webp?s=ed078b3886c96a12735f6ae8ddb3e1f1",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/393567t.webp?s=ed078b3886c96a12735f6ae8ddb3e1f1"
+                        }
+                    },
+                    "name": "Rina"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 38408,
+                    "url": "https://myanimelist.net/character/38408/Souichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.webp?s=0279c04987d8c80511512460aef2a946",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/353261t.webp?s=0279c04987d8c80511512460aef2a946"
+                        }
+                    },
+                    "name": "Tsujii, Souichi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 158043,
+                    "url": "https://myanimelist.net/character/158043/Fuchi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/353259t.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        }
+                    },
+                    "name": "Fuchi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175505,
+                    "url": "https://myanimelist.net/character/175505/Michina_Hirose",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393387.jpg?s=58f31801ed7403d5f3d8a4ddbaaf93e6"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393387.webp?s=58f31801ed7403d5f3d8a4ddbaaf93e6",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/393387t.webp?s=58f31801ed7403d5f3d8a4ddbaaf93e6"
+                        }
+                    },
+                    "name": "Hirose, Michina"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175506,
+                    "url": "https://myanimelist.net/character/175506/Yuusuke_Hirose",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393388.jpg?s=651ff63ef92a978de5a96680a146571c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393388.webp?s=651ff63ef92a978de5a96680a146571c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/393388t.webp?s=651ff63ef92a978de5a96680a146571c"
+                        }
+                    },
+                    "name": "Hirose, Yuusuke"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175516,
+                    "url": "https://myanimelist.net/character/175516/Midori_Sakiyama",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393408.jpg?s=4de45113433025e903dc7b9b899ff3bd"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393408.webp?s=4de45113433025e903dc7b9b899ff3bd",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/393408t.webp?s=4de45113433025e903dc7b9b899ff3bd"
+                        }
+                    },
+                    "name": "Sakiyama, Midori"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218184,
+                    "url": "https://myanimelist.net/character/218184/Tagaisu",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Tagaisu"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175517,
+                    "url": "https://myanimelist.net/character/175517/Madoka_Taniyama",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393409.jpg?s=c22b2ecfdad043932bfffbda303b9ece"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/393409.webp?s=c22b2ecfdad043932bfffbda303b9ece",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/393409t.webp?s=c22b2ecfdad043932bfffbda303b9ece"
+                        }
+                    },
+                    "name": "Taniyama, Madoka"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 158501,
+                    "url": "https://myanimelist.net/character/158501/Kouichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/349719.jpg?s=eaef8a0a187ab62e2d2d84b5444182a4"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/349719.webp?s=eaef8a0a187ab62e2d2d84b5444182a4",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/349719t.webp?s=eaef8a0a187ab62e2d2d84b5444182a4"
+                        }
+                    },
+                    "name": "Tsujii, Kouichi"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 38408,
+                    "url": "https://myanimelist.net/character/38408/Souichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.webp?s=0279c04987d8c80511512460aef2a946",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/353261t.webp?s=0279c04987d8c80511512460aef2a946"
+                        }
+                    },
+                    "name": "Tsujii, Souichi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 175510,
+                    "url": "https://myanimelist.net/character/175510/Yumiko_Anjyou",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/393393.jpg?s=ddb2fe1286cb2fd690955c3f94cbb460"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/393393.webp?s=ddb2fe1286cb2fd690955c3f94cbb460",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/393393t.webp?s=ddb2fe1286cb2fd690955c3f94cbb460"
+                        }
+                    },
+                    "name": "Anjyou, Yumiko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175511,
+                    "url": "https://myanimelist.net/character/175511/Yumiko_Fukaya",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393394.jpg?s=9886bc69d65391ff93ee67ac3a8cbf87"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/393394.webp?s=9886bc69d65391ff93ee67ac3a8cbf87",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/393394t.webp?s=9886bc69d65391ff93ee67ac3a8cbf87"
+                        }
+                    },
+                    "name": "Fukaya, Yumiko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175506,
+                    "url": "https://myanimelist.net/character/175506/Yuusuke_Hirose",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393388.jpg?s=651ff63ef92a978de5a96680a146571c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393388.webp?s=651ff63ef92a978de5a96680a146571c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/393388t.webp?s=651ff63ef92a978de5a96680a146571c"
+                        }
+                    },
+                    "name": "Hirose, Yuusuke"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175505,
+                    "url": "https://myanimelist.net/character/175505/Michina_Hirose",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393387.jpg?s=58f31801ed7403d5f3d8a4ddbaaf93e6"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/393387.webp?s=58f31801ed7403d5f3d8a4ddbaaf93e6",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/393387t.webp?s=58f31801ed7403d5f3d8a4ddbaaf93e6"
+                        }
+                    },
+                    "name": "Hirose, Michina"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 158501,
+                    "url": "https://myanimelist.net/character/158501/Kouichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/349719.jpg?s=eaef8a0a187ab62e2d2d84b5444182a4"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/349719.webp?s=eaef8a0a187ab62e2d2d84b5444182a4",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/349719t.webp?s=eaef8a0a187ab62e2d2d84b5444182a4"
+                        }
+                    },
+                    "name": "Tsujii, Kouichi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175509,
+                    "url": "https://myanimelist.net/character/175509/Kousetsu_Wakayama",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/393392.jpg?s=213874a21e31ade78377325701628cbc"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/393392.webp?s=213874a21e31ade78377325701628cbc",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/393392t.webp?s=213874a21e31ade78377325701628cbc"
+                        }
+                    },
+                    "name": "Wakayama, Kousetsu"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175508,
+                    "url": "https://myanimelist.net/character/175508/Yanagida",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393391.jpg?s=95d256fd4e14f45e8451cff73a112af7"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/393391.webp?s=95d256fd4e14f45e8451cff73a112af7",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/393391t.webp?s=95d256fd4e14f45e8451cff73a112af7"
+                        }
+                    },
+                    "name": "Yanagida"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 175211,
+                    "url": "https://myanimelist.net/character/175211/A-ko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/449231.jpg?s=aeadc3e67c473d3b160c9af0407b1108"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/449231.webp?s=aeadc3e67c473d3b160c9af0407b1108",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/449231t.webp?s=aeadc3e67c473d3b160c9af0407b1108"
+                        }
+                    },
+                    "name": "A-ko"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 85463,
+                    "url": "https://myanimelist.net/character/85463/Junji_Ito",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/449232.jpg?s=4d29e00d683a0633611263ae808c032f"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/4/449232.webp?s=4d29e00d683a0633611263ae808c032f",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/449232t.webp?s=4d29e00d683a0633611263ae808c032f"
+                        }
+                    },
+                    "name": "Ito, Junji"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 42680,
+                    "url": "https://myanimelist.net/character/42680/Muu",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/116264.jpg?s=931f5b107dd4b61b785f0386683daf19"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/116264.webp?s=931f5b107dd4b61b785f0386683daf19",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/116264t.webp?s=931f5b107dd4b61b785f0386683daf19"
+                        }
+                    },
+                    "name": "Muu"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 42679,
+                    "url": "https://myanimelist.net/character/42679/Yon",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/391079.jpg?s=68134f4b187cccda889cc618ae1ac614"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/391079.webp?s=68134f4b187cccda889cc618ae1ac614",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/391079t.webp?s=68134f4b187cccda889cc618ae1ac614"
+                        }
+                    },
+                    "name": "Yon"
+                },
+                "role": "Main"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data":[
+            {
+                "character":{
+                    "mal_id":93931,
+                    "url":"https:\/\/myanimelist.net\/character\/93931\/Ryuusuke_Fukata",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394145.jpg?s=a805f97fe38956c01bdab16f69cee6bf"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394145.webp?s=a805f97fe38956c01bdab16f69cee6bf",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394145t.webp?s=a805f97fe38956c01bdab16f69cee6bf"
+                        }
+                    },
+                    "name":"Fukata, Ryuusuke"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":93933,
+                    "url":"https:\/\/myanimelist.net\/character\/93933\/Midori_Shibayama",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394141.jpg?s=225c865a1fc47f5f02d9bba96eeccc0e"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394141.webp?s=225c865a1fc47f5f02d9bba96eeccc0e",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/2\/394141t.webp?s=225c865a1fc47f5f02d9bba96eeccc0e"
+                        }
+                    },
+                    "name":"Shibayama, Midori"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":158508,
+                    "url":"https:\/\/myanimelist.net\/character\/158508\/Yotsutsuji_no_Bishounen",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/353260.jpg?s=55df97b18d58c044554becabcb068fdc"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/353260.webp?s=55df97b18d58c044554becabcb068fdc",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/353260t.webp?s=55df97b18d58c044554becabcb068fdc"
+                        }
+                    },
+                    "name":"Yotsutsuji no Bishounen"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":93935,
+                    "url":"https:\/\/myanimelist.net\/character\/93935\/Reishi_Tanaka",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394146.jpg?s=b5a54727202d1cbf92c3af11c2cd7713"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394146.webp?s=b5a54727202d1cbf92c3af11c2cd7713",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/9\/394146t.webp?s=b5a54727202d1cbf92c3af11c2cd7713"
+                        }
+                    },
+                    "name":"Tanaka, Reishi"
+                },
+                "role":"Supporting"
+            },
+            {
+                "character":{
+                    "mal_id":93937,
+                    "url":"https:\/\/myanimelist.net\/character\/93937\/Koutarou_Teshima",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/13\/394140.jpg?s=57e11966e74869d043e2fcdb54c79b75"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/13\/394140.webp?s=57e11966e74869d043e2fcdb54c79b75",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/13\/394140t.webp?s=57e11966e74869d043e2fcdb54c79b75"
+                        }
+                    },
+                    "name":"Teshima, Koutarou"
+                },
+                "role":"Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 178355,
+                    "url": "https://myanimelist.net/character/178355/Hellstar_Remina",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/400698.jpg?s=7db57b3b8505c18ff5b5e1735446b384"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/400698.webp?s=7db57b3b8505c18ff5b5e1735446b384",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/400698t.webp?s=7db57b3b8505c18ff5b5e1735446b384"
+                        }
+                    },
+                    "name": "Hellstar Remina"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 21006,
+                    "url": "https://myanimelist.net/character/21006/Remina_Ooguro",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/471904.jpg?s=5dc07ceab35000bbfb67922e59ba7682"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/471904.webp?s=5dc07ceab35000bbfb67922e59ba7682",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/471904t.webp?s=5dc07ceab35000bbfb67922e59ba7682"
+                        }
+                    },
+                    "name": "Ooguro, Remina"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 21073,
+                    "url": "https://myanimelist.net/character/21073/Yasumi_Mitsumura",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/48997.jpg?s=d32d2730eca1652e4356598df0b5efa4"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/48997.webp?s=d32d2730eca1652e4356598df0b5efa4",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/48997t.webp?s=d32d2730eca1652e4356598df0b5efa4"
+                        }
+                    },
+                    "name": "Mitsumura, Yasumi"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": []
+    },
+    {
+        "data": []
+    },
+    {
+        "data": []
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 153621,
+                    "url": "https://myanimelist.net/character/153621/Mayumi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Mayumi"
+                },
+                "role": "Main"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 175217,
+                    "url": "https://myanimelist.net/character/175217/Koji",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/392746.jpg?s=97a7e10e54d39c6163136791e12601d1"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/392746.webp?s=97a7e10e54d39c6163136791e12601d1",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/392746t.webp?s=97a7e10e54d39c6163136791e12601d1"
+                        }
+                    },
+                    "name": "Koji"
+                },
+                "role": "Main"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 19174,
+                    "url": "https://myanimelist.net/character/19174/Tomie",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/353258.jpg?s=b6de9221d4493ff7038450fd1317d3fe"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/353258.webp?s=b6de9221d4493ff7038450fd1317d3fe",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/353258t.webp?s=b6de9221d4493ff7038450fd1317d3fe"
+                        }
+                    },
+                    "name": "Tomie"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 38408,
+                    "url": "https://myanimelist.net/character/38408/Souichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.webp?s=0279c04987d8c80511512460aef2a946",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/353261t.webp?s=0279c04987d8c80511512460aef2a946"
+                        }
+                    },
+                    "name": "Tsujii, Souichi"
+                },
+                "role": "Main"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": []
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 218814,
+                    "url": "https://myanimelist.net/character/218814/Kouko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Kouko"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 158043,
+                    "url": "https://myanimelist.net/character/158043/Fuchi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/353259t.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        }
+                    },
+                    "name": "Fuchi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218813,
+                    "url": "https://myanimelist.net/character/218813/Gorou_Shirasaki",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Shirasaki, Gorou"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 173875,
+                    "url": "https://myanimelist.net/character/173875/Binzo_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Tsujii, Binzo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 38408,
+                    "url": "https://myanimelist.net/character/38408/Souichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.webp?s=0279c04987d8c80511512460aef2a946",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/353261t.webp?s=0279c04987d8c80511512460aef2a946"
+                        }
+                    },
+                    "name": "Tsujii, Souichi"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 175143,
+                    "url": "https://myanimelist.net/character/175143/Tsukiko_Izumisawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/392531.jpg?s=52c2cf266677ea568ed0bfc198006ee0"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/392531.webp?s=52c2cf266677ea568ed0bfc198006ee0",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/392531t.webp?s=52c2cf266677ea568ed0bfc198006ee0"
+                        }
+                    },
+                    "name": "Izumisawa, Tsukiko"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 19174,
+                    "url": "https://myanimelist.net/character/19174/Tomie",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/353258.jpg?s=b6de9221d4493ff7038450fd1317d3fe"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/353258.webp?s=b6de9221d4493ff7038450fd1317d3fe",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/353258t.webp?s=b6de9221d4493ff7038450fd1317d3fe"
+                        }
+                    },
+                    "name": "Tomie"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 218183,
+                    "url": "https://myanimelist.net/character/218183/Kimata",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Kimata"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 180725,
+                    "url": "https://myanimelist.net/character/180725/Ryo_Koizumi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/405582.jpg?s=a99630834243f9b47f2cd2756b2b9fd5"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/405582.webp?s=a99630834243f9b47f2cd2756b2b9fd5",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/405582t.webp?s=a99630834243f9b47f2cd2756b2b9fd5"
+                        }
+                    },
+                    "name": "Koizumi, Ryo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 172661,
+                    "url": "https://myanimelist.net/character/172661/Michiko",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/386595.jpg?s=cad2f25c90b91dbe4692aadbb5bd0478"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/386595.webp?s=cad2f25c90b91dbe4692aadbb5bd0478",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/386595t.webp?s=cad2f25c90b91dbe4692aadbb5bd0478"
+                        }
+                    },
+                    "name": "Michiko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175149,
+                    "url": "https://myanimelist.net/character/175149/Yukiko_Mio",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/392543.jpg?s=c142d283ed4ddf64dc6a25fc20cce053"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/392543.webp?s=c142d283ed4ddf64dc6a25fc20cce053",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/392543t.webp?s=c142d283ed4ddf64dc6a25fc20cce053"
+                        }
+                    },
+                    "name": "Mio, Yukiko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175150,
+                    "url": "https://myanimelist.net/character/175150/Mitsuo_Mori",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/392548.jpg?s=77465bde2aa3b874795d22e90de018fd"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/392548.webp?s=77465bde2aa3b874795d22e90de018fd",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/392548t.webp?s=77465bde2aa3b874795d22e90de018fd"
+                        }
+                    },
+                    "name": "Mori, Mitsuo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 180726,
+                    "url": "https://myanimelist.net/character/180726/Yasuko_Nakamura",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/405583.jpg?s=48c930037970c798beb538d4cc1d5cf7"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/405583.webp?s=48c930037970c798beb538d4cc1d5cf7",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/405583t.webp?s=48c930037970c798beb538d4cc1d5cf7"
+                        }
+                    },
+                    "name": "Nakamura, Yasuko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175148,
+                    "url": "https://myanimelist.net/character/175148/Fumihito_Sato",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/392542.jpg?s=307b37079b0d0604296a5a4c126d466d"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/392542.webp?s=307b37079b0d0604296a5a4c126d466d",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/392542t.webp?s=307b37079b0d0604296a5a4c126d466d"
+                        }
+                    },
+                    "name": "Sato, Fumihito"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 218182,
+                    "url": "https://myanimelist.net/character/218182/Taichi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Taichi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175147,
+                    "url": "https://myanimelist.net/character/175147/Takagi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/392655.jpg?s=b0feac81b7b749ab9cae2f42a72f0772"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/392655.webp?s=b0feac81b7b749ab9cae2f42a72f0772",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/392655t.webp?s=b0feac81b7b749ab9cae2f42a72f0772"
+                        }
+                    },
+                    "name": "Takagi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 175142,
+                    "url": "https://myanimelist.net/character/175142/Yamazaki",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/392530.jpg?s=36f6bd6be0631e7984e60c0beb92da69"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/392530.webp?s=36f6bd6be0631e7984e60c0beb92da69",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/392530t.webp?s=36f6bd6be0631e7984e60c0beb92da69"
+                        }
+                    },
+                    "name": "Yamazaki"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 19174,
+                    "url": "https://myanimelist.net/character/19174/Tomie",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/353258.jpg?s=b6de9221d4493ff7038450fd1317d3fe"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/353258.webp?s=b6de9221d4493ff7038450fd1317d3fe",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/353258t.webp?s=b6de9221d4493ff7038450fd1317d3fe"
+                        }
+                    },
+                    "name": "Tomie"
+                },
+                "role": "Main"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 6540,
+                    "url": "https://myanimelist.net/character/6540/Kirie_Goshima",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/60853.jpg?s=7d0cecdb66eaca02aace7041aed2df96"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/60853.webp?s=7d0cecdb66eaca02aace7041aed2df96",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/60853t.webp?s=7d0cecdb66eaca02aace7041aed2df96"
+                        }
+                    },
+                    "name": "Goshima, Kirie"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 8459,
+                    "url": "https://myanimelist.net/character/8459/Shuuichi_Saitou",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/318710.jpg?s=4eeebc92511643d94c01737e066a7d17"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/318710.webp?s=4eeebc92511643d94c01737e066a7d17",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/318710t.webp?s=4eeebc92511643d94c01737e066a7d17"
+                        }
+                    },
+                    "name": "Saitou, Shuuichi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 165999,
+                    "url": "https://myanimelist.net/character/165999/Yoriko_Endou",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/366727.jpg?s=2c6a6c2ef9e3fd77f3a4490d53a37ac8"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/366727.webp?s=2c6a6c2ef9e3fd77f3a4490d53a37ac8",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/366727t.webp?s=2c6a6c2ef9e3fd77f3a4490d53a37ac8"
+                        }
+                    },
+                    "name": "Endou, Yoriko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 165996,
+                    "url": "https://myanimelist.net/character/165996/Mitsuo_Goshima",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/366724.jpg?s=8457c96b43dce93a6a04e0681dd612e0"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/366724.webp?s=8457c96b43dce93a6a04e0681dd612e0",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/366724t.webp?s=8457c96b43dce93a6a04e0681dd612e0"
+                        }
+                    },
+                    "name": "Goshima, Mitsuo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 165995,
+                    "url": "https://myanimelist.net/character/165995/Yasuo_Goshima",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/366723.jpg?s=70b857a747d7873c70b2ba5b369ee83a"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/11/366723.webp?s=70b857a747d7873c70b2ba5b369ee83a",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/366723t.webp?s=70b857a747d7873c70b2ba5b369ee83a"
+                        }
+                    },
+                    "name": "Goshima, Yasuo"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 165997,
+                    "url": "https://myanimelist.net/character/165997/Mother_Goshima",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/366725.jpg?s=28c11d192bcf950cabd258e7423bea14"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/366725.webp?s=28c11d192bcf950cabd258e7423bea14",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/366725t.webp?s=28c11d192bcf950cabd258e7423bea14"
+                        }
+                    },
+                    "name": "Goshima, Mother"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 144209,
+                    "url": "https://myanimelist.net/character/144209/Shiho__Ishikawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/366661.jpg?s=c08a2352b17abb2181f4a59be514c019"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/366661.webp?s=c08a2352b17abb2181f4a59be514c019",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/366661t.webp?s=c08a2352b17abb2181f4a59be514c019"
+                        }
+                    },
+                    "name": "Ishikawa, Shiho"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166000,
+                    "url": "https://myanimelist.net/character/166000/Katayama",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/366728.jpg?s=77b64feef2023bfdb75c8d36790303ad"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/6/366728.webp?s=77b64feef2023bfdb75c8d36790303ad",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/366728t.webp?s=77b64feef2023bfdb75c8d36790303ad"
+                        }
+                    },
+                    "name": "Katayama"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 94237,
+                    "url": "https://myanimelist.net/character/94237/Azami_Kurotani",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/290732.jpg?s=091c59230eefc17c0d995f30e46d7eee"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/290732.webp?s=091c59230eefc17c0d995f30e46d7eee",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/290732t.webp?s=091c59230eefc17c0d995f30e46d7eee"
+                        }
+                    },
+                    "name": "Kurotani, Azami"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 110345,
+                    "url": "https://myanimelist.net/character/110345/Chie_Maruyama",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/366662.jpg?s=46e25685bd52b3348d7c615b6b9a241c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/10/366662.webp?s=46e25685bd52b3348d7c615b6b9a241c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/366662t.webp?s=46e25685bd52b3348d7c615b6b9a241c"
+                        }
+                    },
+                    "name": "Maruyama, Chie"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166003,
+                    "url": "https://myanimelist.net/character/166003/Keiko_Nakayama",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/366731.jpg?s=73f99612182d100ab956dbe434197d2d"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/12/366731.webp?s=73f99612182d100ab956dbe434197d2d",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/366731t.webp?s=73f99612182d100ab956dbe434197d2d"
+                        }
+                    },
+                    "name": "Nakayama, Keiko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 165998,
+                    "url": "https://myanimelist.net/character/165998/Kazunori_Nishiki",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/366726.jpg?s=987b6e371e7e99df40de59d6772cfb8d"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/366726.webp?s=987b6e371e7e99df40de59d6772cfb8d",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/366726t.webp?s=987b6e371e7e99df40de59d6772cfb8d"
+                        }
+                    },
+                    "name": "Nishiki, Kazunori"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 184654,
+                    "url": "https://myanimelist.net/character/184654/Okada",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/454824.jpg?s=775ab19d2c9cda4d23e0755cdd0b219f"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/5/454824.webp?s=775ab19d2c9cda4d23e0755cdd0b219f",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/454824t.webp?s=775ab19d2c9cda4d23e0755cdd0b219f"
+                        }
+                    },
+                    "name": "Okada"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 148497,
+                    "url": "https://myanimelist.net/character/148497/Toshio_Saitou",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/366629.jpg?s=bc5c6906ccb01984b8812895dd9c3c35"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/15/366629.webp?s=bc5c6906ccb01984b8812895dd9c3c35",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/366629t.webp?s=bc5c6906ccb01984b8812895dd9c3c35"
+                        }
+                    },
+                    "name": "Saitou, Toshio"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 148498,
+                    "url": "https://myanimelist.net/character/148498/Yukie_Saitou",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Saitou, Yukie"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 144210,
+                    "url": "https://myanimelist.net/character/144210/Kyoko_Sekino",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/366630.jpg?s=a4842458244fb29e673e47fed860f347"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/14/366630.webp?s=a4842458244fb29e673e47fed860f347",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/366630t.webp?s=a4842458244fb29e673e47fed860f347"
+                        }
+                    },
+                    "name": "Sekino, Kyoko"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166006,
+                    "url": "https://myanimelist.net/character/166006/Takemoto",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/366734.jpg?s=5ff020ea10a5f6ebc0ca4928ecfa6f6a"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/366734.webp?s=5ff020ea10a5f6ebc0ca4928ecfa6f6a",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/366734t.webp?s=5ff020ea10a5f6ebc0ca4928ecfa6f6a"
+                        }
+                    },
+                    "name": "Takemoto"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166005,
+                    "url": "https://myanimelist.net/character/166005/Tanizaki",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/366733.jpg?s=fd3e639d5a79ecfc5e8d1d21589c4b50"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/366733.webp?s=fd3e639d5a79ecfc5e8d1d21589c4b50",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/366733t.webp?s=fd3e639d5a79ecfc5e8d1d21589c4b50"
+                        }
+                    },
+                    "name": "Tanizaki"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166007,
+                    "url": "https://myanimelist.net/character/166007/Torino",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/366735.jpg?s=4692c52f6f854393a092bf13fb5ddde8"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/8/366735.webp?s=4692c52f6f854393a092bf13fb5ddde8",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/366735t.webp?s=4692c52f6f854393a092bf13fb5ddde8"
+                        }
+                    },
+                    "name": "Torino"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166002,
+                    "url": "https://myanimelist.net/character/166002/Tsumura",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/366730.jpg?s=f29f2a7769d3238d5fd7a96c92ff354d"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/366730.webp?s=f29f2a7769d3238d5fd7a96c92ff354d",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/366730t.webp?s=f29f2a7769d3238d5fd7a96c92ff354d"
+                        }
+                    },
+                    "name": "Tsumura"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166004,
+                    "url": "https://myanimelist.net/character/166004/Wakabayashi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/366732.jpg?s=c9423a2b1bb6646d30b8299fdf08dd8a"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/366732.webp?s=c9423a2b1bb6646d30b8299fdf08dd8a",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/366732t.webp?s=c9423a2b1bb6646d30b8299fdf08dd8a"
+                        }
+                    },
+                    "name": "Wakabayashi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 13864,
+                    "url": "https://myanimelist.net/character/13864/Mitsuru_Yamaguchi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/341636.jpg?s=2f4fd3c597da9c9f99c4569777b24cf6"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/9/341636.webp?s=2f4fd3c597da9c9f99c4569777b24cf6",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/341636t.webp?s=2f4fd3c597da9c9f99c4569777b24cf6"
+                        }
+                    },
+                    "name": "Yamaguchi, Mitsuru"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 166001,
+                    "url": "https://myanimelist.net/character/166001/Yokota",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/366729.jpg?s=2cc5239b737398890a23eeb51aa0d58e"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/13/366729.webp?s=2cc5239b737398890a23eeb51aa0d58e",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/366729t.webp?s=2cc5239b737398890a23eeb51aa0d58e"
+                        }
+                    },
+                    "name": "Yokota"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data":[
+            {
+                "character":{
+                    "mal_id":6540,
+                    "url":"https:\/\/myanimelist.net\/character\/6540\/Kirie_Goshima",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/10\/60853.jpg?s=7d0cecdb66eaca02aace7041aed2df96"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/10\/60853.webp?s=7d0cecdb66eaca02aace7041aed2df96",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/10\/60853t.webp?s=7d0cecdb66eaca02aace7041aed2df96"
+                        }
+                    },
+                    "name":"Goshima, Kirie"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":8459,
+                    "url":"https:\/\/myanimelist.net\/character\/8459\/Shuuichi_Saitou",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/8\/318710.jpg?s=4eeebc92511643d94c01737e066a7d17"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/8\/318710.webp?s=4eeebc92511643d94c01737e066a7d17",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/8\/318710t.webp?s=4eeebc92511643d94c01737e066a7d17"
+                        }
+                    },
+                    "name":"Saitou, Shuuichi"
+                },
+                "role":"Main"
+            },
+            {
+                "character":{
+                    "mal_id":166007,
+                    "url":"https:\/\/myanimelist.net\/character\/166007\/Torino",
+                    "images":{
+                        "jpg":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/8\/366735.jpg?s=4692c52f6f854393a092bf13fb5ddde8"
+                        },
+                        "webp":{
+                            "image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/8\/366735.webp?s=4692c52f6f854393a092bf13fb5ddde8",
+                            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/characters\/8\/366735t.webp?s=4692c52f6f854393a092bf13fb5ddde8"
+                        }
+                    },
+                    "name":"Torino"
+                },
+                "role":"Main"
+            }
+        ]
+    },
+    {
+        "data": []
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 158501,
+                    "url": "https://myanimelist.net/character/158501/Kouichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/349719.jpg?s=eaef8a0a187ab62e2d2d84b5444182a4"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/349719.webp?s=eaef8a0a187ab62e2d2d84b5444182a4",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/349719t.webp?s=eaef8a0a187ab62e2d2d84b5444182a4"
+                        }
+                    },
+                    "name": "Tsujii, Kouichi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 38408,
+                    "url": "https://myanimelist.net/character/38408/Souichi_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/353261.webp?s=0279c04987d8c80511512460aef2a946",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/353261t.webp?s=0279c04987d8c80511512460aef2a946"
+                        }
+                    },
+                    "name": "Tsujii, Souichi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 158043,
+                    "url": "https://myanimelist.net/character/158043/Fuchi",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/16/353259.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/353259t.webp?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
+                        }
+                    },
+                    "name": "Fuchi"
+                },
+                "role": "Supporting"
+            },
+            {
+                "character": {
+                    "mal_id": 173875,
+                    "url": "https://myanimelist.net/character/173875/Binzo_Tsujii",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Tsujii, Binzo"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 213971,
+                    "url": "https://myanimelist.net/character/213971/Chizumi_Azawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/481088.jpg?s=f3fb383c777c7dc2dde12929f65a3f7b"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/7/481088.webp?s=f3fb383c777c7dc2dde12929f65a3f7b",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/481088t.webp?s=f3fb383c777c7dc2dde12929f65a3f7b"
+                        }
+                    },
+                    "name": "Azawa, Chizumi"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 173795,
+                    "url": "https://myanimelist.net/character/173795/Yuuma_Azawa",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/476435.jpg?s=07d622d2f451dd071dbcf341cc9afb4b"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/3/476435.webp?s=07d622d2f451dd071dbcf341cc9afb4b",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/476435t.webp?s=07d622d2f451dd071dbcf341cc9afb4b"
+                        }
+                    },
+                    "name": "Azawa, Yuuma"
+                },
+                "role": "Main"
+            },
+            {
+                "character": {
+                    "mal_id": 213970,
+                    "url": "https://myanimelist.net/character/213970/Keiko_Arisu",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/481087.jpg?s=1ce2855b9894482f592d8e4a559a1284"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/characters/2/481087.webp?s=1ce2855b9894482f592d8e4a559a1284",
+                            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/481087t.webp?s=1ce2855b9894482f592d8e4a559a1284"
+                        }
+                    },
+                    "name": "Arisu, Keiko"
+                },
+                "role": "Supporting"
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "character": {
+                    "mal_id": 166196,
+                    "url": "https://myanimelist.net/character/166196/Mamoru_Yuki",
+                    "images": {
+                        "jpg": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        },
+                        "webp": {
+                            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+                            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+                        }
+                    },
+                    "name": "Yuki, Mamoru"
+                },
+                "role": "Main"
+            }
+        ]
+    }
+]
