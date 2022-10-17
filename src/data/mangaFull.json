@@ -850,7 +850,7 @@
             "external": [
                 {
                     "name": "Wikipedia",
-                    "url": "http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7"
+                    "url": "https://en.wikipedia.org/wiki/Gyo"
                 }
             ]
         }
@@ -6444,7 +6444,7 @@
             "external": [
                 {
                     "name": "Wikipedia",
-                    "url": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%96%93%E5%A4%B1%E6%A0%BC"
+                    "url": "https://en.wikipedia.org/wiki/No_Longer_Human_(Ito_manga)"
                 }
             ]
         }
@@ -7182,7 +7182,7 @@
             "external": [
                 {
                     "name": "Wikipedia",
-                    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%B1%9F"
+                    "url": "https://en.wikipedia.org/wiki/Tomie"
                 }
             ]
         }
@@ -7468,7 +7468,7 @@
             "external": [
                 {
                     "name": "Wikipedia",
-                    "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9A%E3%81%BE%E3%81%8D_%28%E6%BC%AB%E7%94%BB%29"
+                    "url": "https://en.wikipedia.org/wiki/Uzumaki"
                 }
             ]
         }
@@ -8325,12 +8325,7 @@
                 }
             ],
             "relations": [],
-            "external": [
-                {
-                    "name": "Wikipedia",
-                    "url": "https://ja.wikipedia.org/wiki/%E6%86%82%E5%9B%BD%E3%81%AE%E3%83%A9%E3%82%B9%E3%83%97%E3%83%BC%E3%83%81%E3%83%B3"
-                }
-            ]
+            "external": []
         }
     }
 ]

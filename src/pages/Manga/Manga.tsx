@@ -14,7 +14,7 @@ const Manga = () => {
         <PageHeading title="Manga Works" img={img} />
         <div className={styles.manga}>
           {manga.map((item) => {
-            return <MangaCard item={item} key={item._id} />
+            return <MangaCard item={item} key={item.id} />
           })}
         </div>
       </div>

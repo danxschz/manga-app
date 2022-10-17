@@ -1,3 +1,16 @@
+interface Relation {
+  id: number,
+  title: string,
+  relation: string,
+  url: string,
+}
+
+interface Character {
+  name: string,
+  role: string,
+  img: string,
+}
+
 interface Attributes {
   chapters: number | null,
   volumes: number | null,
@@ -12,22 +25,17 @@ interface Attributes {
   },
 }
 
-interface Character {
-  name: string,
-  role: string,
-  img: string
-}
-
 interface Manga {
-  _id: number,
+  id: number,
   slug: string,
   title: string,
-  synopsis: string | null,
-  background: string | null,
   img: {
     normal: string,
     large: string
   },
+  synopsis: string | null,
+  background: string | null,
+  relations: Relation[],
+  characters: Character[],
   attributes: Attributes,
-  characters: Character[]
 }

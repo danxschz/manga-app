@@ -5,14 +5,15 @@ import useDocTitle from '../../hooks/useDocTitle';
 import PageHeading from '../../components/PageHeading/PageHeading';
 import DataSet from './DataSet/DataSet';
 import Links from './Links/Links';
+import Relations from './Relations/Relations';
 import Characters from './Characters/Characters';
 
 const MangaDetail = () => {
   const { state } = useLocation();
   const id = state.id;
-  const item: Manga | undefined = manga.find((i) => i._id === id);
+  const item: Manga | undefined = manga.find((i) => i.id === id);
 
-  const { title, img, synopsis, background, attributes, characters } = item || {};
+  const { title, img, synopsis, background, characters, relations, attributes } = item || {};
   const { chapters, volumes, status, published, demographics, content_rating, genres, alt_titles, links } = attributes || {};
 
   const docTitle = (title) ? title : 'Loading';
@@ -43,6 +44,12 @@ const MangaDetail = () => {
               <h2>Background</h2>
               <p>{(background) ? background : 'No background information is available for this title.'}</p>
             </div>
+            {(relations && relations.length) ?
+              <div className={styles.section}>
+                <h2>Related Titles</h2>
+                <Relations relations={relations} />
+              </div>
+            : null}
             <div className={styles.section}>
               <h2>Characters</h2>
               {(characters && characters.length) ? <Characters characters={characters} /> : <p>No character information is available for this title.</p>}

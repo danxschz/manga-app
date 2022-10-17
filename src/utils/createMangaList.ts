@@ -1,5 +1,5 @@
-import json from '../data/mangaFull.json';
-import mangadex from '../data/mangadex.json';
+import mangaFull from '../data/mangaFull.json';
+import mangaComplement from '../data/mangaComplement.json';
 import mangaCharacters from '../data/mangaCharacters.json';
 
 const slugify = (string: string) => {
@@ -17,10 +17,10 @@ const createMangaList = () => {
   const mangaList = []
 
   let i = 0
-  for (const item of json) {
+  for (const item of mangaFull) {
     const data = item.data;
 
-    const { mal_id, title, title_english, synopsis, background, images } = data;
+    const { mal_id, title, title_english, images, synopsis, background, relations } = data;
 
     const slug = slugify(title_english || title);
 
@@ -29,41 +29,24 @@ const createMangaList = () => {
       large: images.jpg.large_image_url
     }
 
-    const { chapters, volumes, status, published, demographics, genres, title_synonyms } = data;
+    const relationsArr: any = [];
+    for (const item of relations) {
+      const id = item.entry[0].mal_id;
+      const entry = mangaFull.find((i) => i.data.mal_id === id);
 
-    const demographicsArr: string[] = [];
-    for (const item of demographics) {
-      demographicsArr.push(item.name);
-    }
+      if (entry) {
+        const title = entry.data.title_english || entry.data.title;
+        const type = item.entry[0].type;
 
-    const genresArr: string[] = [];
-    for (const item of genres) {
-      genresArr.push(item.name);
-    }
-    
-    const mangadexEntry: any = mangadex.find((i: any) => +i.attributes.links.mal === mal_id);
-    const { attributes: mangadexAttributes } = mangadexEntry || {};
-    const { contentRating, links } = mangadexAttributes || {};
-
-    const content_rating = (contentRating) ? contentRating : null;
-    
-    const mangaLinks = {
-      amazon: (links && links.amz) ? links.amz : null,
-      viz: (links && links.engtl) ? links.engtl : null,
-      cdjapan: (links && links.cdj) ? links.cdj : null,
-      mal: `https://myanimelist.net/manga/${mal_id}`,
-    }
-
-    const attributes = {
-      chapters,
-      volumes,
-      status,
-      published: published.string,
-      demographics: demographicsArr,
-      content_rating,
-      genres: genresArr,
-      alt_titles: title_synonyms,
-      links: mangaLinks
+        const relation = {
+          id,
+          title,
+          relation: item.relation,
+          url: `/${type}/${slugify(title)}`
+        }
+  
+        relationsArr.push(relation);
+      }
     }
 
     const characters: any = [];
@@ -79,15 +62,53 @@ const createMangaList = () => {
       characters.push(charObj);
     }
 
+    const { chapters, volumes, status, published, demographics, genres, title_synonyms, external } = data;
+
+    const demographicsArr: string[] = [];
+    for (const item of demographics) {
+      demographicsArr.push(item.name);
+    }
+
+    const mangadexEntry: any = mangaComplement.find((i: any) => +i.attributes.links.mal === mal_id);
+    const { attributes: mangadexAttributes } = mangadexEntry || {};
+    const { contentRating, links } = mangadexAttributes || {};
+    const content_rating = (contentRating) ? contentRating : null;
+
+    const genresArr: string[] = [];
+    for (const item of genres) {
+      genresArr.push(item.name);
+    }
+    
+    const mangaLinks = {
+      amazon: (links && links.amz) ? links.amz : null,
+      viz: (links && links.engtl) ? links.engtl : null,
+      cdjapan: (links && links.cdj) ? links.cdj : null,
+      mal: `https://myanimelist.net/manga/${mal_id}`,
+      wikipedia: (external.length) ? external[0].url : null,
+    }
+
+    const attributes = {
+      chapters,
+      volumes,
+      status,
+      published: published.string,
+      demographics: demographicsArr,
+      content_rating,
+      genres: genresArr,
+      alt_titles: title_synonyms,
+      links: mangaLinks
+    }
+
     const manga = {
-      _id: mal_id,
+      id: mal_id,
       slug,
       title: title_english || title,
+      img: imageObj,
       synopsis,
       background,
-      img: imageObj,
+      relations: relationsArr,
+      characters,
       attributes,
-      characters
     };
 
     mangaList.push(manga);

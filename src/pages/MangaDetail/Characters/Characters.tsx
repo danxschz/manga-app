@@ -10,7 +10,7 @@ const Characters = (props: Props) => {
   return (
     <div className={styles.characters}>
       {characters.slice(0, 10).map((item) => (
-        <div className={styles.character}>
+        <div className={styles.character} key={item.name}>
           <img src={item.img} alt={item.name} />
           <div className={styles.info}>
             <div>{item.name}</div>
