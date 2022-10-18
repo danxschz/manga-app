@@ -17,6 +17,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/4/449232.jpg?s=4d29e00d683a0633611263ae808c032f"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 10,
             "volumes": 1,
@@ -101,6 +102,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/16/439544.jpg?s=9e8dc98fcd73f0669116494146c5a817"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 8,
             "volumes": 1,
@@ -158,6 +160,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/16/353259.jpg?s=e5d9e5b6f7b69ec31e74b8bb56ddf031"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 1,
             "volumes": null,
@@ -190,6 +193,7 @@
         "background": "Genkai Chitai has been published in English as The Liminal Zone by VIZ Media since July 26, 2022.",
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": null,
             "volumes": null,
@@ -222,6 +226,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 1,
             "volumes": null,
@@ -279,6 +284,14 @@
                 "img": "https://cdn.myanimelist.net/images/characters/6/158505.jpg?s=b30f27bfb375fdcfa66ac3f165e6e50c"
             }
         ],
+        "reviews": [
+            {
+                "username": "renjikuchiki1",
+                "date": "Dec 13, 2008",
+                "review": "Remember those B-grade horror films they air on sci-fi quite often? This is pretty much the same thing. If you've ever seen Snakehead Terror, its quite similar to that. I wouldn't recommend reading this after you've eaten, as some of the images are gruesome enough to make your stomach do loop-de-loops in your chest. The story however is very creative, and has many twists and turns you don't see coming, so if you have some down time, drop by onemanga or buy the manga if you have some extra cash, plop yourself down, and you'll never want to eat Sushi again.",
+                "rating": 7
+            }
+        ],
         "attributes": {
             "chapters": 21,
             "volumes": 2,
@@ -321,6 +334,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 9,
             "volumes": 1,
@@ -406,6 +420,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/5/455616.jpg?s=15b9991a2f59996e9073950338bc2f3c"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 8,
             "volumes": 1,
@@ -453,6 +468,7 @@
             }
         ],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 4,
             "volumes": null,
@@ -541,6 +557,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/13/394140.jpg?s=57e11966e74869d043e2fcdb54c79b75"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 10,
             "volumes": 1,
@@ -583,6 +600,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 3,
             "volumes": null,
@@ -660,6 +678,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/6/481180.jpg?s=0b3d9f1efc303fc7e1ea2589c12fb6ed"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -735,6 +754,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/13/481156.jpg?s=b6bff16c44a48b5c2df75496bf08a4b1"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -873,6 +893,7 @@
                 "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 5,
             "volumes": 1,
@@ -979,6 +1000,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/5/393321.jpg?s=a0496f00f52693b278371a1358c72075"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 6,
             "volumes": 1,
@@ -1136,6 +1158,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/9/481168.jpg?s=eacd164fafc5b4831e63e7f2f055dc6b"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -1214,6 +1237,7 @@
                 "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 6,
             "volumes": 1,
@@ -1298,6 +1322,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/16/244317.jpg?s=dd0008e5c6e3edc7a44dd2182ace4543"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 6,
             "volumes": 1,
@@ -1353,6 +1378,7 @@
             }
         ],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 5,
             "volumes": 1,
@@ -1454,6 +1480,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/10/393567.jpg?s=ed078b3886c96a12735f6ae8ddb3e1f1"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -1560,6 +1587,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/2/349719.jpg?s=eaef8a0a187ab62e2d2d84b5444182a4"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 5,
             "volumes": 1,
@@ -1663,6 +1691,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/16/393391.jpg?s=95d256fd4e14f45e8451cff73a112af7"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 6,
             "volumes": 1,
@@ -1719,6 +1748,7 @@
             }
         ],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 5,
             "volumes": 1,
@@ -1789,6 +1819,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/16/391079.jpg?s=68134f4b187cccda889cc618ae1ac614"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 10,
             "volumes": 1,
@@ -1827,6 +1858,7 @@
         "background": "Itou Junji Jisen Kessakushuu was published digitally in English as Shiver: Junji Ito Selected Stories by VIZ Media on December 19, 2017.",
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 10,
             "volumes": 1,
@@ -1917,6 +1949,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/13/394140.jpg?s=57e11966e74869d043e2fcdb54c79b75"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 4,
             "volumes": 1,
@@ -1971,6 +2004,7 @@
             }
         ],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 5,
             "volumes": 1,
@@ -2026,6 +2060,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/11/48997.jpg?s=d32d2730eca1652e4356598df0b5efa4"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -2064,6 +2099,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 3,
             "volumes": null,
@@ -2101,6 +2137,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 10,
             "volumes": 1,
@@ -2135,6 +2172,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 8,
             "volumes": 1,
@@ -2180,6 +2218,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 1,
             "volumes": null,
@@ -2216,6 +2255,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 1,
             "volumes": null,
@@ -2259,6 +2299,7 @@
                 "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 8,
             "volumes": 1,
@@ -2315,6 +2356,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/10/392746.jpg?s=97a7e10e54d39c6163136791e12601d1"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 1,
             "volumes": null,
@@ -2367,6 +2409,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 1,
             "volumes": null,
@@ -2404,6 +2447,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 6,
             "volumes": 1,
@@ -2436,6 +2480,7 @@
         "background": "Ningen Shikkaku was published in English as No Longer Human by VIZ Media as a 3-in-1 omnibus volume on December 17, 2019.",
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 24,
             "volumes": 3,
@@ -2470,6 +2515,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -2540,6 +2586,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/2/353261.jpg?s=0279c04987d8c80511512460aef2a946"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -2583,6 +2630,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 18,
             "volumes": 2,
@@ -2707,6 +2755,14 @@
                 "img": "https://cdn.myanimelist.net/images/characters/8/392530.jpg?s=36f6bd6be0631e7984e60c0beb92da69"
             }
         ],
+        "reviews": [
+            {
+                "username": "Diassia",
+                "date": "Feb 7, 2011",
+                "review": "Story - All I knew when I started this manga was that 'Tomie' was a woman who could make men fall madly in love with her at first sight. As you can imagine, I wasn't really expecting much and was very impressed by what I read. I loved every chapter and felt they were all very original and well thought out to how each 'Tomie' manipulated and charmed each character in the manga which eventually ends in her own demise.\n\nArt - As the other review has mentioned, the one strength to this anime is that Tomie is truely beautifully drawn in the manga with her beautiful eyes and shiny hair and there is a lot of attention to detail, especially when her beautiful form is distorted by the 'monster' beneath.\n\nCharacter - The smaller characters are simply prop to the many 'Tomies' that prop up in all the stories. It is especially unkind to the men who fall madly for Tomie in each arc. Not much is known about Tomie except for her supernatural abilities and as you get more and more used to her character, the stories seem to get more complicated and baffling. Great! And a real challenge for the mind!\n\nEnjoyment - I throughly enoyed 'Tomie' and despite it not being as 'terrifying' as I thought it could be, I found it was a very interesting concept about a strange multiplying girl with no purpose but to make people love her as much as she loves herself.\n\nOverall - Definitely an interesting manga if you like different story arcs and strange characters and plotlines. It can be a little gory/strange in places but hey - what can you do?!",
+                "rating": 9
+            }
+        ],
         "attributes": {
             "chapters": 20,
             "volumes": 3,
@@ -2756,6 +2812,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/15/353258.jpg?s=b6de9221d4493ff7038450fd1317d3fe"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": null,
             "volumes": 3,
@@ -2915,6 +2972,20 @@
                 "img": "https://cdn.myanimelist.net/images/characters/13/366729.jpg?s=2cc5239b737398890a23eeb51aa0d58e"
             }
         ],
+        "reviews": [
+            {
+                "username": "InformationGeek",
+                "date": "Dec 28, 2007",
+                "review": "There are many horror mangas out there that try to make themselves scary. But often we just get a comic that's more gory or disgusting than scary. Now there is Kazuo Umezu who really can write a horror story that'll scare you. He is known as the godfather of horror manga, but there is another called Junji Ito called the master of horror manga who has wrote something just as terrifying as any scary movie, book, or comic out there. This story is called Uzumaki.\n\nStory:\n\nThe story is simply starts us of quick with two main characters to get use to and the setting for our horror manga. Right away, we get the feeling that something isn't actually right in this little coastal town. Soon, after the first chapter we get our first freak out and scary moment that is very twisted. The story is written well and focuses on something that really isn't scary to begin with, a simple spiral.\n\nBut as this story shows, there is much more to this symbol then meets the eye.\n\nAs the story moves along, each chapter presents us a separate story that is completely different than the last, but still connects to the main plot. We get strange stories about a lighthouse, crazy hair, giant snails, and twisting bodies that all go together into this spiral story, no pun intended. But some of these stories within the story aren't actually really horrific or anything which is why this grade isn't a 10.\n\nArt:\n\nThis story really is scary and what helps it is its sick and creepy style art. These characters are really well drawn and have a small alteration that makes them different than another person, though a lot of the girls seem similar to me and at one point I could tell two of them apart from each other.\n\nNow let's look at the world itself. It really is drawn well and if you look closer enough, you'll find spirals that aren't even apart of the story at hand. There's also the carnage and scenes of disturbing violence in the story, now this stuff is freaky. This story contains a lot of this story and unlike most stories, it actually makes this story scarier!\n\nCharacter:\n\nLike I mention before, we are instantly given our two main characters right off the bat that both provide two different personalities. The girl is a bit uneasy and refuses to believe a lot of the things happening around her for a while and there is her boyfriend who is really nervous about the town and believes there isn't something right about it.\n\nThen we get the rest of the cast&hellip; there isn't much of a cast besides these two. The only people that make repeat appearances are Kirie's mom, brother, and dad plus one of her friends occasionally. Everyone else that has a big part in one of the chapters is pretty much a one time appearance. It's kind of annoying that you get to know a new character only to never see them again.\n\nEnjoyment:\n\nThis series is extremely rewarding if you get it a chance and you'll for sure think there is no other horror story around that can reach this level of freakiness. But this story might not appeal to everyone. Some might be put off by the crazy images or might find this story not that scary but just disturbing. Either way, this story provides a chilling, but enjoyable ride from beginning to end if you find that you like this series.\n\nOverall:\n\nThis story might not appeal to everyone like said before, but a lot of people should at least read the first chapter before making their judgment. You never know, you could be missing out on a great horror manga and you could never have even known!\n\nThis series contains a lot of disturbing images, violence and gore, nudity, language, and intense scenes of horror. If find any of this not really your style, especially the disturbing images, avoid this series at all costs!",
+                "rating": 8
+            },
+            {
+                "username": "Lucena",
+                "date": "Oct 15, 2011",
+                "review": "Manga and anime do not scare me easily. Disturb me in some cases with grotesque imagery and copious amounts of gore, yes, but nothing that would constitute in giving me nightmares. I've found the medium as something that I would always gain enjoyment from no matter the genre. I would spend my time with a work, ponder on it for a while, and leave it at that. Rinse and repeat. That is, until I came across Junji Ito's Uzumaki.\n\nThe manga is brief, as it is only 19 chapters long with one extra story, but it drags the reader through so much. The manga's first two chapters set the stage for all the events that are to follow: a man's obsession with all things spiral-shaped, smoke that forms a spiral when it reaches the sky, the protagonist's boyfriend becoming paranoid over the mysterious activities that have been occurring in the small, sea-side town where the story is set, and so on. Once the main points of the story are established, Ito assumes that the reader is aware of the basics and takes a completely episodic approach with his storytelling until the last few chapters. Each chapter is dedicated to one object that is associated with spirals, notably snails and curly hair. He sometimes cuts corners with this concept, though, and dedicates chapters to mosquitoes and lighthouses (Apparently, his excuse for this is that they move around in spiral shapes). What the reader doesn't realize, though, is that this is all build-up for the conclusion of the story, making this one of the most depressing manga I have ever read. I won't say much to avoid spoiling you, but the spiral concept of the story becomes all the more encompassing. Part of the horror that comes from this story is obsession and giving in to that obsession. It comes from watching the gradual downfall of a once peaceful town that has its daily life completely transformed (no pun intended...oops) by the psychological breakdowns of its townspeople. It comes from some of the characters' realization of what is going on, screaming in fear that they don't want to die, and knowing that they not only do not have any control over the situation, but that they know that they will never be the same again. I could go on, but my point is that the horror in this is completely psychological, but this is not Perfect Blue we're talking about. The terror in this is slow and painful, making the story all the more engrossing and terrifying.\n\nAnother major part of the story's appeal is Ito's unique drawing style. You could probably read the manga just for the artwork and still gain some enjoyment from that...that is, if you don't suddenly close your book in shock. It's one thing to read in text what is going on and another to see it. The artwork magnifies the reader's imagination hundredfold and presents possibly the only way to visually express everything that Kirie, the protagonist, is experiencing. Some of the scarier images include Shuichi's father rolling up his tongue into a spiral, half-human/snail hybrids, an army of pregnant women with blood-stained drills, and the lost souls that are the townspeople of Kurozu-cho who have resigned to the fate of \"becoming one with the spiral\", so to speak. That's not even half of the grotesqueness that the art has to offer. Some of the less scary art, such as the spiral-shaped grass and amusingly-spiraled hair, are cool to look at, but at the later points in the chapters, those only serve as distractions from the horror contained within the story. My favorite aspect of the art, however, is the fact that some of the worst images are usually hidden as two-page spreads beneath some of more harmless panels on the previous page. It's almost as if Ito is daring the reader to look on to the next page. One prominent example can be found in the \"moon scar\" chapter, and you'll know what I mean once you read it. That sort of suspense made the manga all the more thrilling to read. The art is not only creative and nice to look at, but adds its own layer of horror to the story.\n\nI feel bad for the characters in the story. I really do. By the end of the manga, they almost become completely different people. Even Kirie, who seems to consistently remain pure and untainted by the spiral's allure, has trouble facing some of the greater moral choices that she has to make during the story. She is always exposed to some kind of human flaw that is caused by the spiral's influence, such as vanity and lack of motivation. Because of how consistent Kirie remains through all of this, she seems almost like a Mary Sue character. Normally, this can be harmful to character development, and it is in some cases, but in the world of Uzumaki, her innocence is a virtue. She is spared from experiencing the same kind of insanity and corruption as her peers, and yet she has to witness everything first hand. At the same time, it seems like that that is her form of corruption, watching her family, significant other, and the people of her home gleefully give in to the madness surrounding them. Although that is not a form of character growth in the most traditional sense, the characters are growing based on the events happening to them rather than conjuring some kind of growth based on dialogue and interaction. Uzumaki has a very isolated form of character development that occurs in the foreground due to the highly-detailed story elements that take center stage.\n\nBefore I finish, I would like to state that this is a review for a manga that I read last, for the first time, in June 2011. The story, imagery, and overall package that this manga contains has stuck with me since. I still get chills from this manga whenever I get flashbacks to it. I might have even experienced a few nightmares from this story a short while after reading it, but my memory of that is a little hazy. Leave it to Junji Ito to take some of the most insignificant things that we take for granted and enlarge them into things to avoid with dread and disgust. If you are looking for some great Lovecraftian horror to sink your teeth into for Halloween, or anytime for that matter, look no further than this manga. Just be weary of any escargot on the menu next time you eat at a fancy restaurant.",
+                "rating": 8
+            }
+        ],
         "attributes": {
             "chapters": 19,
             "volumes": 3,
@@ -2976,6 +3047,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/8/366735.jpg?s=4692c52f6f854393a092bf13fb5ddde8"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 1,
             "volumes": null,
@@ -3012,6 +3084,7 @@
         "background": null,
         "relations": [],
         "characters": [],
+        "reviews": [],
         "attributes": {
             "chapters": 5,
             "volumes": 1,
@@ -3076,6 +3149,7 @@
                 "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -3141,6 +3215,7 @@
                 "img": "https://cdn.myanimelist.net/images/characters/2/481087.jpg?s=1ce2855b9894482f592d8e4a559a1284"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 7,
             "volumes": 1,
@@ -3195,6 +3270,7 @@
                 "img": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
             }
         ],
+        "reviews": [],
         "attributes": {
             "chapters": 53,
             "volumes": 6,

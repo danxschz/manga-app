@@ -11,6 +11,13 @@ interface Character {
   img: string,
 }
 
+interface Review {
+  username: string,
+  date: string,
+  review: string,
+  rating: number,
+}
+
 interface Attributes {
   chapters: number | null,
   volumes: number | null,
@@ -37,5 +44,6 @@ interface Manga {
   background: string | null,
   relations: Relation[],
   characters: Character[],
+  reviews: Review[],
   attributes: Attributes,
 }

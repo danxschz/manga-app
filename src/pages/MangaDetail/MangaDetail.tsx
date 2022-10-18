@@ -7,13 +7,14 @@ import DataSet from './DataSet/DataSet';
 import Links from './Links/Links';
 import Relations from './Relations/Relations';
 import Characters from './Characters/Characters';
+import Reviews from './Reviews/Reviews';
 
 const MangaDetail = () => {
   const { state } = useLocation();
   const id = state.id;
   const item: Manga | undefined = manga.find((i) => i.id === id);
 
-  const { title, img, synopsis, background, characters, relations, attributes } = item || {};
+  const { title, img, synopsis, background, characters, relations, reviews, attributes } = item || {};
   const { chapters, volumes, status, published, demographics, content_rating, genres, alt_titles, links } = attributes || {};
 
   const docTitle = (title) ? title : 'Loading';
@@ -54,6 +55,10 @@ const MangaDetail = () => {
               <h2>Characters</h2>
               {(characters && characters.length) ? <Characters characters={characters} /> : <p>No character information is available for this title.</p>}
             </div>
+            <div className={styles.section}>
+              <h2>Reviews</h2>
+              {(reviews && reviews.length) ? <Reviews reviews={reviews} /> : <p>No reviews have been submitted for this title.</p>}
+            </div>
           </div>
         </div>
       </div>
@@ -63,5 +68,4 @@ const MangaDetail = () => {
   else return null
 }
 
-// No reviews have been submitted for this title
 export default MangaDetail;

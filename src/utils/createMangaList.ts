@@ -1,6 +1,7 @@
 import mangaFull from '../data/mangaFull.json';
 import mangaComplement from '../data/mangaComplement.json';
 import mangaCharacters from '../data/mangaCharacters.json';
+import mangaReviews from '../data/mangaReviews.json';
 
 const slugify = (string: string) => {
   const slug = string
@@ -62,6 +63,20 @@ const createMangaList = () => {
       characters.push(charObj);
     }
 
+    const reviews: any = [];
+    for (const item of mangaReviews[i]) {
+      const { username, date, review, rating } = item;
+
+      const reviewObj = {
+        username,
+        date,
+        review,
+        rating,
+      }
+
+      reviews.push(reviewObj);
+    }
+
     const { chapters, volumes, status, published, demographics, genres, title_synonyms, external } = data;
 
     const demographicsArr: string[] = [];
@@ -108,6 +123,7 @@ const createMangaList = () => {
       background,
       relations: relationsArr,
       characters,
+      reviews,
       attributes,
     };
 

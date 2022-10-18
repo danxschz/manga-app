@@ -1,0 +1,24 @@
+@use '../../../assets/shared' as *;
+
+.reviews {
+  @include flex-col(2.5rem);
+}
+
+.review {
+  @include flex-col(1rem);
+  font-size: 0.93rem;
+}
+
+.username {
+  @include flex-row(null, center, space-between);
+
+  strong {
+    font-weight: 400;
+  }
+}
+
+.rating {
+  strong {
+    font-weight: 400;
+  }
+}
