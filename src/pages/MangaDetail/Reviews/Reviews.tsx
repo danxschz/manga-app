@@ -36,12 +36,14 @@ const Reviews = (props: Props) => {
             <strong>{item.username}</strong>
             <div className={styles.date}>{item.date}</div>
           </div>
-          <p>
-            <span>{item.review.slice(0, 600)}</span>
-            <span className="dots">...</span>
-            <span className="hidden">{`${item.review.slice(600)}\n\nReviewer's rating: ${item.rating}`}</span>
-          </p>
-          <ButtonDark text="Show more" onClick={toggleText}/>
+          {(item.review.length > 600) ? 
+            <p>
+              <span>{item.review.slice(0, 600)}</span>
+              <span className="dots">...</span>
+              <span className="hidden">{`${item.review.slice(600)}\n\nReviewer's rating: ${item.rating}`}</span>
+            </p>
+          : <p>{`${item.review}\n\nReviewer's rating: ${item.rating}`}</p>}
+          {(item.review.length > 600) ? <ButtonDark text="Show more" onClick={toggleText}/> : null}
         </div>
       ))}
     </div>
