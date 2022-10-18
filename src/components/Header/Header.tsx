@@ -1,5 +1,6 @@
 import styles from './Header.module.scss';
 import { Link } from 'react-router-dom';
+import ButtonDark from '../ButtonDark/ButtonDark';
 
 const Header = () => {
   return (
@@ -13,7 +14,7 @@ const Header = () => {
           </ul>
         </nav>
         <Link to="/" className={styles.logo}>Ito Horrors</Link>
-        <button className={styles.button}><div className={styles.square}></div><span>Log in</span><div className={styles.square}></div></button>
+        <ButtonDark text="Log in" />
       </div>
     </header>
   )

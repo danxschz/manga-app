@@ -41,33 +41,6 @@
   }
 }
 
-.button {
-  @include flex-row(0.6rem, center);
-  border: 1px solid $clr-neutral-900;
-  padding: 0.5rem 0;
-  background: $clr-neutral-900;
-  color: $clr-neutral-100;
-  font-size: 0.9rem;
-  text-transform: uppercase;
-  transition: border-color 0.3s;
-
-  &:hover, &:focus, &:active {
-    border-color: $clr-neutral-100;
-
-    .square {
-      background-color: $clr-neutral-900;
-
-    }
-  }
-}
-
-.square {
-  width: 0.9rem;
-  height: 0.5rem;
-  background: $clr-neutral-100;
-  transition: background-color 0.3s;
-}
-
 // Logo hover animation
 @keyframes hvr-buzz {
   50% {

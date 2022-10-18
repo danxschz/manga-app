@@ -1,13 +1,16 @@
 import styles from './PageHeading.module.scss';
+import ButtonDark from '../ButtonDark/ButtonDark';
 
 interface Props {
   img: string,
+  alt?: string,
   title: string,
-  home?: boolean
+  home?: boolean,
+  button?: boolean
 }
 
 const PageHeading = (props: Props) => {
-  const { img, title, home } = props;
+  const { img, alt, title, home, button } = props;
 
   if (home) return (
     <div className={styles.title}>
@@ -18,6 +21,14 @@ const PageHeading = (props: Props) => {
         <div>Junji</div>
         <div>Ito</div>
       </h1>
+    </div>
+  )
+
+  else if (button) return (
+    <div className={styles.title}>
+      <img src={img} alt={alt} />
+      <h1>{title}</h1>
+      <ButtonDark text="Add to list" />
     </div>
   )
 

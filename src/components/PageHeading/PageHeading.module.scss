@@ -1,11 +1,17 @@
 @use '../../assets/shared' as *;
 
 .title {
-  @include flex-row(5rem, center, center);
+  display: grid;
+  grid-template-columns: 25% auto;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  column-gap: 5rem;
+  row-gap: 1rem;
   margin-block: 6rem;
 
   img {
-    width: min(25%, 730px);
+    width: min(100%, 730px);
   }
 
   h1 {

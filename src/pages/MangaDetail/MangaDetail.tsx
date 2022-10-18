@@ -22,7 +22,7 @@ const MangaDetail = () => {
   if (title && img) return (
     <main>
       <div className={styles.content}>
-        <PageHeading img={img.large} title={title} />
+        <PageHeading img={img.large} title={title} button />
         <div className={styles.info}>
           <div className={styles.column}>
             {(chapters) ? <DataSet property='Chapters' value={chapters} /> : null}
@@ -63,4 +63,5 @@ const MangaDetail = () => {
   else return null
 }
 
+// No reviews have been submitted for this title
 export default MangaDetail;
