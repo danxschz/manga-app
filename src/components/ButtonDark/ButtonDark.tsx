@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 interface Props {
   text: string,
   to?: string,
-  onClick?(): any
+  onClick?(e?: any): any
 }
 
 const ButtonDark = (props: Props) => {
@@ -13,7 +13,7 @@ const ButtonDark = (props: Props) => {
   if (to) return (
     <Link to={to} className={styles.button} onClick={onClick}>
       <div className={styles.square}></div>
-      <div>{text}</div>
+      <div className='text'>{text}</div>
       <div className={styles.square}></div>
     </Link>
   )
@@ -21,7 +21,7 @@ const ButtonDark = (props: Props) => {
   else return (
     <button className={styles.button} onClick={onClick}>
       <div className={styles.square}></div>
-      <div>{text}</div>
+      <div className='text'>{text}</div>
       <div className={styles.square}></div>
     </button>
   )
