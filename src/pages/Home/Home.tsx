@@ -28,7 +28,7 @@ const Home = () => {
                 admirers to madness; Uzumaki, a series about a town obsessed with spirals; and Gyo, a story in 
                 which fish are controlled by a strain of sentient bacteria.
               </p>
-              <Button text="Ito's Works" onClick={createAnimeList}/>
+              <Button text="Ito's Works" onClick={createMangaList}/>
             </div>
             <DecorCircle />
             <div className={styles.text}></div>
@@ -37,9 +37,9 @@ const Home = () => {
         </div>
       </section>
       <section className={styles.works}>
-        <Work title="tomie"/>
-        <Work title="uzumaki" inverted/>
-        <Work title="gyo" />
+        <Work title="tomie" to="/manga/tomie" id={912} />
+        <Work title="uzumaki" to="/manga/uzumaki-spiral-into-horror" id={436} inverted />
+        <Work title="gyo" to="/manga/gyo-the-death-stench-creeps" id={909} />
       </section>
     </main>
   )

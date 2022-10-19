@@ -23,14 +23,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Apr 12, 2007 to Feb 5, 2019",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Horror",
                 "Mystery",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Ningen Isu",
@@ -45,6 +44,7 @@
                 "Wasuregatami",
                 "Keepsake"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -108,19 +108,19 @@
             "volumes": 1,
             "status": "Finished",
             "published": "2009",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
             ],
+            "demographics": [
+                "Seinen"
+            ],
             "alt_titles": [
                 "The Licking Woman",
                 "Mystery Pavillion"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -166,12 +166,12 @@
             "volumes": null,
             "status": "Finished",
             "published": "Oct 7, 2015",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -199,12 +199,12 @@
             "volumes": null,
             "status": "Publishing",
             "published": "Apr 15, 2020 to ?",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -232,16 +232,16 @@
             "volumes": null,
             "status": "Finished",
             "published": "Jan 5, 2015",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Ghost Heights Management Association"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -261,7 +261,14 @@
         },
         "synopsis": "When diver Tadashi and his girlfriend Kaori Sawahara take a trip to the coast of Okinawa, they find that their strained relationship is the least of their worries when they unwittingly witness the start of the apocalypse. Attacked by a strange, four-legged fish in their cabin, they manage to kill it, but are left unsettled by the putrid stench it carried—the haunting smell of death. This lone assault is only the herald of what's to come, as soon, many more such creatures emerge from the sea, attacking anything in their path. Though Tadashi and Kaori quickly return to Tokyo, they find there is no longer any safe haven; no matter where they run, the death stench creeps... Amigara Dansou no Kai (The Enigma of Amigara Fault) After a devastating earthquake near Amigara mountain, a several-kilometer-long fault emerged. But this discovery was made more eerie by the thousands of human-shaped holes scattered among the rock face, each of which seemingly continues for miles within the mountain. Oowaki, one of the many spectators attracted to the sight, witnesses in horror as onlookers start to experience a personal, visceral calling to enter these holes—formed as if to fit only them. Daikokubashira Hiwa (The Sad Tale of the Principal Post) Celebrating their recent move into their new house, a family's festivities are cut short upon hearing the cries of their father. Finding him in the crawl space below, they bear witness to the bizarre and unexplainable tragedy that has befallen him. [Written by MAL Rewrite]",
         "background": "Gyo: Ugomeku Bukimi was first published in English by VIZ Media as a VIZ Editor's Choice title, a slightly larger format, from September 10, 2003 to March 10, 2004. It was later republished by VIZ Media under the VIZ Signature imprint. Volume 1 on October 16, 2007 and volume 2 on January 15, 2008, and again in a hardcover omnibus on April 21, 2015. The series was also published in Spanish by ECC Comics (October 1 and October 29, 2014); in Polish as Gyo: Odór Śmierci by Japonica Polonica Fantastica (2013); and in Czech as Ryby - Útok z hlubin by CREW on March 28, 2017.",
-        "relations": [],
+        "relations": [
+            {
+                "id": 10417,
+                "title": "GYO: Tokyo Fish Attack!",
+                "relation": "Adaptation",
+                "url": "/anime/gyo-tokyo-fish-attack"
+            }
+        ],
         "characters": [
             {
                 "name": "Tadashi",
@@ -297,15 +304,14 @@
             "volumes": 2,
             "status": "Finished",
             "published": "Nov 12, 2001 to Apr 15, 2002",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Drama",
                 "Horror",
                 "Mystery",
                 "Sci-Fi"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "The Sad Tale of the Principal Post",
@@ -313,6 +319,7 @@
                 "Daikokubashira Hiwa",
                 "Ashura no Dansou no Kai"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": "https://www.viz.com/read/manga/gyo-2-in-1-deluxe-edition/product/3685",
@@ -340,14 +347,14 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Jul 7, 1987 to Jan 30, 2015",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Horror Anthology Comic: Blindside"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -426,10 +433,6 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Feb 15, 2016 to Apr 4, 2016",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "suggestive",
             "genres": [
                 "Drama",
                 "Horror",
@@ -437,9 +440,13 @@
                 "Romance",
                 "Supernatural"
             ],
+            "demographics": [
+                "Seinen"
+            ],
             "alt_titles": [
                 "She is a Slow Walker"
             ],
+            "content_rating": "Suggestive",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -474,11 +481,10 @@
             "volumes": null,
             "status": "Finished",
             "published": "May 10, 2004 to Feb 13, 2017",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Kyoufu no Juusou",
                 "Layers of Fear",
@@ -488,6 +494,7 @@
                 "Masei",
                 "Demon's Voice"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -513,6 +520,12 @@
                 "title": "Itou Junji Kyoufu Manga Collection 15: Hibito no Koiwazurai",
                 "relation": "Other",
                 "url": "/manga/itou-junji-kyoufu-manga-collection-15-hibito-no-koiwazurai"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -563,11 +576,10 @@
             "volumes": 1,
             "status": "Finished",
             "published": "2007",
-            "demographics": [],
-            "content_rating": "safe",
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Phantom Mansion",
                 "Shibito no Koiwazurai Yobanashi: Shirofuku no Bishounen",
@@ -579,6 +591,7 @@
                 "The Woman With No Ribs",
                 "The White Clothed Pretty Boy"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -598,7 +611,14 @@
         },
         "synopsis": "Note: This entry only contains 3 chapters never collected before. \n\n1. Kubi Gensou \n2. Ikisudama no Numa \n3. Pen-friend \n4. Shinnyuusha \n5. Oshikiri Idan \n6. Oshikiri Idan: Kabe Chapters 1~6 are included here. \n7. Frankenstein \n8. Jigoku no Ningyousou Chapters 7 and 8 are included here. \n9. Ganmen Kotei (Fixed Face) \n10. Nonnon Oyabun (Ito Junji's Dog Diary) \n11. Nonnon Oyabun no Kakurenbo",
         "background": null,
-        "relations": [],
+        "relations": [
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
+            }
+        ],
         "characters": [],
         "reviews": [],
         "attributes": {
@@ -606,18 +626,18 @@
             "volumes": null,
             "status": "Finished",
             "published": "Dec 2002",
-            "demographics": [],
-            "content_rating": "safe",
             "genres": [
                 "Comedy",
                 "Horror",
                 "Slice of Life"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Ito Junji's Dog Diary",
                 "Ganmen Kotei",
                 "Fixed Face"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -649,6 +669,12 @@
                 "title": "Ito Junji Kyoufu Manga Collection - Michi no Naimachi",
                 "relation": "Sequel",
                 "url": "/manga/ito-junji-kyoufu-manga-collection-michi-no-naimachi"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -684,14 +710,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "1998",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Ice Cream Bus",
@@ -704,6 +729,7 @@
                 "House of the Marionettes",
                 "Marionette Mansion"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -735,6 +761,12 @@
                 "title": "Ito Junji Kyoufu Manga Collection - Kubi Gensou",
                 "relation": "Sequel",
                 "url": "/manga/ito-junji-kyoufu-manga-collection-kubi-gensou"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -760,14 +792,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Nov 1999 to ?",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Blood-bubble Bushes",
@@ -778,6 +809,7 @@
                 "Demonology",
                 "The Conversation Room"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -809,6 +841,12 @@
                 "title": "Ito Junji Kyoufu Manga Collection - Tunnel no Tan",
                 "relation": "Sequel",
                 "url": "/manga/ito-junji-kyoufu-manga-collection-tunnel-no-tan"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -899,14 +937,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Aug 2000 to ?",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "The Circus is Here",
@@ -915,6 +952,7 @@
                 "Sleuth Kids: The Second Daughter's Lover",
                 "Sleuth Kids: The Assembly of Fallen Ghost"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1006,14 +1044,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Nov 1988 to May 1994",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Long Hair in the Attic",
@@ -1023,6 +1060,7 @@
                 "Headless Statues",
                 "Flesh Coloured Horror"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1164,14 +1202,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "May 2000 to ?",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "The Bully",
@@ -1182,6 +1219,7 @@
                 "Love by the Book",
                 "In the Soil"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1213,6 +1251,12 @@
                 "title": "Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki",
                 "relation": "Sequel",
                 "url": "/manga/ito-junji-kyoufu-manga-collection-souichi-no-tanoshii-nikki"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -1243,14 +1287,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Dec 1987 to 1998",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "The Face Burglar",
@@ -1262,6 +1305,7 @@
                 "The Hanging Balloons",
                 "Hanging Blimp"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1293,6 +1337,12 @@
                 "title": "Ito Junji Kyoufu Manga Collection - Ayatsuri no Yashiki",
                 "relation": "Sequel",
                 "url": "/manga/ito-junji-kyoufu-manga-collection-ayatsuri-no-yashiki"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -1328,14 +1378,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Mar 1989 to Mar 1993",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Hallucinations",
@@ -1344,6 +1393,7 @@
                 "Further Tales of Oshikiri",
                 "Further Tales of Oshikiri: The Wall"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1375,6 +1425,12 @@
                 "title": "Ito Junji Kyoufu Manga Collection - Ijimetsu Musume",
                 "relation": "Sequel",
                 "url": "/manga/ito-junji-kyoufu-manga-collection-ijimetsu-musume"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [],
@@ -1384,14 +1440,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Apr 2000 to ?",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "The Town Without Streets",
@@ -1400,6 +1455,7 @@
                 "Village of the Siren",
                 "The Supernatural Transfer Student"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1431,6 +1487,12 @@
                 "title": "Ito Junji Kyoufu Manga Collection - Chi Tamaki",
                 "relation": "Sequel",
                 "url": "/manga/ito-junji-kyoufu-manga-collection-chi-tamaki"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -1486,14 +1548,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "1998 to Oct 1998",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Slug Girl",
@@ -1506,6 +1567,7 @@
                 "The Groaning Drain",
                 "Biohouse"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1543,6 +1605,12 @@
                 "title": "Fashion Model: Cursed Frame",
                 "relation": "Other",
                 "url": "/manga/fashion-model-cursed-frame"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -1593,14 +1661,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "1997",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Souichi's Diary of Curses",
@@ -1610,6 +1677,7 @@
                 "Rumors",
                 "Fashion Model"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1647,6 +1715,12 @@
                 "title": "Miirareta Souichi",
                 "relation": "Other",
                 "url": "/manga/miirareta-souichi"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -1697,14 +1771,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "1997",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Fun Summer Vacation",
@@ -1714,6 +1787,7 @@
                 "Cloth Teachers",
                 "Souichi's Birthday"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1745,6 +1819,12 @@
                 "title": "Itou Junji Kyoufu Manga Collection 15: Hibito no Koiwazurai",
                 "relation": "Sequel",
                 "url": "/manga/itou-junji-kyoufu-manga-collection-15-hibito-no-koiwazurai"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [],
@@ -1754,14 +1834,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Feb 2001 to ?",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Long Dream",
@@ -1770,6 +1849,7 @@
                 "Drifting Spores",
                 "Blood Sickness of the White Sands Village"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1825,18 +1905,18 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Nov 26, 2007 to Dec 26, 2008",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Comedy",
                 "Slice of Life"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Itou Junji no Neko Nikki: Yon & Muu",
                 "Ito Junji's Cat Diary"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": "https://www.amazon.co.jp/dp/B00UUQ448I",
                 "viz": "https://kodansha.us/series/junji-itos-cat-diary-yon-mu-collectors-edition/",
@@ -1864,12 +1944,11 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Nov 13, 1990 to Oct 7, 2015",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": null,
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "Chuuko Record",
@@ -1883,6 +1962,7 @@
                 "Glyceride",
                 "Fashion Model: Norowareta Framing"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -1955,14 +2035,13 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Apr 13, 1996 to Oct 12, 1996",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "Lovesick Dead",
@@ -1976,6 +2055,7 @@
                 "Zekkyou no Yoru",
                 "The Horror World of Junji"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2010,19 +2090,19 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Jan 1999",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
             ],
+            "demographics": [],
             "alt_titles": [
                 "A Doll's Hellish Burial",
                 "Memories of Real Shit",
                 "Jigoku no Ningyousou",
                 "Real Unko no Omoide"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2066,18 +2146,18 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Aug 16, 2004 to Jun 24, 2005",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Hellstar Remina",
                 "Okuman Bocchi",
                 "Army of One"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": "https://www.amazon.com/dp/197471747X",
                 "viz": "https://viz.com/read/manga/junji-ito/product/6512",
@@ -2105,17 +2185,17 @@
             "volumes": null,
             "status": "Finished",
             "published": "Jun 13, 2012 to Oct 13, 2012",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": null,
             "genres": [
                 "Comedy",
                 "Slice of Life"
             ],
+            "demographics": [
+                "Shoujo"
+            ],
             "alt_titles": [
                 "A Diary of Embellished Patches"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2143,14 +2223,14 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Aug 12, 2010",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [
                 "The Summer Time Graduation Trip"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2178,13 +2258,12 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Nov 1996",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Kaiki Kandzume",
@@ -2197,6 +2276,7 @@
                 "Ijou Sekkin",
                 "Kaiki Hikizuri Kyoudai"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2224,16 +2304,16 @@
             "volumes": null,
             "status": "Finished",
             "published": "Feb 13, 2017",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": null,
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "Layers of Fear"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2261,17 +2341,17 @@
             "volumes": null,
             "status": "Finished",
             "published": "Jul 9, 2021",
-            "demographics": [],
-            "content_rating": "safe",
             "genres": [
                 "Avant Garde",
                 "Horror",
                 "Mystery"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Toudai",
                 "The Lighthouse"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2291,7 +2371,14 @@
         },
         "synopsis": "Futon After eloping, Madoka and Tomio should have been happy. But shortly afterwards, Tomio refuses to leave his futon. As he burrows in its folds, what sort of unseen horror is he hiding from? Mokuzou no Kai (Wooden Spirit) More than anything else, Megumi and her father are proud of their house's pedigree, as it has been recently honored as a national tangible cultural property. This renown draws the interest of architecture student Manami Kino, who ends up boarding alongside the father-daughter pair. As Manami becomes more ingrained in their lives, she reveals tell-tale signs of her love for the house. Tomio: Akai High-neck (Tomio・Red Turtleneck) Clad in a crimson turtleneck and clutching the sides of his head, Tomio begs for his ex-girlfriend Madoka's help. The enchanting fortune-teller who stole his heart now wants to steal another thing—Tomio's head. Lacerations wind around his neck, and the only thing keeping him whole is the waning strength of his hands. Yuruyaka na Wakare (Gentle Goodbye) Against his family's wishes, Makoto Tokura marries Riko. Soon, she learns of the family's special ritual. They have the ability to bring back the ghosts of the dead, calling them \"afterimages.\" After a couple of decades, these afterimages will fade, but they grant family members the chance to say a gentle goodbye to loved ones. Riko hopes the family can bring back the afterimage of her father when he dies, but even after years, they still don't approve of her. What secret could they be hiding? Kaibou-chan (Dissection-chan) At Chuo Medical University, students prepare to dissect cadavers to study their anatomy. However, one group is in for a surprise when they unwrap their body bag to discover the woman inside is still alive! Ruriko Tamiya is a psychotic girl obsessed with being dissected. As a child, she would carve open small animals' stomachs while her unwilling accomplice Tatsuro Kamata would hold them down. Tatsuro was able to escape her influence, but now, eight years later, she begs him to open her stomach. What horrors lurk beneath her veneer of skin? Kuroi Tori (Blackbird) Crippled in the wilderness, Shiro Moriguchi survived for a month off the provisions in his backpack... or so he says. In truth, his survival depended on a mysterious bird-woman who fed him regurgitated raw meat. However, even Moriguchi's rescue can't save him from her far too \"caring\" tendencies, as she continues to force-feed him meat and organs of unknown origin. Nanakuse Magami (Magami Nanakuse) Magami Nanakuse is a talented author, whose stories focus on people with strange habits called \"tics.\" Despite their obscure status, Magami's books are addicting. One such avid fan is Kaoru Koketsu. An aspiring novelist herself, Kaoru receives the chance of a lifetime when Magami invites Kaoru to visit. However, this visit doesn't turn out happy; Magami declares Kaoru a \"tic faker,\" ranting on the poor girl. After drinking together, their conversation leads Magami to see a spark of potential in Kaoru—the ultimate tic. Mimikosuru Onna (Whispering Woman) Mayumi Santo only knows how to live by taking orders. Should she sit, and if so, how should she sit? Does she lower her bottom first, or does she bend her knees first? Every one of Mayumi's actions requires strict direction for her to feel sane. Though her father Shigeki loves her, he is at wits' end as every caretaker eventually quits. His saving grace comes in the form of Mitsu Uchida, a beautiful young lady who offers to become the next caretaker. Despite Shigeki's initial misgivings, Mitsu proves to be more adept than any before her. Still, the mystery remains—just who is Mitsu Uchida, and for what reasons does she go to such lengths to care for Mayumi? [Written by MAL Rewrite]",
         "background": "Ma no Kakera was published in English as Fragments of Horror by VIZ Media under the VIZ Signature imprint on June 16, 2015, in Spanish by ECC Comics on March 25, 2015, and in Brazilian Portuguese by DarkSide Books on July 26, 2017.",
-        "relations": [],
+        "relations": [
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
+            }
+        ],
         "characters": [
             {
                 "name": "Mayumi",
@@ -2305,12 +2392,11 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Apr 13, 2013 to Apr 12, 2014",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "The Shards of Evil",
@@ -2329,6 +2415,7 @@
                 "Black Bird",
                 "Nanakuse"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": "https://www.viz.com/read/manga/fragments-of-horror/product/3701",
@@ -2362,14 +2449,14 @@
             "volumes": null,
             "status": "Finished",
             "published": "Jun 19, 2012",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Demon's Voice"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2415,17 +2502,17 @@
             "volumes": null,
             "status": "Finished",
             "published": "Aug 12, 2011",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": null,
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "Souichi Possessed",
                 "Enchanted Souichi"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2453,12 +2540,12 @@
             "volumes": 1,
             "status": "Finished",
             "published": "2002 to 2003",
-            "demographics": [],
-            "content_rating": "safe",
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2486,14 +2573,14 @@
             "volumes": 3,
             "status": "Finished",
             "published": "May 2, 2017 to Apr 20, 2018",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "suggestive",
             "genres": [
                 "Drama"
             ],
+            "demographics": [
+                "Seinen"
+            ],
             "alt_titles": [],
+            "content_rating": "Suggestive",
             "links": {
                 "amazon": null,
                 "viz": "https://www.viz.com/read/manga/no-longer-human/product/6126",
@@ -2521,17 +2608,17 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Aug 10, 2018 to Aug 10, 2019",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "Muma no Kikou",
                 "Travelogue of the Succubus"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": "https://www.viz.com/read/manga/junji-ito-volume-1/product/6775",
@@ -2557,6 +2644,12 @@
                 "title": "Voices in the Dark",
                 "relation": "Prequel",
                 "url": "/manga/voices-in-the-dark"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -2592,13 +2685,12 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Oct 13, 2004 to Aug 12, 2006",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "New Voices in the Dark",
@@ -2609,6 +2701,7 @@
                 "Zousho Genei",
                 "Yami no Zesshou"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": "https://www.viz.com/read/manga/smashed-junji-ito-story-collection/product/5870",
@@ -2636,16 +2729,15 @@
             "volumes": 2,
             "status": "Finished",
             "published": "Dec 25, 2012 to Nov 25, 2014",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Action",
                 "Adventure",
                 "Drama",
                 "Sci-Fi",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "The Recital Contest of the Geniuses",
@@ -2654,6 +2746,7 @@
                 "Revenge Doll",
                 "Mouten no Venus"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2691,6 +2784,12 @@
                 "title": "Miirareta Souichi",
                 "relation": "Other",
                 "url": "/manga/miirareta-souichi"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -2768,16 +2867,16 @@
             "volumes": 3,
             "status": "Finished",
             "published": "1987 to 2000",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": "suggestive",
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
             ],
+            "demographics": [
+                "Shoujo"
+            ],
             "alt_titles": [],
+            "content_rating": "Suggestive",
             "links": {
                 "amazon": null,
                 "viz": "https://www.viz.com/read/manga/tomie-complete-deluxe-edition/product/4988",
@@ -2818,16 +2917,16 @@
             "volumes": 3,
             "status": "Finished",
             "published": "Mar 30, 2018 to May 25, 2018",
-            "demographics": [],
-            "content_rating": "safe",
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Tomie: Takeover"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -2848,6 +2947,12 @@
         "synopsis": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals. But his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness. [Written by MAL Rewrite]",
         "background": "Uzumaki was chosen by the American Library Association (ALA) as one of the Top Ten Great Graphic Novels for Teens in 2009. The series was published in English as Uzumaki: Spiral into Horror by VIZ Media under the VIZ Signature imprint from October 16, 2007 to February 19, 2008, and again in a hardcover omnibus on October 15, 2013. It was also published in Polish by Japonica Polonica Fantastica in May 2011 as part of Mega Manga series, in Czech by Zoner Press, and in Spanish by Planeta Cómic.",
         "relations": [
+            {
+                "id": 40333,
+                "title": "Uzumaki: Spiral into Horror",
+                "relation": "Adaptation",
+                "url": "/anime/uzumaki-spiral-into-horror"
+            },
             {
                 "id": 119534,
                 "title": "Uzumaki Tokubetsu-hen: Ginga",
@@ -2991,18 +3096,18 @@
             "volumes": 3,
             "status": "Finished",
             "published": "Jan 12, 1998 to Aug 30, 1999",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Drama",
                 "Horror",
                 "Supernatural"
             ],
+            "demographics": [
+                "Seinen"
+            ],
             "alt_titles": [
                 "The Spiral"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": "https://www.amazon.co.jp/gp/product/B078MD3Z5X/",
                 "viz": "https://www.viz.com/read/manga/junji-ito/product/3382",
@@ -3053,16 +3158,16 @@
             "volumes": null,
             "status": "Finished",
             "published": "Jan 31, 2000",
-            "demographics": [
-                "Seinen"
-            ],
-            "content_rating": null,
             "genres": [
                 "Horror"
+            ],
+            "demographics": [
+                "Seinen"
             ],
             "alt_titles": [
                 "Uzumaki Lost Chapter: Galaxies"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -3090,16 +3195,16 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Sep 24, 2014 to Mar 24, 2017",
-            "demographics": [],
-            "content_rating": null,
             "genres": [
                 "Horror"
             ],
+            "demographics": [],
             "alt_titles": [
                 "Kamigami no Yama: Makyou no Mine",
                 "Mountain of Gods: Precipice of the Unknown",
                 "Yama no Reiiki"
             ],
+            "content_rating": null,
             "links": {
                 "amazon": null,
                 "viz": null,
@@ -3125,6 +3230,12 @@
                 "title": "Shin Yami no Koe: Kaidan",
                 "relation": "Sequel",
                 "url": "/manga/shin-yami-no-koe-kaidan"
+            },
+            {
+                "id": 36124,
+                "title": "The Junji Ito Collection",
+                "relation": "Adaptation",
+                "url": "/anime/the-junji-ito-collection"
             }
         ],
         "characters": [
@@ -3155,13 +3266,12 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Jun 13, 2002 to Jun 13, 2003",
-            "demographics": [
-                "Shoujo"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Shoujo"
             ],
             "alt_titles": [
                 "Chi wo Susuru Yami",
@@ -3178,6 +3288,7 @@
                 "The Earthbound",
                 "Dead Man Calling"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": null,
                 "viz": "https://www.viz.com/read/manga/smashed-junji-ito-story-collection/product/5870",
@@ -3221,13 +3332,12 @@
             "volumes": 1,
             "status": "Finished",
             "published": "Mar 18, 2013 to Oct 1, 2014",
-            "demographics": [
-                "Josei"
-            ],
-            "content_rating": "safe",
             "genres": [
                 "Horror",
                 "Supernatural"
+            ],
+            "demographics": [
+                "Josei"
             ],
             "alt_titles": [
                 "Supernatural Classroom",
@@ -3243,6 +3353,7 @@
                 "The Return",
                 "Children of the Earth"
             ],
+            "content_rating": "Safe",
             "links": {
                 "amazon": "https://www.amazon.co.jp/dp/B00R34DQYS",
                 "viz": "https://kodansha.us/series/dissolving-classroom/",
@@ -3276,12 +3387,12 @@
             "volumes": 6,
             "status": "Finished",
             "published": "Aug 10, 2010 to Dec 10, 2012",
+            "genres": [],
             "demographics": [
                 "Seinen"
             ],
-            "content_rating": "safe",
-            "genres": [],
             "alt_titles": [],
+            "content_rating": "Safe",
             "links": {
                 "amazon": "https://www.amazon.co.jp/gp/product/B07BNTT52Y",
                 "viz": null,

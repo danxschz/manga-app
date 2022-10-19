@@ -36,10 +36,12 @@ const works: Works = {
 interface Props {
   title: string,
   inverted?: boolean
+  to: string,
+  id: number,
 }
 
 const Work = (props: Props) => {
-  const { title, inverted } = props;
+  const { title, inverted, to, id } = props;
   const { desc, img1, img2 } = works[title];
 
   return (
@@ -49,7 +51,7 @@ const Work = (props: Props) => {
         <img src={img2} alt="" />
         <h2>{title}</h2>
         <p>{desc}</p>
-        <Button text="View more"/>
+        <Button text="View more" to={to} id={id} />
       </div>
       {(inverted) ? <img src={img1} alt="" /> : null}
     </div>

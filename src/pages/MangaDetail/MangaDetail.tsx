@@ -30,10 +30,10 @@ const MangaDetail = () => {
             {(volumes) ? <DataSet property='Volumes' value={volumes} /> : null}
             {(status) ? <DataSet property='Status' value={status} /> : null}
             {(published) ? <DataSet property='Published' value={published} /> : null}
-            {(demographics && demographics.length) ? <DataSet property={(demographics.length > 1) ? 'Demographics' : 'Demographic'} value={demographics.join(', ')} /> : null}
-            {(content_rating) ? <DataSet property='Content Rating' value={content_rating} /> : null}
             {(genres && genres.length) ? <DataSet property={(genres.length > 1) ? 'Genres' : 'Genre'} value={genres.join(', ')} /> : null}
+            {(demographics && demographics.length) ? <DataSet property={(demographics.length > 1) ? 'Demographics' : 'Demographic'} value={demographics.join(', ')} /> : null}
             {(alt_titles && alt_titles.length) ? <DataSet property='Alternative Titles' value={alt_titles.join(', ')} /> : null}
+            {(content_rating) ? <DataSet property='Content Rating' value={content_rating} /> : null}
             {(links && Object.keys(links).length) ? <Links links={links} /> : null}
           </div>
           <div className={styles.main}>

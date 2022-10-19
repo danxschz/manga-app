@@ -4,14 +4,15 @@ import { Link } from 'react-router-dom';
 interface Props {
   text: string,
   to?: string,
-  onClick?(): any
+  id?: number,
+  onClick?(): any,
 }
 
 const Button = (props: Props) => {
-  const { text, to, onClick } = props;
+  const { text, to, id, onClick } = props;
 
   if (to) return (
-    <Link to={to} className={styles.button} onClick={onClick}>{text}</Link>
+    <Link to={to} state={{ id }} className={styles.button} onClick={onClick}>{text}</Link>
   )
 
   else return (

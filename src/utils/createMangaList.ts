@@ -2,6 +2,7 @@ import mangaFull from '../data/mangaFull.json';
 import mangaComplement from '../data/mangaComplement.json';
 import mangaCharacters from '../data/mangaCharacters.json';
 import mangaReviews from '../data/mangaReviews.json';
+import animeFull from '../data/animeFull.json';
 
 const slugify = (string: string) => {
   const slug = string
@@ -33,11 +34,11 @@ const createMangaList = () => {
     const relationsArr: any = [];
     for (const item of relations) {
       const id = item.entry[0].mal_id;
-      const entry = mangaFull.find((i) => i.data.mal_id === id);
+      const type = item.entry[0].type;
+      const entry = (type === 'manga') ? mangaFull.find((i) => i.data.mal_id === id) : animeFull.find((i) => i.data.mal_id === id) ;
 
       if (entry) {
         const title = entry.data.title_english || entry.data.title;
-        const type = item.entry[0].type;
 
         const relation = {
           id,
@@ -107,10 +108,10 @@ const createMangaList = () => {
       volumes,
       status,
       published: published.string,
-      demographics: demographicsArr,
-      content_rating,
       genres: genresArr,
+      demographics: demographicsArr,
       alt_titles: title_synonyms,
+      content_rating,
       links: mangaLinks
     }
 
