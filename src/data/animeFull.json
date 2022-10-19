@@ -1,0 +1,1040 @@
+[
+    {
+        "data": {
+            "mal_id": 10417,
+            "url": "https://myanimelist.net/anime/10417/Gyo",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/9/31905.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/9/31905t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/9/31905l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/9/31905.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/9/31905t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/9/31905l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": "xZtOnznW3GI",
+                "url": "https://www.youtube.com/watch?v=xZtOnznW3GI",
+                "embed_url": "https://www.youtube.com/embed/xZtOnznW3GI?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": "https://img.youtube.com/vi/xZtOnznW3GI/default.jpg",
+                    "small_image_url": "https://img.youtube.com/vi/xZtOnznW3GI/sddefault.jpg",
+                    "medium_image_url": "https://img.youtube.com/vi/xZtOnznW3GI/mqdefault.jpg",
+                    "large_image_url": "https://img.youtube.com/vi/xZtOnznW3GI/hqdefault.jpg",
+                    "maximum_image_url": "https://img.youtube.com/vi/xZtOnznW3GI/maxresdefault.jpg"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Gyo"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ギョ"
+                },
+                {
+                    "type": "English",
+                    "title": "GYO: Tokyo Fish Attack!"
+                },
+                {
+                    "type": "German",
+                    "title": "GYO: Der Tod aus dem Meer"
+                }
+            ],
+            "title": "Gyo",
+            "title_english": "GYO: Tokyo Fish Attack!",
+            "title_japanese": "ギョ",
+            "title_synonyms": [],
+            "type": "Movie",
+            "source": "Manga",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2011-10-29T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 29,
+                        "month": 10,
+                        "year": 2011
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Oct 29, 2011"
+            },
+            "duration": "1 hr 10 min",
+            "rating": "R+ - Mild Nudity",
+            "score": 5.35,
+            "scored_by": 29563,
+            "rank": 11742,
+            "popularity": 2557,
+            "members": 56866,
+            "favorites": 50,
+            "synopsis": "Though her trip to Okinawa was supposed to be a lovely excursion to the seaside, college student Kaori Sawahara finds that it is anything but when a horrifying menace emerges from the watery depths. A strange mechanism has taken control of the sea creatures, granting them legs and sending them on land to attack anything in their way. Kaori and her friends—the lustful Erika and the reserved Aki—find themselves caught up in this onslaught, made worse by the creatures' rotting stench of death. Surviving the first assault, Kaori tries to contact her fiancé Tadashi in Tokyo. However, the call is cut short in what sounds like another fish attack. Fearing for his safety, Kaori leaves for Tokyo. With Erika and Aki contending with the attacks in Okinawa, Kaori rushes to find Tadashi, unaware that the crisis has only just begun. [Written by MAL Rewrite]",
+            "background": "Gyo adapts Itou Junji's manga series of the same title. It follows the same story as the manga but switches the roles of Kaori and Tadashi while adding new characters and subplots.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [
+                {
+                    "mal_id": 17,
+                    "type": "anime",
+                    "name": "Aniplex",
+                    "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 493,
+                    "type": "anime",
+                    "name": "Aniplex of America",
+                    "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 43,
+                    "type": "anime",
+                    "name": "ufotable",
+                    "url": "https://myanimelist.net/anime/producer/43/ufotable"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/anime/genre/14/Horror"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [],
+            "relations": [
+                {
+                    "relation": "Adaptation",
+                    "entry": [
+                        {
+                            "mal_id": 909,
+                            "type": "manga",
+                            "name": "Gyo: Ugomeku Bukimi",
+                            "url": "https://myanimelist.net/manga/909/Gyo__Ugomeku_Bukimi"
+                        }
+                    ]
+                }
+            ],
+            "theme": {
+                "openings": [],
+                "endings": [
+                    "\"Ending Theme\" by Nami Nakagawa (中川奈美)"
+                ]
+            },
+            "external": [
+                {
+                    "name": "Official Site",
+                    "url": "http://www.animebunko.com/gyo/index.html"
+                },
+                {
+                    "name": "AnimeDB",
+                    "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8315"
+                },
+                {
+                    "name": "AnimeNewsNetwork",
+                    "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13361"
+                },
+                {
+                    "name": "Wikipedia",
+                    "url": "http://en.wikipedia.org/wiki/Gyo"
+                }
+            ],
+            "streaming": []
+        }
+    },
+    {
+        "data": {
+            "mal_id": 36124,
+            "url": "https://myanimelist.net/anime/36124/Itou_Junji__Collection",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/7/88366.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/7/88366t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/7/88366l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/7/88366.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/7/88366t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/7/88366l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": "UMNcx1Z2BPo",
+                "url": "https://www.youtube.com/watch?v=UMNcx1Z2BPo",
+                "embed_url": "https://www.youtube.com/embed/UMNcx1Z2BPo?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": "https://img.youtube.com/vi/UMNcx1Z2BPo/default.jpg",
+                    "small_image_url": "https://img.youtube.com/vi/UMNcx1Z2BPo/sddefault.jpg",
+                    "medium_image_url": "https://img.youtube.com/vi/UMNcx1Z2BPo/mqdefault.jpg",
+                    "large_image_url": "https://img.youtube.com/vi/UMNcx1Z2BPo/hqdefault.jpg",
+                    "maximum_image_url": "https://img.youtube.com/vi/UMNcx1Z2BPo/maxresdefault.jpg"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Itou Junji: Collection"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "伊藤潤二「コレクション」"
+                },
+                {
+                    "type": "English",
+                    "title": "The Junji Ito Collection"
+                },
+                {
+                    "type": "German",
+                    "title": "Junji Ito Collection"
+                },
+                {
+                    "type": "Spanish",
+                    "title": "Junji Ito Collection"
+                },
+                {
+                    "type": "French",
+                    "title": "Junji Ito Collection"
+                }
+            ],
+            "title": "Itou Junji: Collection",
+            "title_english": "The Junji Ito Collection",
+            "title_japanese": "伊藤潤二「コレクション」",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 12,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2018-01-05T00:00:00+00:00",
+                "to": "2018-03-23T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 5,
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "to": {
+                        "day": 23,
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "string": "Jan 5, 2018 to Mar 23, 2018"
+            },
+            "duration": "24 min per ep",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": 6.41,
+            "scored_by": 65955,
+            "rank": 6975,
+            "popularity": 1354,
+            "members": 146991,
+            "favorites": 827,
+            "synopsis": "In the light of day and in the dead of night, mysterious horrors await in the darkest shadows of every corner. They are unexplainable, inescapable, and undefeatable. Be prepared, or you may become their next victim. Sit back in terror as traumatizing tales of unparalleled terror unfold. Tales, such as that of a cursed jade carving that opens holes all over its victims' bodies; deep nightmares that span decades; an attractive spirit at a misty crossroad that grants cursed advice; and a slug that grows inside a girl's mouth. Tread carefully, for the horrifying supernatural tales of the Itou Junji: Collection are not for the faint of heart. [Written by MAL Rewrite]",
+            "background": "Itou Junji: Collection is collection of animated based on the works of Japanese artist Junji Itou.",
+            "season": "winter",
+            "year": 2018,
+            "broadcast": {
+                "day": "Fridays",
+                "time": "22:30",
+                "timezone": "Asia/Tokyo",
+                "string": "Fridays at 22:30 (JST)"
+            },
+            "producers": [
+                {
+                    "mal_id": 323,
+                    "type": "anime",
+                    "name": "Nippon Columbia",
+                    "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+                },
+                {
+                    "mal_id": 1318,
+                    "type": "anime",
+                    "name": "Asahi Shimbun",
+                    "url": "https://myanimelist.net/anime/producer/1318/Asahi_Shimbun"
+                },
+                {
+                    "mal_id": 1492,
+                    "type": "anime",
+                    "name": "Yomiuri TV Enterprise",
+                    "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+                },
+                {
+                    "mal_id": 1557,
+                    "type": "anime",
+                    "name": "Pony Canyon Enterprise",
+                    "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprise"
+                },
+                {
+                    "mal_id": 1647,
+                    "type": "anime",
+                    "name": "Smiral Animation",
+                    "url": "https://myanimelist.net/anime/producer/1647/Smiral_Animation"
+                },
+                {
+                    "mal_id": 1784,
+                    "type": "anime",
+                    "name": "Crunchyroll SC Anime Fund",
+                    "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+                },
+                {
+                    "mal_id": 1786,
+                    "type": "anime",
+                    "name": "Muse Communication",
+                    "url": "https://myanimelist.net/anime/producer/1786/Muse_Communication"
+                }
+            ],
+            "licensors": [
+                {
+                    "mal_id": 102,
+                    "type": "anime",
+                    "name": "Funimation",
+                    "url": "https://myanimelist.net/anime/producer/102/Funimation"
+                }
+            ],
+            "studios": [
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Studio Deen",
+                    "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/anime/genre/14/Horror"
+                },
+                {
+                    "mal_id": 7,
+                    "type": "anime",
+                    "name": "Mystery",
+                    "url": "https://myanimelist.net/anime/genre/7/Mystery"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 40,
+                    "type": "anime",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/anime/genre/40/Psychological"
+                }
+            ],
+            "demographics": [],
+            "relations": [
+                {
+                    "relation": "Adaptation",
+                    "entry": [
+                        {
+                            "mal_id": 912,
+                            "type": "manga",
+                            "name": "Tomie",
+                            "url": "https://myanimelist.net/manga/912/Tomie"
+                        },
+                        {
+                            "mal_id": 3126,
+                            "type": "manga",
+                            "name": "Yami no Koe",
+                            "url": "https://myanimelist.net/manga/3126/Yami_no_Koe"
+                        },
+                        {
+                            "mal_id": 4628,
+                            "type": "manga",
+                            "name": "Shin Yami no Koe: Kaidan",
+                            "url": "https://myanimelist.net/manga/4628/Shin_Yami_no_Koe__Kaidan"
+                        },
+                        {
+                            "mal_id": 44745,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Kao Dorobou",
+                            "url": "https://myanimelist.net/manga/44745/Ito_Junji_Kyoufu_Manga_Collection_-_Kao_Dorobou"
+                        },
+                        {
+                            "mal_id": 44747,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki",
+                            "url": "https://myanimelist.net/manga/44747/Ito_Junji_Kyoufu_Manga_Collection_-_Souichi_no_Tanoshii_Nikki"
+                        },
+                        {
+                            "mal_id": 44749,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Souichi no Noroi Nikki",
+                            "url": "https://myanimelist.net/manga/44749/Ito_Junji_Kyoufu_Manga_Collection_-_Souichi_no_Noroi_Nikki"
+                        },
+                        {
+                            "mal_id": 44751,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Namekuji no Shoujo",
+                            "url": "https://myanimelist.net/manga/44751/Ito_Junji_Kyoufu_Manga_Collection_-_Namekuji_no_Shoujo"
+                        },
+                        {
+                            "mal_id": 44753,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Chi Tamaki",
+                            "url": "https://myanimelist.net/manga/44753/Ito_Junji_Kyoufu_Manga_Collection_-_Chi_Tamaki"
+                        },
+                        {
+                            "mal_id": 44755,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Kubi Gensou",
+                            "url": "https://myanimelist.net/manga/44755/Ito_Junji_Kyoufu_Manga_Collection_-_Kubi_Gensou"
+                        },
+                        {
+                            "mal_id": 44757,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Ayatsuri no Yashiki",
+                            "url": "https://myanimelist.net/manga/44757/Ito_Junji_Kyoufu_Manga_Collection_-_Ayatsuri_no_Yashiki"
+                        },
+                        {
+                            "mal_id": 44759,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Michi no Naimachi",
+                            "url": "https://myanimelist.net/manga/44759/Ito_Junji_Kyoufu_Manga_Collection_-_Michi_no_Naimachi"
+                        },
+                        {
+                            "mal_id": 44763,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Circus ga Kita",
+                            "url": "https://myanimelist.net/manga/44763/Ito_Junji_Kyoufu_Manga_Collection_-_Circus_ga_Kita"
+                        },
+                        {
+                            "mal_id": 44765,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Manga Collection - Tunnel no Tan",
+                            "url": "https://myanimelist.net/manga/44765/Ito_Junji_Kyoufu_Manga_Collection_-_Tunnel_no_Tan"
+                        },
+                        {
+                            "mal_id": 52435,
+                            "type": "manga",
+                            "name": "Ma no Kakera",
+                            "url": "https://myanimelist.net/manga/52435/Ma_no_Kakera"
+                        },
+                        {
+                            "mal_id": 80905,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Hakubutsukan 9: Oshikiri Idan & Frankenstein",
+                            "url": "https://myanimelist.net/manga/80905/Ito_Junji_Kyoufu_Hakubutsukan_9__Oshikiri_Idan___Frankenstein"
+                        },
+                        {
+                            "mal_id": 87384,
+                            "type": "manga",
+                            "name": "",
+                            "url": "https://myanimelist.net/manga/87384/"
+                        },
+                        {
+                            "mal_id": 92968,
+                            "type": "manga",
+                            "name": "Ito Junji Kyoufu Hakubutsukan 10: Shibito no Koiwazurai",
+                            "url": "https://myanimelist.net/manga/92968/Ito_Junji_Kyoufu_Hakubutsukan_10__Shibito_no_Koiwazurai"
+                        }
+                    ]
+                },
+                {
+                    "relation": "Other",
+                    "entry": [
+                        {
+                            "mal_id": 36992,
+                            "type": "anime",
+                            "name": "Tomie",
+                            "url": "https://myanimelist.net/anime/36992/Tomie"
+                        }
+                    ]
+                }
+            ],
+            "theme": {
+                "openings": [
+                    "\"Shichiten Battou no Blues (七転八倒のブルース)\" by THE PINBALLS"
+                ],
+                "endings": [
+                    "\"Otagai no Uchuu (互いの宇宙)\" by JYOCHO"
+                ]
+            },
+            "external": [
+                {
+                    "name": "Official Site",
+                    "url": "http://itojunji-anime.com/"
+                },
+                {
+                    "name": "AnimeDB",
+                    "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13385"
+                },
+                {
+                    "name": "AnimeNewsNetwork",
+                    "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20207"
+                },
+                {
+                    "name": "Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/Junji_Ito_Collection"
+                }
+            ],
+            "streaming": [
+                {
+                    "name": "Crunchyroll",
+                    "url": "http://www.crunchyroll.com/series-275111"
+                },
+                {
+                    "name": "Funimation",
+                    "url": "https://www.funimation.com/shows/junji-ito-collection"
+                }
+            ]
+        }
+    },
+    {
+        "data": {
+            "mal_id": 52031,
+            "url": "https://myanimelist.net/anime/52031/Itou_Junji__Maniac",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/1358/129159.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/1358/129159t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/1358/129159l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/1358/129159.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/1358/129159t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/1358/129159l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": null,
+                "url": null,
+                "embed_url": null,
+                "images": {
+                    "image_url": null,
+                    "small_image_url": null,
+                    "medium_image_url": null,
+                    "large_image_url": null,
+                    "maximum_image_url": null
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Itou Junji: Maniac"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "伊藤潤二『マニアック』"
+                },
+                {
+                    "type": "English",
+                    "title": "Junji Ito Maniac: Japanese Tales of the Macabre"
+                }
+            ],
+            "title": "Itou Junji: Maniac",
+            "title_english": "Junji Ito Maniac: Japanese Tales of the Macabre",
+            "title_japanese": "伊藤潤二『マニアック』",
+            "title_synonyms": [],
+            "type": "ONA",
+            "source": "Manga",
+            "episodes": null,
+            "status": "Not yet aired",
+            "airing": false,
+            "aired": {
+                "from": "2023-01-19T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 19,
+                        "month": 1,
+                        "year": 2023
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Jan 19, 2023 to ?"
+            },
+            "duration": "Unknown",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": null,
+            "scored_by": null,
+            "rank": null,
+            "popularity": 8735,
+            "members": 3335,
+            "favorites": 17,
+            "synopsis": "The anime series will adapt 20 stories from a number of Itou's manga for the first time, including Tomie, Souichi, and Kubitsuri Kikyuu (The Hanging Balloons). (Source: MAL News)",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Studio Deen",
+                    "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/anime/genre/14/Horror"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 42,
+                    "type": "anime",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/anime/genre/42/Seinen"
+                }
+            ],
+            "relations": [],
+            "theme": {
+                "openings": [],
+                "endings": []
+            },
+            "external": [
+                {
+                    "name": "Official Site",
+                    "url": "http://ji-anime.com/"
+                },
+                {
+                    "name": "AnimeDB",
+                    "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=17446"
+                },
+                {
+                    "name": "AnimeNewsNetwork",
+                    "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=25777"
+                }
+            ],
+            "streaming": []
+        }
+    },
+    {
+        "data": {
+            "mal_id": 36992,
+            "url": "https://myanimelist.net/anime/36992/Tomie",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/2/89805.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/2/89805t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/2/89805l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/2/89805.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/2/89805t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/2/89805l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": "HokQmZz2y1Y",
+                "url": "https://www.youtube.com/watch?v=HokQmZz2y1Y",
+                "embed_url": "https://www.youtube.com/embed/HokQmZz2y1Y?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": "https://img.youtube.com/vi/HokQmZz2y1Y/default.jpg",
+                    "small_image_url": "https://img.youtube.com/vi/HokQmZz2y1Y/sddefault.jpg",
+                    "medium_image_url": "https://img.youtube.com/vi/HokQmZz2y1Y/mqdefault.jpg",
+                    "large_image_url": "https://img.youtube.com/vi/HokQmZz2y1Y/hqdefault.jpg",
+                    "maximum_image_url": "https://img.youtube.com/vi/HokQmZz2y1Y/maxresdefault.jpg"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Tomie"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Ito Junji: Collection Specials"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Ito Junji Episodes 13 and 14"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "富江"
+                }
+            ],
+            "title": "Tomie",
+            "title_english": null,
+            "title_japanese": "富江",
+            "title_synonyms": [
+                "Ito Junji: Collection Specials",
+                "Ito Junji Episodes 13 and 14"
+            ],
+            "type": "Special",
+            "source": "Manga",
+            "episodes": 2,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+                "from": "2018-04-27T00:00:00+00:00",
+                "to": "2018-05-25T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 27,
+                        "month": 4,
+                        "year": 2018
+                    },
+                    "to": {
+                        "day": 25,
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "string": "Apr 27, 2018 to May 25, 2018"
+            },
+            "duration": "10 min per ep",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": 6.18,
+            "scored_by": 13340,
+            "rank": 8235,
+            "popularity": 3479,
+            "members": 31797,
+            "favorites": 93,
+            "synopsis": "Memories, both good and bad, suffuse the high school experience. Whether it's hanging out with friends or cramming for tests, everyone has something they will remember from that time in their lives. At a certain high school, one class is faced with an event that can cause people to look back on their high school days in sadness: the death of a student. The deceased is not just any student—she's Tomie Kawakami, a popular girl with an almost otherworldly beauty. Her death was particularly gruesome: her body was dismembered and the pieces scattered. As the class tries to make sense of the situation, they are shocked when a familiar voice calls out to them from the doorway, apologizing for being late. With raven hair and a beauty mark under her left eye, this girl is the spitting image of their murdered classmate. But she can't actually be Tomie, right? [Written by MAL Rewrite]",
+            "background": "Included with the second and third volumes of the Ito Junji: Collection Bluray/DVD releases.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Studio Deen",
+                    "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/anime/genre/14/Horror"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 43,
+                    "type": "anime",
+                    "name": "Josei",
+                    "url": "https://myanimelist.net/anime/genre/43/Josei"
+                }
+            ],
+            "relations": [
+                {
+                    "relation": "Adaptation",
+                    "entry": [
+                        {
+                            "mal_id": 912,
+                            "type": "manga",
+                            "name": "Tomie",
+                            "url": "https://myanimelist.net/manga/912/Tomie"
+                        }
+                    ]
+                },
+                {
+                    "relation": "Other",
+                    "entry": [
+                        {
+                            "mal_id": 36124,
+                            "type": "anime",
+                            "name": "Itou Junji: Collection",
+                            "url": "https://myanimelist.net/anime/36124/Itou_Junji__Collection"
+                        }
+                    ]
+                }
+            ],
+            "theme": {
+                "openings": [],
+                "endings": []
+            },
+            "external": [
+                {
+                    "name": "Official Site",
+                    "url": "http://itojunji-anime.com/"
+                },
+                {
+                    "name": "AnimeDB",
+                    "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13385"
+                },
+                {
+                    "name": "AnimeNewsNetwork",
+                    "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20207"
+                },
+                {
+                    "name": "Wikipedia",
+                    "url": "http://en.wikipedia.org/wiki/Tomie"
+                }
+            ],
+            "streaming": []
+        }
+    },
+    {
+        "data": {
+            "mal_id": 40333,
+            "url": "https://myanimelist.net/anime/40333/Uzumaki",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/1432/105265.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/1432/105265t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/1432/105265l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/anime/1432/105265.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/anime/1432/105265t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/anime/1432/105265l.webp"
+                }
+            },
+            "trailer": {
+                "youtube_id": "hnQOO8Y1Ck0",
+                "url": "https://www.youtube.com/watch?v=hnQOO8Y1Ck0",
+                "embed_url": "https://www.youtube.com/embed/hnQOO8Y1Ck0?enablejsapi=1&wmode=opaque&autoplay=1",
+                "images": {
+                    "image_url": "https://img.youtube.com/vi/hnQOO8Y1Ck0/default.jpg",
+                    "small_image_url": "https://img.youtube.com/vi/hnQOO8Y1Ck0/sddefault.jpg",
+                    "medium_image_url": "https://img.youtube.com/vi/hnQOO8Y1Ck0/mqdefault.jpg",
+                    "large_image_url": "https://img.youtube.com/vi/hnQOO8Y1Ck0/hqdefault.jpg",
+                    "maximum_image_url": "https://img.youtube.com/vi/hnQOO8Y1Ck0/maxresdefault.jpg"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Uzumaki"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Spiral"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "うずまき"
+                },
+                {
+                    "type": "English",
+                    "title": "Uzumaki: Spiral into Horror"
+                }
+            ],
+            "title": "Uzumaki",
+            "title_english": "Uzumaki: Spiral into Horror",
+            "title_japanese": "うずまき",
+            "title_synonyms": [
+                "The Spiral"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 4,
+            "status": "Not yet aired",
+            "airing": false,
+            "aired": {
+                "from": "2023-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2023
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2023 to ?"
+            },
+            "duration": "Unknown",
+            "rating": null,
+            "score": null,
+            "scored_by": null,
+            "rank": null,
+            "popularity": 1985,
+            "members": 87182,
+            "favorites": 319,
+            "synopsis": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals. But his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness. [Written by MAL Rewrite]",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+                "day": null,
+                "time": null,
+                "timezone": null,
+                "string": "Unknown"
+            },
+            "producers": [
+                {
+                    "mal_id": 10,
+                    "type": "anime",
+                    "name": "Production I.G",
+                    "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+                }
+            ],
+            "licensors": [],
+            "studios": [
+                {
+                    "mal_id": 1967,
+                    "type": "anime",
+                    "name": "Drive",
+                    "url": "https://myanimelist.net/anime/producer/1967/Drive"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 5,
+                    "type": "anime",
+                    "name": "Avant Garde",
+                    "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "anime",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/anime/genre/8/Drama"
+                },
+                {
+                    "mal_id": 14,
+                    "type": "anime",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/anime/genre/14/Horror"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "anime",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/anime/genre/22/Romance"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "anime",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 40,
+                    "type": "anime",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/anime/genre/40/Psychological"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 42,
+                    "type": "anime",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/anime/genre/42/Seinen"
+                }
+            ],
+            "relations": [
+                {
+                    "relation": "Adaptation",
+                    "entry": [
+                        {
+                            "mal_id": 436,
+                            "type": "manga",
+                            "name": "Uzumaki",
+                            "url": "https://myanimelist.net/manga/436/Uzumaki"
+                        }
+                    ]
+                }
+            ],
+            "theme": {
+                "openings": [],
+                "endings": []
+            },
+            "external": [
+                {
+                    "name": "AnimeDB",
+                    "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15063"
+                },
+                {
+                    "name": "AnimeNewsNetwork",
+                    "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22483"
+                },
+                {
+                    "name": "Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/Uzumaki"
+                }
+            ],
+            "streaming": []
+        }
+    }
+]
