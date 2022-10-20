@@ -1,19 +1,19 @@
-import styles from './Manga.module.scss';
-import manga from '../../data/manga.json';
-import img from '../../assets/img/manga.jpg';
+import styles from './Anime.module.scss';
+import anime from '../../data/anime.json';
+import img from '../../assets/img/anime.webp';
 import useDocTitle from '../../hooks/useDocTitle';
 import PageHeading from '../../components/PageHeading/PageHeading';
 import ItemCard from '../../components/ItemCard/ItemCard';
 
-const Manga = () => {
-  useDocTitle('Manga');
+const Anime = () => {
+  useDocTitle('Anime');
   
   return (
     <main>
       <div className={styles.content}>
-        <PageHeading title="Manga Works" img={img} />
-        <div className={styles.manga}>
-          {manga.map((item) => {
+        <PageHeading title="Anime Works" img={img} />
+        <div className={styles.anime}>
+          {anime.map((item) => {
             return <ItemCard item={item} key={item.id} />
           })}
         </div>
@@ -22,4 +22,4 @@ const Manga = () => {
   )
 }
 
-export default Manga;
+export default Anime;

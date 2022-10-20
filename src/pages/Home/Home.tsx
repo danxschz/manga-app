@@ -28,7 +28,7 @@ const Home = () => {
                 admirers to madness; Uzumaki, a series about a town obsessed with spirals; and Gyo, a story in 
                 which fish are controlled by a strain of sentient bacteria.
               </p>
-              <Button text="Ito's Works" onClick={createMangaList}/>
+              <Button text="Check his work" to="/manga" onClick={createMangaList}/>
             </div>
             <DecorCircle />
             <div className={styles.text}></div>

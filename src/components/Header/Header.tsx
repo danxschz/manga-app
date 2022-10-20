@@ -9,8 +9,8 @@ const Header = () => {
         <nav className={styles.nav}>
           <ul>
             <li><Link to="/manga">Manga</Link></li>
-            <li><a href="adapt">Adaptations</a></li>
-            <li><a href="about">About</a></li>
+            <li><Link to="/anime">Anime</Link></li>
+            <li><Link to="/my-list">My List</Link></li>
           </ul>
         </nav>
         <Link to="/" className={styles.logo}>Ito Horrors</Link>
