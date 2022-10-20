@@ -78,7 +78,12 @@ const createMangaList = () => {
       reviews.push(reviewObj);
     }
 
-    const { chapters, volumes, status, published, demographics, genres, title_synonyms, external } = data;
+    const { chapters, volumes, status, published, genres, demographics, title_synonyms, external } = data;
+
+    const genresArr: string[] = [];
+    for (const item of genres) {
+      genresArr.push(item.name);
+    }
 
     const demographicsArr: string[] = [];
     for (const item of demographics) {
@@ -88,13 +93,8 @@ const createMangaList = () => {
     const mangadexEntry: any = mangaComplement.find((i: any) => +i.attributes.links.mal === mal_id);
     const { attributes: mangadexAttributes } = mangadexEntry || {};
     const { contentRating, links } = mangadexAttributes || {};
-    const content_rating = (contentRating) ? contentRating : null;
+    const rating = (contentRating) ? contentRating : null;
 
-    const genresArr: string[] = [];
-    for (const item of genres) {
-      genresArr.push(item.name);
-    }
-    
     const mangaLinks = {
       amazon: (links && links.amz) ? links.amz : null,
       viz: (links && links.engtl) ? links.engtl : null,
@@ -111,7 +111,7 @@ const createMangaList = () => {
       genres: genresArr,
       demographics: demographicsArr,
       alt_titles: title_synonyms,
-      content_rating,
+      rating,
       links: mangaLinks
     }
 

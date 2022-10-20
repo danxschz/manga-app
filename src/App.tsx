@@ -5,6 +5,7 @@ import Home from './pages/Home/Home';
 import Manga from './pages/Manga/Manga';
 import MangaDetail from './pages/MangaDetail/MangaDetail';
 import Anime from './pages/Anime/Anime';
+import AnimeDetail from './pages/AnimeDetail/AnimeDetail';
 import Footer from './components/Footer/Footer';
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
           <Route path="/manga" element={<Manga />} />
           <Route path="/manga/:slug" element={<MangaDetail />} />
           <Route path="/anime" element={<Anime />} />
+          <Route path="/anime/:slug" element={<AnimeDetail />} />
         </Routes>
         <Footer />
       </div>

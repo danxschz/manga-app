@@ -1,5 +1,5 @@
 import styles from './Reviews.module.scss';
-import ButtonDark from '../../../components/ButtonDark/ButtonDark';
+import ButtonDark from '../ButtonDark/ButtonDark';
 
 const toggleText = (e: React.MouseEvent<HTMLButtonElement>) => {
   const parentDiv = e.currentTarget.parentElement;
@@ -34,7 +34,7 @@ const Reviews = (props: Props) => {
         <div className={styles.review} key={item.username}>
           <div className={styles.username}>
             <strong>{item.username}</strong>
-            <div className={styles.date}>{item.date}</div>
+            <div>{item.date}</div>
           </div>
           {(item.review.length > 600) ? 
             <p>

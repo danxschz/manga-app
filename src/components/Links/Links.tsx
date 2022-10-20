@@ -2,7 +2,7 @@ import styles from './Links.module.scss';
 
 interface Props {
   links: {
-    [key: string]: string | null
+    [key: string]: string | null | undefined,
   },
 }
 
@@ -14,7 +14,7 @@ const Links = (props: Props) => {
       <div className={styles.property}>Links</div>
       <div className={styles.content}>
       {Object.entries(links).map(([key, value]) => {
-        if (value) return <a href={value} target="_blank" rel="noreferrer" key={key}>{key}</a>;
+        if (value) return <a href={value} target="_blank" rel="noreferrer" key={key}>{key.replace('_', ' ')}</a>;
         else return null
       })}
       </div>

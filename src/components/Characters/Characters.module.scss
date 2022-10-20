@@ -1,0 +1,36 @@
+@use '../../assets/shared' as *;
+
+.characters {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.character {
+  @include flex-row(1rem, null, space-between);
+
+  > div {
+    @include flex-row(0.8rem);
+
+    img {
+      width: max(12%, 45px);
+    }
+  }
+}
+
+.info {
+  @include flex-col(0.5rem);
+
+  div:first-child {
+    font-size: 0.88rem;
+  }
+
+  div:last-child {
+    font-size: 0.85rem;
+  }
+}
+
+.actor {
+  justify-content: flex-end;
+  text-align: right;
+}

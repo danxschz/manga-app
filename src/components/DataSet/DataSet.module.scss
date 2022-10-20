@@ -1,4 +1,4 @@
-@use '../../../assets/shared' as *;
+@use '../../assets/shared' as *;
 
 .data {
   @include flex-col(0.6rem);

@@ -1,5 +1,5 @@
-import styles from './MangaDetail.module.scss';
-import manga from '../../data/manga.json';
+import styles from './AnimeDetail.module.scss';
+import anime from '../../data/anime.json';
 import { useLocation } from 'react-router-dom';
 import useDocTitle from '../../hooks/useDocTitle';
 import PageHeading from '../../components/PageHeading/PageHeading';
@@ -9,13 +9,13 @@ import Relations from '../../components/Relations/Relations';
 import Characters from '../../components/Characters/Characters';
 import Reviews from '../../components/Reviews/Reviews';
 
-const MangaDetail = () => {
+const AnimeDetail = () => {
   const { state } = useLocation();
   const id = state.id;
-  const item: Manga | undefined = manga.find((i) => i.id === id);
+  const item: Anime | undefined = anime.find((i) => i.id === id);
 
   const { title, img, synopsis, background, relations, characters, reviews, attributes } = item || {};
-  const { chapters, volumes, status, published, genres, demographics, alt_titles, rating, links } = attributes || {};
+  const { type, episodes, status, aired, studios, source, genres, demographics, alt_titles, duration, rating, links } = attributes || {};
 
   const docTitle = (title) ? title : 'Loading';
   useDocTitle(docTitle);
@@ -26,13 +26,16 @@ const MangaDetail = () => {
         <PageHeading img={img.large} title={title} button />
         <div className={styles.info}>
           <div className={styles.column}>
-            {(chapters) ? <DataSet property='Chapters' value={chapters} /> : null}
-            {(volumes) ? <DataSet property='Volumes' value={volumes} /> : null}
+            {(type) ? <DataSet property='Type' value={type} /> : null}
+            {(episodes) ? <DataSet property='Episodes' value={episodes} /> : null}
             {(status) ? <DataSet property='Status' value={status} /> : null}
-            {(published) ? <DataSet property='Published' value={published} /> : null}
+            {(aired) ? <DataSet property='Aired' value={aired} /> : null}
+            {(studios && studios.length) ? <DataSet property={(studios.length > 1) ? 'Studios' : 'Studio'} value={studios.join(', ')} /> : null}
+            {(source) ? <DataSet property='Source' value={source} /> : null}
             {(genres && genres.length) ? <DataSet property={(genres.length > 1) ? 'Genres' : 'Genre'} value={genres.join(', ')} /> : null}
             {(demographics && demographics.length) ? <DataSet property={(demographics.length > 1) ? 'Demographics' : 'Demographic'} value={demographics.join(', ')} /> : null}
             {(alt_titles && alt_titles.length) ? <DataSet property='Alternative Titles' value={alt_titles.join(', ')} /> : null}
+            {(duration) ? <DataSet property='Duration' value={duration} /> : null}
             {(rating) ? <DataSet property='Rating' value={rating} /> : null}
             {(links && Object.keys(links).length) ? <Links links={links} /> : null}
           </div>
@@ -68,4 +71,4 @@ const MangaDetail = () => {
   else return null
 }
 
-export default MangaDetail;
+export default AnimeDetail;

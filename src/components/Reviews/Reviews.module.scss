@@ -1,4 +1,4 @@
-@use '../../../assets/shared' as *;
+@use '../../assets/shared' as *;
 
 .reviews {
   @include flex-col(1rem);
@@ -29,8 +29,4 @@
   strong {
     font-weight: 400;
   }
-}
-
-#more {
-  display: none;
 }

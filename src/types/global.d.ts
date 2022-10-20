@@ -23,15 +23,15 @@ interface Review {
   rating: number,
 }
 
-interface Attributes {
+interface AttributesManga {
   chapters: number | null,
   volumes: number | null,
   status: string,
   published: string,
-  demographics: string[],
-  content_rating: string | null,
   genres: string[],
+  demographics: string[],
   alt_titles: string[],
+  rating: string | null,
   links: {
     [key: string]: string | null
   },
@@ -50,7 +50,7 @@ interface Manga {
   relations: Relation[],
   characters: Character[],
   reviews: Review[],
-  attributes: Attributes,
+  attributes: AttributesManga,
 }
 
 interface AttributesAnime {
