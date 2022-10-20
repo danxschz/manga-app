@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.content}>
-        <p>Copyright © 2022 Ito Horrors</p>
+        <p><span>Copyright </span>© 2022 Ito Horrors</p>
       </div>
       <img src={footer} alt="" />
     </footer>

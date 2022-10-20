@@ -23,3 +23,22 @@
     text-transform: capitalize;
   }
 }
+
+@media (max-width: 600px) {
+  .work {
+    margin-block: 4rem;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .description {
+    max-width: 100%;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+  }
+
+  .inv {
+    grid-row: 1/2;
+  }
+}

@@ -19,3 +19,21 @@
   padding-block: 1.8rem;
   font-size: 0.95rem;
 }
+
+@media (max-width: 600px) {
+  .footer {
+    margin-top: 4rem;
+    
+    span {
+      display: none;
+    }
+
+    img {
+      width: 55%
+    }
+  }
+
+  .content {
+    width: 94%;
+  }
+}

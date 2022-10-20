@@ -31,7 +31,7 @@ const Home = () => {
               <Button text="Check his work" to="/manga" onClick={createMangaList}/>
             </div>
             <DecorCircle />
-            <div className={styles.text}></div>
+            <div></div>
           </div>
           <img src={info} alt="" />
         </div>

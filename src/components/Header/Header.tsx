@@ -15,6 +15,7 @@ const Header = () => {
         </nav>
         <Link to="/" className={styles.logo}>Ito Horrors</Link>
         <ButtonDark text="Log in" />
+        <button className={styles.button}><i className="fa-solid fa-bars"></i></button>
       </div>
     </header>
   )

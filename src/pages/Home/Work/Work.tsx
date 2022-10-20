@@ -53,7 +53,7 @@ const Work = (props: Props) => {
         <p>{desc}</p>
         <Button text="View more" to={to} id={id} />
       </div>
-      {(inverted) ? <img src={img1} alt="" /> : null}
+      {(inverted) ? <img src={img1} alt="" className={styles.inv} /> : null}
     </div>
   )
 }

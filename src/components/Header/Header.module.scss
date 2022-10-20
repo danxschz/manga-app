@@ -41,6 +41,14 @@
   }
 }
 
+.button {
+  border: none;
+  background: none;
+  color: $clr-neutral-100;
+  padding-block: 0.1rem;
+  display: none;
+}
+
 // Logo hover animation
 @keyframes hvr-buzz {
   50% {
@@ -49,5 +57,31 @@
 
   100% {
     transform: translateX(-3px) rotate(-2deg);
+  }
+}
+
+@media (max-width: 600px) {
+  .content {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    justify-items: right;
+    align-items: end;
+    width: 94%;
+
+    button:nth-child(3) {
+      display: none;
+    }
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .logo {
+    grid-column: 2/3;
+  }
+
+  .button {
+    display: block;
   }
 }

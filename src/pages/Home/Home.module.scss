@@ -43,3 +43,38 @@
   width: min(90%, 1500px);
   margin-inline: auto;
 }
+
+@media (max-width: 600px) {
+  .hero > div:first-child {
+    width: 94%;
+  }
+
+  .info {
+    margin-block: 4rem;
+    align-items: flex-end;
+
+    img {
+      width: 60%;
+    }
+  }
+
+  .content {
+    grid-template-columns: 1fr;
+    width: 94%;
+    padding-bottom: 18vw;
+
+    > div:nth-child(2) {
+      visibility: hidden;
+    }
+  }
+
+  .text {
+    text-align: center;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .works {
+    width: 94%;
+  }
+}

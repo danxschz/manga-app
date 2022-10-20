@@ -10,3 +10,13 @@
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   margin-bottom: 7rem;
 }
+
+@media (max-width: 600px) {
+  .content {
+    width: 94%;
+  }
+
+  .manga {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  }
+}
