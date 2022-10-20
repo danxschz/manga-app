@@ -1,14 +1,15 @@
 import styles from './Characters.module.scss';
 
 interface Props {
-  characters: Character[]
+  characters: Character[],
+  actors?: boolean,
 }
 
 const Characters = (props: Props) => {
-  const { characters } = props;
+  const { characters, actors } = props;
 
   return (
-    <div className={styles.characters}>
+    <div className={(actors) ? `${styles.characters} ${styles.actors}` : styles.characters}>
       {characters.slice(0, 10).map((item) => {
         const { name, role, img, voice_actor } = item;
 

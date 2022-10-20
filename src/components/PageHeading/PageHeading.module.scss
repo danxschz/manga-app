@@ -32,6 +32,19 @@
     margin-block: 3rem;
   }
 
+  .title_button {
+    grid-template-columns: 1fr;
+
+    button {
+      grid-row: 2 / 3;
+    }
+
+    h1 {
+      grid-row: 3 / 4;
+      width: auto;
+    }
+  }
+
   h1 {
     width: min-content;
   }

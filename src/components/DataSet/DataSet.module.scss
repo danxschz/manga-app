@@ -8,3 +8,13 @@
 .property {
   font-weight: 400;
 }
+
+@media (max-width: 600px) {
+  .property {
+    white-space: nowrap;
+  }
+
+  .value {
+    white-space: nowrap;
+  }
+}

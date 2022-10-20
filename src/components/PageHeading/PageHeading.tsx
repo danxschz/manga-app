@@ -25,7 +25,7 @@ const PageHeading = (props: Props) => {
   )
 
   else if (button) return (
-    <div className={styles.title}>
+    <div className={`${styles.title} ${styles.title_button}`}>
       <img src={img} alt={alt} />
       <h1>{title}</h1>
       <ButtonDark text="Add to list" />

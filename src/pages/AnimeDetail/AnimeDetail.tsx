@@ -25,7 +25,7 @@ const AnimeDetail = () => {
       <div className={styles.content}>
         <PageHeading img={img.large} title={title} button />
         <div className={styles.info}>
-          <div className={styles.column}>
+          <div className={styles.attributes}>
             {(type) ? <DataSet property='Type' value={type} /> : null}
             {(episodes) ? <DataSet property='Episodes' value={episodes} /> : null}
             {(status) ? <DataSet property='Status' value={status} /> : null}
@@ -56,7 +56,7 @@ const AnimeDetail = () => {
             : null}
             <div className={styles.section}>
               <h2>Characters</h2>
-              {(characters && characters.length) ? <Characters characters={characters} /> : <p>No character information is available for this title.</p>}
+              {(characters && characters.length) ? <Characters characters={characters} actors /> : <p>No character information is available for this title.</p>}
             </div>
             <div className={styles.section}>
               <h2>Reviews</h2>

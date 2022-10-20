@@ -15,4 +15,9 @@
   .content {
     width: 94%;
   }
+
+  .anime {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    margin-bottom: 0;
+  }
 }

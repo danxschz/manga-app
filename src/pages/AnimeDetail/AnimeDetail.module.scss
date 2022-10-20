@@ -12,7 +12,7 @@
   gap: 3rem;
 }
 
-.column {
+.attributes {
   @include flex-col(1.2rem);
 }
 
@@ -29,5 +29,23 @@
   p {
     white-space: pre-wrap;
     font-size: 0.93rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .content {
+    width: 94%;
+  }
+
+  .info {
+    margin-block: 3rem;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .attributes {
+    flex-direction: row;
+    gap: 1.5rem;
+    overflow: auto;
   }
 }
