@@ -1,4 +1,5 @@
 import styles from './Header.module.scss';
+import openNav from '../MobileNav/openNav';
 import { Link } from 'react-router-dom';
 import ButtonDark from '../ButtonDark/ButtonDark';
 
@@ -15,7 +16,7 @@ const Header = () => {
         </nav>
         <Link to="/" className={styles.logo}>Ito Horrors</Link>
         <ButtonDark text="Log in" />
-        <button className={styles.button}><i className="fa-solid fa-bars"></i></button>
+        <button className={styles.button} onClick={openNav}><i className="fa-solid fa-bars"></i></button>
       </div>
     </header>
   )

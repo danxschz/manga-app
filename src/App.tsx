@@ -7,6 +7,7 @@ import MangaDetail from './pages/MangaDetail/MangaDetail';
 import Anime from './pages/Anime/Anime';
 import AnimeDetail from './pages/AnimeDetail/AnimeDetail';
 import Footer from './components/Footer/Footer';
+import MobileNav from './components/MobileNav/MobileNav';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
           <Route path="/anime/:slug" element={<AnimeDetail />} />
         </Routes>
         <Footer />
+        <MobileNav />
       </div>
     </BrowserRouter>
   );

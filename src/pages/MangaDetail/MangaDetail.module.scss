@@ -12,7 +12,7 @@
   gap: 3rem;
 }
 
-.column {
+.attributes {
   @include flex-col(1.2rem);
 }
 
@@ -43,7 +43,7 @@
     gap: 2rem;
   }
 
-  .column {
+  .attributes {
     flex-direction: row;
     gap: 1.5rem;
     overflow: auto;

@@ -25,7 +25,7 @@ const MangaDetail = () => {
       <div className={styles.content}>
         <PageHeading img={img.large} title={title} button />
         <div className={styles.info}>
-          <div className={styles.column}>
+          <div className={styles.attributes}>
             {(chapters) ? <DataSet property='Chapters' value={chapters} /> : null}
             {(volumes) ? <DataSet property='Volumes' value={volumes} /> : null}
             {(status) ? <DataSet property='Status' value={status} /> : null}
