@@ -14,15 +14,28 @@
     },
     {
         "type": "manga",
-        "id": 436,
+        "id": 3992,
         "status": "reading",
-        "score": 9,
+        "score": 7,
         "work": {
-            "img": "https://cdn.myanimelist.net/images/manga/3/185972.jpg",
-            "title": "Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki",
-            "slug": "uzumaki-spiral-into-horror",
-            "progress": 13,
-            "chapters": 19
+            "img": "https://cdn.myanimelist.net/images/manga/3/235820.jpg",
+            "title": "Remina",
+            "slug": "remina",
+            "progress": 6,
+            "chapters": 7
+        }
+    },
+    {
+        "type": "manga",
+        "id": 132675,
+        "status": "planning",
+        "score": null,
+        "work": {
+            "img": "https://cdn.myanimelist.net/images/manga/2/239618.jpg",
+            "title": "Horror Anthology Comic Shikaku",
+            "slug": "horror-anthology-comic-shikaku",
+            "progress": 0,
+            "chapters": 9
         }
     }
 ]

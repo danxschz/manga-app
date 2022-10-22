@@ -26,10 +26,24 @@
 .title {
   color: $clr-neutral-100;
   text-decoration: none;
-  width: max-content;
+  width:fit-content;
 }
 
 .center {
   text-align: center;
   text-transform: capitalize;
+}
+
+@media (max-width: 600px) {
+  .item {
+    grid-template-columns: 1fr 2fr 1fr;
+
+    a:first-child {
+      width: 50%;
+    }
+
+    div:nth-child(3), div:last-child {
+      display: none;
+    }
+  }
 }

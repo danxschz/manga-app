@@ -21,7 +21,7 @@ const ListSection = (props: Props) => {
           <div className={styles.center}>Type</div>
         </div>
         {items.map((item) => {
-          return <ListItem item={item} />
+          return <ListItem item={item} completed={(status === 'completed') ? true : false} />
         })}
       </div>
     </section>

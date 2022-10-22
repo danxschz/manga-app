@@ -26,3 +26,22 @@
 .center {
   text-align: center;
 }
+
+@media (max-width: 600px) {
+  .section {
+    width: 100%;
+    margin-block: 2rem;
+
+    &:last-child {
+      margin-bottom: 3rem;
+    }
+  }
+
+  .headings {
+    grid-template-columns: 1fr 2fr 1fr;
+
+    div:nth-child(3), div:last-child {
+      display: none;
+    }
+  }
+}

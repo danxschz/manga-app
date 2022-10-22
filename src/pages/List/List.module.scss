@@ -8,3 +8,9 @@
 .empty {
   @include flex-col(2rem, center);
 }
+
+@media (max-width: 600px) {
+  .content {
+    width: 94%;
+  }
+}

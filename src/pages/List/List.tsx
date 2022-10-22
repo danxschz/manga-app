@@ -1,5 +1,5 @@
 import styles from './List.module.scss';
-import img from '../../assets/img/anime.webp';
+import img from '../../assets/img/list.jpg';
 import listSample from '../../data/list.json';
 import useDocTitle from '../../hooks/useDocTitle';
 import { useState } from 'react';

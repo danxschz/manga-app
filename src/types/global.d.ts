@@ -90,7 +90,7 @@ interface ListItem {
   type: string,
   id: number,
   status: string,
-  score: number,
+  score: number | null,
   work: {
     img: string,
     title: string,
