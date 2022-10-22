@@ -85,3 +85,17 @@ interface Anime {
   reviews: Review[],
   attributes: AttributesAnime,
 }
+
+interface ListItem {
+  type: string,
+  id: number,
+  status: string,
+  score: number,
+  work: {
+    img: string,
+    title: string,
+    slug: string,
+    progress: number,
+    chapters: number,
+  }
+}

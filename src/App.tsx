@@ -6,6 +6,7 @@ import Manga from './pages/Manga/Manga';
 import MangaDetail from './pages/MangaDetail/MangaDetail';
 import Anime from './pages/Anime/Anime';
 import AnimeDetail from './pages/AnimeDetail/AnimeDetail';
+import List from './pages/List/List';
 import Footer from './components/Footer/Footer';
 import MobileNav from './components/MobileNav/MobileNav';
 
@@ -21,6 +22,7 @@ const App = () => {
           <Route path="/manga/:slug" element={<MangaDetail />} />
           <Route path="/anime" element={<Anime />} />
           <Route path="/anime/:slug" element={<AnimeDetail />} />
+          <Route path="/my-list" element={<List />} />
         </Routes>
         <Footer />
         <MobileNav />

@@ -1,0 +1,10 @@
+@use '../../assets/shared' as *;
+
+.content {
+  width: min(90%, 1500px);
+  margin-inline: auto;
+}
+
+.empty {
+  @include flex-col(2rem, center);
+}

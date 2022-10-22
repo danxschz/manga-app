@@ -1,0 +1,28 @@
+[
+    {
+        "type": "manga",
+        "id": 436,
+        "status": "completed",
+        "score": 9,
+        "work": {
+            "img": "https://cdn.myanimelist.net/images/manga/3/185972.jpg",
+            "title": "Uzumaki: Spiral into Horror",
+            "slug": "uzumaki-spiral-into-horror",
+            "progress": 13,
+            "chapters": 19
+        }
+    },
+    {
+        "type": "manga",
+        "id": 436,
+        "status": "reading",
+        "score": 9,
+        "work": {
+            "img": "https://cdn.myanimelist.net/images/manga/3/185972.jpg",
+            "title": "Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki",
+            "slug": "uzumaki-spiral-into-horror",
+            "progress": 13,
+            "chapters": 19
+        }
+    }
+]
