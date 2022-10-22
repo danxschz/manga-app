@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0530d67c.css",
+    "main.css": "/static/css/main.32bee85c.css",
     "main.js": "/static/js/main.c12b9842.js",
     "static/media/gyo.png": "/static/media/gyo.69189ff9f6365da734d5.png",
     "static/media/uzumaki.png": "/static/media/uzumaki.dc8d3bb5920e60573bff.png",
@@ -16,11 +16,11 @@
     "static/media/gyo2.jpg": "/static/media/gyo2.dcb43cf3ff62b5ae720e.jpg",
     "static/media/anime.webp": "/static/media/anime.86f13022e4bf4cb174da.webp",
     "index.html": "/index.html",
-    "main.0530d67c.css.map": "/static/css/main.0530d67c.css.map",
+    "main.32bee85c.css.map": "/static/css/main.32bee85c.css.map",
     "main.c12b9842.js.map": "/static/js/main.c12b9842.js.map"
   },
   "entrypoints": [
-    "static/css/main.0530d67c.css",
+    "static/css/main.32bee85c.css",
     "static/js/main.c12b9842.js"
   ]
 }
