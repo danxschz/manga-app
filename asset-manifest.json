@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0530d67c.css",
+    "main.js": "/static/js/main.c12b9842.js",
+    "static/media/gyo.png": "/static/media/gyo.69189ff9f6365da734d5.png",
+    "static/media/uzumaki.png": "/static/media/uzumaki.dc8d3bb5920e60573bff.png",
+    "static/media/tomie.png": "/static/media/tomie.3398ab8ac1674696686f.png",
+    "static/media/footer.png": "/static/media/footer.0ad753e7007240020976.png",
+    "static/media/info.png": "/static/media/info.52120d362ed5d43b4485.png",
+    "static/media/list.jpg": "/static/media/list.27dbf27128592ffe442d.jpg",
+    "static/media/hero.jpg": "/static/media/hero.49f3114d1337d20bdce8.jpg",
+    "static/media/manga.jpg": "/static/media/manga.88d1688457a2fe52c1d1.jpg",
+    "static/media/nav.png": "/static/media/nav.065158ae0f5bdf26dc35.png",
+    "static/media/tomie2.jpg": "/static/media/tomie2.087b4012278a9149b74e.jpg",
+    "static/media/uzumaki2.jpg": "/static/media/uzumaki2.0458d12aa8a971585c60.jpg",
+    "static/media/gyo2.jpg": "/static/media/gyo2.dcb43cf3ff62b5ae720e.jpg",
+    "static/media/anime.webp": "/static/media/anime.86f13022e4bf4cb174da.webp",
+    "index.html": "/index.html",
+    "main.0530d67c.css.map": "/static/css/main.0530d67c.css.map",
+    "main.c12b9842.js.map": "/static/js/main.c12b9842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0530d67c.css",
+    "static/js/main.c12b9842.js"
+  ]
+}
